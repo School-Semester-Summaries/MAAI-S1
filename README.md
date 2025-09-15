@@ -43,3 +43,9 @@ ontwikkelen.
 - Je kan elke docent feedback vragen wanneer je wilt
 - Bekijk de individuele coaching handleiding
 - Zelfreflectie formulier invullen
+
+15 September
+| Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
+|-------|---------|------------------|------------------------|---------------------|-------------------------|
+| 15/09/2025 | Lamia Elloumi | Feedback on **Online Personal Repository** | Online Repository bijgewerkt, Added the T, A and R sections to my Online Repository | I can't conclude anything before asking feedback again | This README.md |
+|       |         |                  |                        |                     |                         |
