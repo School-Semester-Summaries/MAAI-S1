@@ -9,6 +9,16 @@ beslissingen, aanpassingen),
 voortgangsgesprekken),
 • en welke conclusies en inzichten dit oplevert voor je professionele groei.
 
+### Feedback noteren
+Verzamel tijdens het blok feedback van coaches, collega's en gebruikers. Schrijf voor
+elk feedbackpunt op:
+• Wat de feedback was.
+• Waar het over ging (bijv. code, onderzoek, teamwork).
+• Hoe het verband houdt met je leerdoelen.
+• Wat je ermee hebt gedaan (accepteren, aanpassen, verder onderzoeken).
+Dit laat zien dat je actief bezig bent met het verwerken van feedback om jezelf te
+ontwikkelen.
+
 # Table of Contents
 - [STARRT](#starrt---intake)
 - [Logboek](#logboek)
@@ -28,10 +38,10 @@ Ik heb een individuele planning gemaakt. Met deze planning kan ik ervoor zorgen 
 ...
 
 # Logboek
-8 September 2025 - Team Coaching with David
+8 September 2025 - Team Coaching with David (Dit was geen feedback)
 - David heeft ons in grote lijnen uitgelegd hoe group coaching werkt
 
-12 September 2025 - Individual Coaching with Lamia
+12 September 2025 - Individual Coaching with Lamia (Dit was geen feedback)
 - Je kan elke docent feedback vragen wanneer je wilt
 - Bekijk de individuele coaching handleiding
 - Zelfreflectie formulier invullen
