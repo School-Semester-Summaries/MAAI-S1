@@ -1,5 +1,5 @@
 # MAAI - Kaan G. (Online Personal Repository)
-
+<!--
 ### Note
 Om dit leerresultaat te behalen, moet je logboek laten zien:
 • hoe je je activiteiten koppelt aan leerresultaten,
@@ -18,7 +18,7 @@ elk feedbackpunt op:
 • Wat je ermee hebt gedaan (accepteren, aanpassen, verder onderzoeken).
 Dit laat zien dat je actief bezig bent met het verwerken van feedback om jezelf te
 ontwikkelen.
-
+-->
 # Table of Contents
 - [STARRT](#starrt---intake)
 - [Logboek](#logboek)
