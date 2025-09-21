@@ -30,7 +30,7 @@ ontwikkelen.
 |--------------|------------|
 | A1 | Research how supermarkets currently handle this case |
 | A2 | As a group we formulated the requirements of our project case |
-| A2 | In the first m&t exercise, I formulated functional and technical requirements |
+|    | In the first m&t exercise, I formulated functional and technical requirements |
 | A3 | - |
 | A4 | - |
 | B1 | In the first m&t exercise, I performed data analysis |
@@ -39,7 +39,7 @@ ontwikkelen.
 | C1 | - |
 | C2 | In the first m&t exercise, I evaluated the quality of my AI-model |
 | D1 | I asked feedback about my Individual Portfolio |
-| D1 | As a group, we asked feedback about our planning and plan van aanpak |
+|    | As a group, we asked feedback about our planning and plan van aanpak |
 | D2 | - |
 | D3 | - |
 
