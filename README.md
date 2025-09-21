@@ -47,5 +47,5 @@ ontwikkelen.
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? |  | Voorbeelden / plan |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
-# Conclusies en Inzichten
+# Conclusies & Inzichten
 -
