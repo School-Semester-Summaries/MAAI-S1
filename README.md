@@ -28,7 +28,20 @@ ontwikkelen.
 # Activiteiten & Leeruitkomsten
 | Leeruitkomst | Activiteit |
 |--------------|------------|
-| h | h |
+| A1 | Research how supermarkets currently handle this case |
+| A2 | As a group we formulated the requirements of our project case |
+| A2 | In the first m&t exercise, I formulated functional and technical requirements |
+| A3 | - |
+| A4 | - |
+| B1 | In the first m&t exercise, I performed data analysis |
+| B2 | In the first m&t exercise, I used my requirements to create an AI-Architecture |
+| B3 | In the first m&t exercise, I created an AI-model |
+| C1 | - |
+| C2 | In the first m&t exercise, I evaluated the quality of my AI-model |
+| D1 | I asked feedback about my Individual Portfolio |
+| D1 | As a group, we asked feedback about our planning and plan van aanpak |
+| D2 | - |
+| D3 | - |
 
 # Feedback
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
