@@ -20,10 +20,10 @@ Dit laat zien dat je actief bezig bent met het verwerken van feedback om jezelf 
 ontwikkelen.
 -->
 # Table of Contents
-- [Activiteiten & Leeruitkomsten](#activiteiten-&-leeruitkomsten)
+- [Activiteiten & Leeruitkomsten](#activiteiten--leeruitkomsten)
 - [Feedback](#feedback)
 - [STARRT](#starrt---intake)
-- [Conclusies & Inzichten](#conclusies-&-inzichten)
+- [Conclusies & Inzichten](#conclusies--inzichten)
 
 # Activiteiten & Leeruitkomsten
 | Leeruitkomst | Activiteit |
