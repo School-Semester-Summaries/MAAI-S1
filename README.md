@@ -20,8 +20,21 @@ Dit laat zien dat je actief bezig bent met het verwerken van feedback om jezelf 
 ontwikkelen.
 -->
 # Table of Contents
+- [Activiteiten & Leeruitkomsten](#activiteiten-&-leeruitkomsten)
+- [Feedback](#feedback)
 - [STARRT](#starrt---intake)
-- [Logboek](#logboek)
+- [Conclusies & Inzichten](#conclusies-&-inzichten)
+
+# Activiteiten & Leeruitkomsten
+| Leeruitkomst | Activiteit |
+|--------------|------------|
+| h | h |
+
+# Feedback
+| Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
+|-------|---------|------------------|------------------------|---------------------|-------------------------|
+| 15/09/2025 | Lamia Elloumi | Feedback on **Online Personal Repository** | Online Repository bijgewerkt, Added the T, A and R sections to my Online Repository | I can't conclude anything before asking feedback again | This README.md |
+|       |         |                  |                        |                     |                         |
 
 # STARRT - Intake
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
@@ -34,18 +47,5 @@ ontwikkelen.
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? |  | Voorbeelden / plan |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
-
-# Logboek
-8 September 2025 - Team Coaching with David (Dit was geen feedback)
-- David heeft ons in grote lijnen uitgelegd hoe group coaching werkt
-
-12 September 2025 - Individual Coaching with Lamia (Dit was geen feedback)
-- Je kan elke docent feedback vragen wanneer je wilt
-- Bekijk de individuele coaching handleiding
-- Zelfreflectie formulier invullen
-
-15 September
-| Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
-|-------|---------|------------------|------------------------|---------------------|-------------------------|
-| 15/09/2025 | Lamia Elloumi | Feedback on **Online Personal Repository** | Online Repository bijgewerkt, Added the T, A and R sections to my Online Repository | I can't conclude anything before asking feedback again | This README.md |
-|       |         |                  |                        |                     |                         |
+# Conclusies en Inzichten
+-
