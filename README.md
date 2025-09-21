@@ -42,6 +42,10 @@ ontwikkelen.
 |    | As a group, we asked feedback about our planning and plan van aanpak |
 | D2 | - |
 | D3 | - |
+| ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
+|    | create the group planning | 
+|    | keeping notes during meetings with our group coach |
+|    | Reviewed all the parts my peers worked on |
 
 # Feedback
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
