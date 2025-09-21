@@ -46,6 +46,7 @@ ontwikkelen.
 |    | create the group planning | 
 |    | keeping notes during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
+|    | As a group we did paper prototyping |
 
 # Feedback
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
