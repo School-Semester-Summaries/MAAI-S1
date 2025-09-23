@@ -54,7 +54,8 @@ ontwikkelen.
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
 |-------|---------|------------------|------------------------|---------------------|-------------------------|
 | 15/09/2025 | Lamia Elloumi | Feedback on **Online Personal Repository** | Online Repository bijgewerkt, Added the T, A and R sections to my Online Repository | I can't conclude anything before asking feedback again | This README.md |
-|       |         |                  |                        |                     |                         |
+| 15/09/2025 | David van Dijk |                  |                        |                     |                         |
+| 23/09/2025 | David van Dijk |                  |                        |                     |                         |
 
 # STARRT - Intake
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
