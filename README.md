@@ -44,9 +44,11 @@ ontwikkelen.
 | D3 | - |
 | ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | create the group planning | 
+|    | Update planning by adding tasks | 
 |    | keeping notes during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
-|    | As a group we did paper prototyping |
+|    | As a group we did paper prototyping | 
+
 
 # Feedback
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
