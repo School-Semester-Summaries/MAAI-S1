@@ -48,6 +48,8 @@ ontwikkelen.
 |    | keeping notes during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
 |    | As a group we did paper prototyping | 
+|    | EDA | 
+
 
 
 # Feedback
