@@ -34,6 +34,7 @@ ontwikkelen.
 | A3 | - |
 | A4 | - |
 | B1 | In the first m&t exercise, I performed data analysis |
+|    | For the group project, I performed an EDA on the FGNET dataset |
 | B2 | In the first m&t exercise, I used my requirements to create an AI-Architecture |
 | B3 | In the first m&t exercise, I created an AI-model |
 | C1 | - |
@@ -48,7 +49,6 @@ ontwikkelen.
 |    | keeping notes during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
 |    | As a group we did paper prototyping | 
-|    | EDA | 
 
 
 
