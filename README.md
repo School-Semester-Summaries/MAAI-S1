@@ -39,6 +39,7 @@ ontwikkelen.
 | B3 | In the first m&t exercise, I created an AI-model |
 | C1 | - |
 | C2 | In the first m&t exercise, I evaluated the quality of my AI-model |
+| C3 | As a group we did paper prototyping |
 | D1 | I asked feedback about my Individual Portfolio |
 |    | As a group, we asked feedback about our planning and plan van aanpak |
 | D2 | - |
