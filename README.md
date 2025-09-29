@@ -29,10 +29,12 @@ ontwikkelen.
 | Leeruitkomst | Activiteit |
 |--------------|------------|
 | A1 | Research how supermarkets currently handle this case |
+|    | Reviewed the paragraph Leon wrote about "Gebruikersonderzoek" |
+|    | Reviewed the paragraph Merve wrote about "Basiskennis" |
 | A2 | As a group we formulated the requirements of our project case |
 |    | In the first m&t exercise, I formulated functional and technical requirements |
 | A3 | - |
-| A4 | - |
+| A4 | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
 | B1 | In the first m&t exercise, I performed data analysis |
 |    | For the group project, I performed an EDA on the FGNET dataset |
 | B2 | In the first m&t exercise, I used my requirements to create an AI-Architecture |
@@ -47,8 +49,9 @@ ontwikkelen.
 | ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | create the group planning | 
 |    | Update planning by adding tasks | 
-|    | keeping notes during meetings with our group coach |
+|    | keeping notes weekly during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
+|    | wekelijks agendapunten communiceren |
 
 
 
