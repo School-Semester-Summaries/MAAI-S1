@@ -39,6 +39,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | A4 | G | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
 | B1 | I | In the first m&t exercise, I performed data analysis |
 |    | G | Performed an EDA on the FGNET dataset |
+|    | G | Explained why FGNET isn't the best choice in paragraph "FGNET" |
 |    | G | Reviewed the paragraph "Data" |
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture |
 | B3 | I | In the first m&t exercise, I created an AI-model |
