@@ -44,6 +44,7 @@ ontwikkelen.
 | C3 | As a group we did paper prototyping |
 | D1 | I asked feedback about my Individual Portfolio |
 |    | As a group, we asked feedback about our planning and plan van aanpak |
+|    | Send David the Agendapoints on a weekly basis for the group coaching meeting |
 | D2 | - |
 | D3 | - |
 | ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
@@ -51,7 +52,6 @@ ontwikkelen.
 |    | Update planning by adding tasks | 
 |    | keeping notes weekly during meetings with our group coach |
 |    | Reviewed all the parts my peers worked on |
-|    | wekelijks agendapunten communiceren |
 
 
 
