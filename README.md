@@ -27,8 +27,8 @@ ontwikkelen.
 
 # Activiteiten & Leeruitkomsten
 Per learning outcome I tried to order all the activities from most relevant to least relevant, with most relevant being exercises or paragraphs I worked on, and less relevant activities being reviews.
-| Leeruitkomst | Individual / Group | Activiteit |
-|--------------|------------|--------------------|
+| Leeruitkomst | I/G | Activiteit |
+|--------------|---|--------------------|
 | A1 | G | Research how supermarkets currently handle this case |
 |    | G | Wrote the paragraph "Value Proposition" |
 |    | G | Reviewed the paragraph Leon wrote about "Gebruikersonderzoek" |
@@ -50,11 +50,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
 | D2 | - |
 | D3 | - |
-| ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
-|    | create the group planning | 
-|    | Update planning by adding tasks | 
-|    | keeping notes weekly during meetings with our group coach |
-|    | Reviewed all the parts my peers worked on |
+| ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
+|    | G | create the group planning | 
+|    | G | Update planning by adding tasks | 
+|    | G | keeping notes weekly during meetings with our group coach |
+|    | G | Usually being the one leading the group feedback coaching |
 
 
 
