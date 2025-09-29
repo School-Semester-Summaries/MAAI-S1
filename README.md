@@ -46,15 +46,15 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
 | C3 | G | As a group we did paper prototyping |
 | D1 | I | I asked feedback about my Individual Portfolio |
-|    | G | Asked David feedback on a weekly basis |
+|    | G | Leading the coaching meetings most of the times |
+|    | G | Keeping notes during coaching meetings with David |
+|    | G | Ask David feedback on a weekly basis |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
 | D2 | - |
 | D3 | - |
 | ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | G | create the group planning | 
 |    | G | Update planning by adding tasks | 
-|    | G | keeping notes weekly during meetings with our group coach |
-|    | G | Usually being the one leading the group feedback coaching |
 
 
 
