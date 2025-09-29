@@ -37,6 +37,7 @@ ontwikkelen.
 | A4 | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
 | B1 | In the first m&t exercise, I performed data analysis |
 |    | For the group project, I performed an EDA on the FGNET dataset |
+|    | For the group project, I reviewed the paragraph "Data" |
 | B2 | In the first m&t exercise, I used my requirements to create an AI-Architecture |
 | B3 | In the first m&t exercise, I created an AI-model |
 | C1 | - |
