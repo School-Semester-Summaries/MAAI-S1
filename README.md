@@ -26,26 +26,28 @@ ontwikkelen.
 - [Conclusies & Inzichten](#conclusies--inzichten)
 
 # Activiteiten & Leeruitkomsten
-| Leeruitkomst | Activiteit |
-|--------------|------------|
-| A1 | Research how supermarkets currently handle this case |
-|    | Reviewed the paragraph Leon wrote about "Gebruikersonderzoek" |
-|    | Reviewed the paragraph Merve wrote about "Basiskennis" |
-| A2 | As a group we formulated the requirements of our project case |
-|    | In the first m&t exercise, I formulated functional and technical requirements |
+Per learning outcome I tried to order all the activities from most relevant to least relevant, with most relevant being exercises or paragraphs I worked on, and less relevant activities being reviews.
+| Leeruitkomst | Individual / Group | Activiteit |
+|--------------|------------|--------------------|
+| A1 | G | Research how supermarkets currently handle this case |
+|    | G | Wrote the paragraph "Value Proposition" |
+|    | G | Reviewed the paragraph Leon wrote about "Gebruikersonderzoek" |
+|    | G | Reviewed the paragraph Merve wrote about "Basiskennis" |
+| A2 | G | As a group we formulated the requirements of our project case |
+|    | I | In the first m&t exercise, I formulated functional and technical requirements |
 | A3 | - |
-| A4 | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
-| B1 | In the first m&t exercise, I performed data analysis |
-|    | For the group project, I performed an EDA on the FGNET dataset |
-|    | For the group project, I reviewed the paragraph "Data" |
-| B2 | In the first m&t exercise, I used my requirements to create an AI-Architecture |
-| B3 | In the first m&t exercise, I created an AI-model |
+| A4 | G | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
+| B1 | I | In the first m&t exercise, I performed data analysis |
+|    | G | Performed an EDA on the FGNET dataset |
+|    | G | Reviewed the paragraph "Data" |
+| B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture |
+| B3 | I | In the first m&t exercise, I created an AI-model |
 | C1 | - |
-| C2 | In the first m&t exercise, I evaluated the quality of my AI-model |
-| C3 | As a group we did paper prototyping |
-| D1 | I asked feedback about my Individual Portfolio |
-|    | As a group, we asked feedback about our planning and plan van aanpak |
-|    | Send David the Agendapoints on a weekly basis for the group coaching meeting |
+| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
+| C3 | G | As a group we did paper prototyping |
+| D1 | I | I asked feedback about my Individual Portfolio |
+|    | G | Asked David feedback on a weekly basis |
+|    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
 | D2 | - |
 | D3 | - |
 | ?? | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
