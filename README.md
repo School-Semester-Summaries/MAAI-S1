@@ -31,6 +31,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |--------------|---|--------------------|
 | A1 | G | Research how supermarkets currently handle this case |
 |    | G | Wrote the paragraph "Value Proposition" |
+|    | G | Wrote the paragraph "Concept" |
 |    | G | Reviewed the paragraph "Gebruikersonderzoek" |
 |    | G | Reviewed the paragraph "Basiskennis" |
 | A2 | G | As a group we formulated the requirements of our project case |
