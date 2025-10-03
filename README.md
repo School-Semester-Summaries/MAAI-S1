@@ -31,12 +31,13 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |--------------|---|--------------------|
 | A1 | G | Research how supermarkets currently handle this case |
 |    | G | Wrote the paragraph "Value Proposition" |
-|    | G | Reviewed the paragraph Leon wrote about "Gebruikersonderzoek" |
-|    | G | Reviewed the paragraph Merve wrote about "Basiskennis" |
+|    | G | Reviewed the paragraph "Gebruikersonderzoek" |
+|    | G | Reviewed the paragraph "Basiskennis" |
 | A2 | G | As a group we formulated the requirements of our project case |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
-| A3 | - |
-| A4 | G | Reviewed the paragraph Merve wrote about "Overwegingen over het inzetten van AI" |
+| A3 | G | Reviewed the paragraph "Design Patterns"
+| A4 | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
+| A4 | G | Reviewed the paragraph "Niveau van Automatisering" |
 | B1 | I | In the first m&t exercise, I performed data analysis |
 |    | G | Performed an EDA on the FGNET dataset |
 |    | G | Explained why FGNET isn't the best choice in paragraph "FGNET" |
@@ -45,7 +46,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | B3 | I | In the first m&t exercise, I created an AI-model |
 | C1 | - |
 | C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
+| C3 | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
 | C3 | G | As a group we did paper prototyping |
+| C3 | G | Rewrote a bit about paper prototyping in report |
 | D1 | I | I asked feedback about my Individual Portfolio |
 |    | G | Leading the coaching meetings most of the times |
 |    | G | Keeping notes during coaching meetings with David |
