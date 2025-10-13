@@ -82,4 +82,4 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
 # Conclusies & Inzichten
--
+- (pas invullen als laatst, conclusies van het blok)
