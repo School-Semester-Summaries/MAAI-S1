@@ -74,9 +74,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 # Feedback
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
 |-------|---------|------------------|------------------------|---------------------|-------------------------|
-| 15/09/2025 | Lamia Elloumi | Feedback on **Online Personal Repository** | Online Repository bijgewerkt, Added the T, A and R sections to my Online Repository | I can't conclude anything before asking feedback again | This README.md |
-| 15/09/2025 | David van Dijk |                  |                        |                     |                         |
-| 23/09/2025 | David van Dijk |                  |                        |                     |                         |
+| 15/09/2025 | Lamia Elloumi | Format of the repo is fine. The "S" in "STARRT - Intake" is present, but also add "T", "A" and "R". | Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"  | - | This README.md |
+| 13/10/2025 | Lamia Elloumi | Some evidences are not present in "Activiteiten & Leeruitkomsten" think of: Ontwerpreview, PvA, Symposium Presentation. Midterm STARRT is not present. Feedback is lacking the feedback of CMD students | I decided to add the missing evidences to "Activiteiten & Leeruitkomsten". I also added the midterm STARRT reflection. I decided not to add the cmd student feedback, since that feedback belongs to my group project feedback collection. | - | This README.md |
 
 # STARRT - Intake
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
