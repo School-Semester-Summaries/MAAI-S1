@@ -60,8 +60,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Keeping notes during coaching meetings with David |
 |    | G | Ask David feedback on a weekly basis |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
-| D2 | - |
-| D3 | - |
+| D2 | I | Delivered my Research Approach (PvA) |
+|    | I | Presented my Research Approach |
+| D3 | I | Delivered my Research Approach (PvA) |
+|    | I | Presented my Research Approach |
 | ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | G | create the group planning | 
 |    | G | Update planning by adding tasks | 
