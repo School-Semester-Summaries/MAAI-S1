@@ -22,7 +22,8 @@ ontwikkelen.
 # Table of Contents
 - [Activiteiten & Leeruitkomsten](#activiteiten--leeruitkomsten)
 - [Feedback](#feedback)
-- [STARRT](#starrt---intake)
+- [STARRT - Intake](#starrt---intake)
+- [STARRT - Midterm](#starrt---midterm)
 - [Conclusies & Inzichten](#conclusies--inzichten)
 
 # Activiteiten & Leeruitkomsten
