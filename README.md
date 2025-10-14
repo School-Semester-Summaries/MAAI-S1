@@ -88,5 +88,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? |  | Voorbeelden / plan |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
+# STARRT - Midterm
+| **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
+|---------|-----------------|------------------|-----------------------------|
+| **S – Situatie** | Wat is de huidige situatie? | Alle individuele datapunten zijn onder niveau en alle groepsdatapunten zijn op niveau | - |
+| **T – Taak** | Wat was jouw taak of doel? | Lessen volgen, zelfstudie en veel feedback vragen | - |
+| **A – Actie** | Welke acties heb je ondernomen? | Veel lessen gevolgd, weinig zelfstudie (weinig energie voor over) en reasonable amount of feedback gevraagd | - |
+| **R – Resultaat** | Wat is eruit gekomen? | Veel datapunten onder niveau | - |
+| **R – Reflectie** | Wat heb je geleerd? | Lessen volgen is niks voor mij. Ik kan beter thuis blijven en 90% afhankelijk zijn van zelfstudie en eens in de zoveel tijd naar school komen. Ik weet zeker dat deze aanpak mij goed gaat doen. | - |
+| **T – Transfer** | Hoe pas je dit toe in de toekomst? | Minder vaak naar school komen | - |
+| **Opmerkingen** | Extra notities of feedback. | - | - |
+
 # Conclusies & Inzichten
 - (pas invullen als laatst, conclusies van het blok)
