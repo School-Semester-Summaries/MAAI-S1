@@ -98,7 +98,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **R – Resultaat** | Wat is eruit gekomen? | Veel datapunten onder niveau | - |
 | **R – Reflectie** | Wat heb je geleerd? | Lessen volgen is niks voor mij. Ik kan beter thuis blijven en 90% afhankelijk zijn van zelfstudie en eens in de zoveel tijd naar school komen. Ik weet zeker dat deze aanpak mij goed gaat doen. | - |
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? | Minder vaak naar school komen | - |
-| **Opmerkingen** | Extra notities of feedback. | - | - |
+| **Opmerkingen** | Extra notities of feedback. | Komt wel goed | - |
 
 # Conclusies & Inzichten
 - (pas invullen als laatst, conclusies van het blok)
