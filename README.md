@@ -31,18 +31,14 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Leeruitkomst | I/G | Activiteit |
 |--------------|---|--------------------|
 | A1 | G | Research how supermarkets currently handle this case |
-|    | G | As a group delivered Ontwerpreview |
 |    | G | Wrote the paragraph "Value Proposition" |
 |    | G | Wrote the paragraph "Concept" |
 |    | G | Reviewed the paragraph "Gebruikersonderzoek" |
 |    | G | Reviewed the paragraph "Basiskennis" |
 | A2 | G | As a group we formulated the requirements of our project case |
-|    | G | As a group delivered Ontwerpreview |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
-| A3 | G | As a group delivered Ontwerpreview |
-|    | G | Reviewed the paragraph "Design Patterns" |
-| A4 | G | As a group delivered Ontwerpreview |
-|    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
+| A3 | G | Reviewed the paragraph "Design Patterns" |
+| A4 | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
 | A4 | G | Reviewed the paragraph "Niveau van Automatisering" |
 | B1 | I | In the first m&t exercise, I performed data analysis |
 |    | G | Performed an EDA on the FGNET dataset |
@@ -50,10 +46,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Reviewed the paragraph "Data" |
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture |
 | B3 | I | In the first m&t exercise, I created an AI-model |
-| C1 | G | As a group delivered Ontwerpreview |
+| C1 | G | In the group project we discuss ethical consequences of the project |
 | C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
 | C3 | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
-|    | G | As a group delivered Ontwerpreview |
 |    | G | As a group we did paper prototyping |
 |    | G | Rewrote a bit about paper prototyping in report |
 | D1 | I | I asked feedback about my Individual Portfolio |
