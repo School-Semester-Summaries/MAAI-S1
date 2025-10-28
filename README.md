@@ -63,6 +63,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | G | create the group planning | 
 |    | G | Update planning by adding tasks | 
+|    | G | team vergaderingen leiden | 
+|    | G | online repo structureren | 
+|    | G | overleaf en word documenten verschillen, deze gelijk gemaakt | 
 
 
 
