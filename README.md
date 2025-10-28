@@ -66,6 +66,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | team vergaderingen leiden | 
 |    | G | online repo structureren | 
 |    | G | overleaf en word documenten verschillen, deze gelijk gemaakt | 
+|    | G | groep logboek opgesteld | 
 
 
 
