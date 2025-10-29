@@ -37,6 +37,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Reviewed the paragraph "Basiskennis" |
 | A2 | G | As a group we formulated the requirements of our project case |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
+|    | I | In the second m&t exercise, I formulated functional and technical requirements |
 | A3 | G | Reviewed the paragraph "Design Patterns" |
 | A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |
 |    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
@@ -47,10 +48,15 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Explained why FGNET isn't the best choice in paragraph "FGNET" |
 |    | G | Reviewed the paragraph "Data" |
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture |
-| B3 | I | In the first m&t exercise, I created an AI-model |
+|    | I | In the second m&t exercise, I used my requirements to create an AI-Architecture |
+| B3 | I | for my research paper i developed an ai age prediction model |
+|    | I | In the first m&t exercise, I created an AI-model |
+|    | I | In the second m&t exercise, I created an AI-model |
 | C1 | G | In the group project we discuss ethical consequences of the project |
 | C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
-| C3 | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
+|    | I | In the second m&t exercise, I evaluated the quality of my AI-model |
+| C3 | G | Making a new prototype and new testplan so we can test again. This isn't finished yet as I write this but this will likely be done the 1st or 2nd of november but i'm working on it|
+|    | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
 |    | G | As a group we did paper prototyping |
 |    | G | Rewrote a bit about paper prototyping in report |
 | D1 | I | This document |
