@@ -38,10 +38,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | A2 | G | As a group we formulated the requirements of our project case |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
 | A3 | G | Reviewed the paragraph "Design Patterns" |
-| A4 | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
-| A4 | G | Reviewed the paragraph "Niveau van Automatisering" |
-| B1 | I | In the first m&t exercise, I performed data analysis |
-|    | G | Performed an EDA on the FGNET dataset |
+| A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |
+|    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
+|    | G | Reviewed the paragraph "Niveau van Automatisering" |
+| B1 | G | Performed an EDA on the FGNET dataset |
+|    | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" |
+|    | I | In the first m&t exercise, I performed data analysis |
 |    | G | Explained why FGNET isn't the best choice in paragraph "FGNET" |
 |    | G | Reviewed the paragraph "Data" |
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture |
