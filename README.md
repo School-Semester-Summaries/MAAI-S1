@@ -52,7 +52,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | As a group we did paper prototyping |
 |    | G | Rewrote a bit about paper prototyping in report |
 | D1 | I | This document |
-|    | G | I wrote the feedback document of our group project |
+|    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding |
 |    | G | Leading the coaching meetings (except for 1 time) |
 |    | G | Ask David feedback on a weekly basis |
 |    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning |
@@ -62,13 +62,6 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | I | Presented my Research Approach |
 | D3 | I | Delivered my Research Approach (PvA) |
 |    | I | Presented my Research Approach |
-| ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
-|    | G | create the group planning | 
-|    | G | Update planning by adding tasks | 
-|    | G | online repo structureren | 
-|    | G | overleaf en word documenten verschillen, deze gelijk gemaakt | 
-|    | G | groep logboek opgesteld | 
-
 
 
 # Feedback
