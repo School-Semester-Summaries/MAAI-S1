@@ -51,10 +51,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | C3 | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
 |    | G | As a group we did paper prototyping |
 |    | G | Rewrote a bit about paper prototyping in report |
-| D1 | I | I asked feedback about my Individual Portfolio |
-|    | G | Leading the coaching meetings most of the times |
-|    | G | Keeping notes during coaching meetings with David |
+| D1 | I | This document |
+|    | G | I wrote the feedback document of our group project |
+|    | G | Leading the coaching meetings (except for 1 time) |
 |    | G | Ask David feedback on a weekly basis |
+|    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning |
+|    | I | I asked feedback about my Individual Portfolio |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
 | D2 | I | Delivered my Research Approach (PvA) |
 |    | I | Presented my Research Approach |
@@ -63,7 +65,6 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | ?? | G | took the responsibility in the group to initiate a meeting wherein we create a rough planning all together |
 |    | G | create the group planning | 
 |    | G | Update planning by adding tasks | 
-|    | G | team vergaderingen leiden | 
 |    | G | online repo structureren | 
 |    | G | overleaf en word documenten verschillen, deze gelijk gemaakt | 
 |    | G | groep logboek opgesteld | 
