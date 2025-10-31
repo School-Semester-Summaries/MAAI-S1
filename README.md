@@ -32,11 +32,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |--------------|-----|------------|-------------------|
 | A1 | G | Wrote the paragraph "Value Proposition" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | Wrote the paragraph "Concept" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-|    | G | Reviewed the paragraph "Gebruikersonderzoek" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=stakeholder&show=eyJpaWQiOiIxNiIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTA0fQ%3D%3D#:~:text=leest%20prima%2C%20ik,al%20prima%20uit)) |
+|    | G | Reviewed the paragraph "Gebruikersonderzoek" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=stakeholder&show=eyJpaWQiOiIxNiIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTA0fQ%3D%3D#:~:text=leest%20prima%2C%20ik,al%20prima%20uit) |
 |    | G | Reviewed the paragraph "Basiskennis" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=basiskennis&show=eyJpaWQiOiIxNCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTAyfQ%3D%3D#:~:text=Gereviewed%2C%20ziet%20er,om%20gaan%20doen) |
 | A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-|    | I | In the first m&t exercise, I formulated functional and technical requirements |
-|    | I | In the second m&t exercise, I formulated functional and technical requirements |
+|    | I | In the first m&t exercise, I formulated functional and technical requirements | m&t exercise 1a |
+|    | I | In the second m&t exercise, I formulated functional and technical requirements | m&t exercise 1b |
 | A3 | G | Implemented the design patterns that were researched by Yusra into the application |
 |    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" |
 |    | G | Reviewed the paragraph "Design Patterns" |
