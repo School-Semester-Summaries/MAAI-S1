@@ -44,12 +44,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" | [No in-depth Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=overwegingen&show=eyJpaWQiOiIxMyIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTAxfQ%3D%3D#:~:text=Heb%20het%20doorgenomen%2C%20zit%20er%20goed%20uit%2C%20heb%20alleen%20ergens%20iets%20van%20de%20ik%2Dvorm%20naar%20wij%2Dvorm%20herschreven)
 |    | G | Reviewed the paragraph "Niveau van Automatisering" | [No in-depth Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=niveau&show=eyJpaWQiOiI3MSIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUzNzAwfQ%3D%3D#:~:text=More%20actions-,Ziet%20er%20goed%20uit,-Kaan%20G%C3%B6gcay%20changed) |
 | B1 | G | Performed an EDA on the FGNET dataset and wrote about it in the part "Data" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-|    | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" | not published yet |
+|    | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" | [EDA](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/eda.ipynb) |
 |    | I | In the first m&t exercise, I performed data analysis | m&t exercise 1a |
 |    | G | Reviewed the paragraph "Data" | [Feedback but in document](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=data&show=eyJpaWQiOiI2MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUyODA3fQ%3D%3D#:~:text=Best%20wel%20wat%20feedback%20bijgezet) |
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1a |
 |    | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1b |
-| B3 | I | for my research paper i developed an ai age prediction model |
+| B3 | I | for my research paper i developed an ai age prediction model | [Age Prediction Model](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/modelling.ipynb) |
 |    | I | In the first m&t exercise, I created an AI-model | m&t exercise 1a |
 |    | I | In the second m&t exercise, I created an AI-model | m&t exercise 1b |
 | C1 | G | In the group project we discuss ethical consequences of the project | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
