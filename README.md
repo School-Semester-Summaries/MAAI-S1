@@ -37,9 +37,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements | m&t exercise 1a |
 |    | I | In the second m&t exercise, I formulated functional and technical requirements | m&t exercise 1b |
-| A3 | G | Implemented the design patterns that were researched by Yusra into the application |
-|    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" |
-|    | G | Reviewed the paragraph "Design Patterns" |
+| A3 | G | Implemented the design patterns that were researched by Yusra into the application | [Online Repo/Schetsen en Ontwerpen](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
+|    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" | [Online Repo/Schetsen en Ontwerpen](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
+|    | G | Reviewed the paragraph "Design Patterns" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=design+patterns&show=eyJpaWQiOiI3MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUzNjk4fQ%3D%3D#:~:text=Er%20is%20niet%20vermeld%20waar%20we%20deze%20design%20patterns%20vandaan%20hebben%2C%20tijdens%20een%20ontwerp%20workshop%20waren%20er%203%20grote%20websites%2C%20ik%20denk%20dat%20het%20waardevol%20is%20als%20we%20vermelden%20welke%20website%20we%20hebben%20gebruikt) |
 | A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" | 
 |    | G | Reviewed the paragraph "Niveau van Automatisering" |
