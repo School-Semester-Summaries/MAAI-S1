@@ -38,7 +38,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | A2 | G | As a group we formulated the requirements of our project case |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
 |    | I | In the second m&t exercise, I formulated functional and technical requirements |
-| A3 | G | Reviewed the paragraph "Design Patterns" |
+| A3 | G | Implemented the design patterns that were researched by Yusra into the application |
+|    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" |
+|    | G | Reviewed the paragraph "Design Patterns" |
 | A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |
 |    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
 |    | G | Reviewed the paragraph "Niveau van Automatisering" |
@@ -55,7 +57,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | C1 | G | In the group project we discuss ethical consequences of the project |
 | C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
 |    | I | In the second m&t exercise, I evaluated the quality of my AI-model |
-| C3 | G | Making a new prototype and new testplan so we can test again. This isn't finished yet as I write this but this will likely be done the 1st or 2nd of november but i'm working on it|
+| C3 | G | Making a new prototype and new testplan so we can test again. This isn't finished yet as I write this but this will likely be done the 1st or 2nd of november but i'm working on it |
+|    | G | Document the first and second iteration of our design proces and prototyping |
 |    | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
 |    | G | As a group we did paper prototyping |
 |    | G | Rewrote a bit about paper prototyping in report |
