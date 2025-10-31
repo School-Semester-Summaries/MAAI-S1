@@ -35,8 +35,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Reviewed the paragraph "Gebruikersonderzoek" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=stakeholder&show=eyJpaWQiOiIxNiIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTA0fQ%3D%3D#:~:text=leest%20prima%2C%20ik,al%20prima%20uit) |
 |    | G | Reviewed the paragraph "Basiskennis" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=basiskennis&show=eyJpaWQiOiIxNCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTAyfQ%3D%3D#:~:text=Gereviewed%2C%20ziet%20er,om%20gaan%20doen) |
 | A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-|    | I | In the first m&t exercise, I formulated functional and technical requirements | m&t exercise 1a |
-|    | I | In the second m&t exercise, I formulated functional and technical requirements | m&t exercise 1b |
+|    | I | In the first m&t exercise, I formulated functional and technical requirements | DLO: m&t exercise 1a |
+|    | I | In the second m&t exercise, I formulated functional and technical requirements | DLO: m&t exercise 1b |
 | A3 | G | Implemented the design patterns that were researched by Yusra into the application | [Design Pattern Implementation Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
 |    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" | [Design Pattern Implementation Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
 |    | G | Reviewed the paragraph "Design Patterns" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=design+patterns&show=eyJpaWQiOiI3MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUzNjk4fQ%3D%3D#:~:text=Er%20is%20niet%20vermeld%20waar%20we%20deze%20design%20patterns%20vandaan%20hebben%2C%20tijdens%20een%20ontwerp%20workshop%20waren%20er%203%20grote%20websites%2C%20ik%20denk%20dat%20het%20waardevol%20is%20als%20we%20vermelden%20welke%20website%20we%20hebben%20gebruikt) |
@@ -45,16 +45,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Reviewed the paragraph "Niveau van Automatisering" | [No in-depth Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=niveau&show=eyJpaWQiOiI3MSIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUzNzAwfQ%3D%3D#:~:text=More%20actions-,Ziet%20er%20goed%20uit,-Kaan%20G%C3%B6gcay%20changed) |
 | B1 | G | Performed an EDA on the FGNET dataset and wrote about it in the part "Data" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" | [EDA](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/eda.ipynb) |
-|    | I | In the first m&t exercise, I performed data analysis | m&t exercise 1a |
+|    | I | In the first m&t exercise, I performed data analysis | DLO: m&t exercise 1a |
 |    | G | Reviewed the paragraph "Data" | [Feedback but in document](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=data&show=eyJpaWQiOiI2MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUyODA3fQ%3D%3D#:~:text=Best%20wel%20wat%20feedback%20bijgezet) |
-| B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1a |
-|    | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1b |
+| B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | DLO: m&t exercise 1a |
+|    | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | DLO: m&t exercise 1b |
 | B3 | I | for my research paper i developed an ai age prediction model | [Age Prediction Model](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/modelling.ipynb) |
-|    | I | In the first m&t exercise, I created an AI-model | m&t exercise 1a |
-|    | I | In the second m&t exercise, I created an AI-model | m&t exercise 1b |
+|    | I | In the first m&t exercise, I created an AI-model | DLO: m&t exercise 1a |
+|    | I | In the second m&t exercise, I created an AI-model | DLO: m&t exercise 1b |
 | C1 | G | In the group project we discuss ethical consequences of the project | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model | m&t exercise 1a |
-|    | I | In the second m&t exercise, I evaluated the quality of my AI-model | m&t exercise 1b |
+| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model | DLO: m&t exercise 1a |
+|    | I | In the second m&t exercise, I evaluated the quality of my AI-model | DLO: m&t exercise 1b |
 | C3 | G | Making a new prototype and new testplan so we can test again | [New Prototype Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
 |    | G | Document the first and second iteration of our design proces and prototyping | [Prototype Iterations](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads)
 |    | G | Updated the flowcharts and updated the paragraph written about the flowcharts | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
