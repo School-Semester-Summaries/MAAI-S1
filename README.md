@@ -61,12 +61,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | As a group we did paper prototyping | [Paper Prototyping](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Eerste%20Iteratie,met%20CMD%20studenten.)
 |    | G | Rewrote a bit about paper prototyping in report | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 | D1 | I | This document | [You are here](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/README.md) |
-|    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding |
-|    | G | Leading the coaching meetings (except for 1 time) |
-|    | G | Ask David feedback on a weekly basis |
-|    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning |
-|    | I | I asked feedback about my Individual Portfolio |
-|    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
+|    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding | [Group Logbook](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Feedback%20en%20Logboeken?ref_type=heads) |
+|    | G | Leading every coaching meetings (except for 1 time) | - |
+|    | G | Ask David feedback on a weekly basis | - |
+|    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning | [Meeting Minutes](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Feedback%20en%20Logboeken/notulen?ref_type=heads)
+|    | I | I asked feedback about my Individual Portfolio | - |
+|    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting | - |
 | D2 | I | Delivered my Research Approach (PvA) | DLO PvA |
 |    | I | Presented my Research Approach | - |
 | D3 | I | Delivered my Research Approach (PvA) | DLO PvA |
