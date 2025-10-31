@@ -37,8 +37,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements | m&t exercise 1a |
 |    | I | In the second m&t exercise, I formulated functional and technical requirements | m&t exercise 1b |
-| A3 | G | Implemented the design patterns that were researched by Yusra into the application | [Group Repo/Schetsen en Ontwerpen](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
-|    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" | [Group Repo/Schetsen en Ontwerpen](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
+| A3 | G | Implemented the design patterns that were researched by Yusra into the application | [Design Pattern Implementation Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
+|    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" | [Design Pattern Implementation Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
 |    | G | Reviewed the paragraph "Design Patterns" | [Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=design+patterns&show=eyJpaWQiOiI3MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUzNjk4fQ%3D%3D#:~:text=Er%20is%20niet%20vermeld%20waar%20we%20deze%20design%20patterns%20vandaan%20hebben%2C%20tijdens%20een%20ontwerp%20workshop%20waren%20er%203%20grote%20websites%2C%20ik%20denk%20dat%20het%20waardevol%20is%20als%20we%20vermelden%20welke%20website%20we%20hebben%20gebruikt) |
 | A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" | [No in-depth Feedback](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=overwegingen&show=eyJpaWQiOiIxMyIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzQ1NTAxfQ%3D%3D#:~:text=Heb%20het%20doorgenomen%2C%20zit%20er%20goed%20uit%2C%20heb%20alleen%20ergens%20iets%20van%20de%20ik%2Dvorm%20naar%20wij%2Dvorm%20herschreven)
@@ -50,15 +50,15 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1a |
 |    | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | m&t exercise 1b |
 | B3 | I | for my research paper i developed an ai age prediction model |
-|    | I | In the first m&t exercise, I created an AI-model |
-|    | I | In the second m&t exercise, I created an AI-model |
-| C1 | G | In the group project we discuss ethical consequences of the project |
-| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model |
-|    | I | In the second m&t exercise, I evaluated the quality of my AI-model |
-| C3 | G | Making a new prototype and new testplan so we can test again. This isn't finished yet as I write this but this will likely be done the 1st or 2nd of november but i'm working on it |
-|    | G | Document the first and second iteration of our design proces and prototyping |
+|    | I | In the first m&t exercise, I created an AI-model | m&t exercise 1a |
+|    | I | In the second m&t exercise, I created an AI-model | m&t exercise 1b |
+| C1 | G | In the group project we discuss ethical consequences of the project | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
+| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model | m&t exercise 1a |
+|    | I | In the second m&t exercise, I evaluated the quality of my AI-model | m&t exercise 1b |
+| C3 | G | Making a new prototype and new testplan so we can test again | [New Prototype Documentation](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Tweede%20Iteratie,hoofddeksels%20te%20verwijderen.) |
+|    | G | Document the first and second iteration of our design proces and prototyping | [Prototype Iterations](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads)
 |    | G | Updated the flowcharts and updated the paragraph written about the flowcharts | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-|    | G | As a group we did paper prototyping |
+|    | G | As a group we did paper prototyping | [Paper Prototyping](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Eerste%20Iteratie,met%20CMD%20studenten.)
 |    | G | Rewrote a bit about paper prototyping in report | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 | D1 | I | This document | You are here |
 |    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding |
@@ -67,10 +67,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning |
 |    | I | I asked feedback about my Individual Portfolio |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting |
-| D2 | I | Delivered my Research Approach (PvA) |
-|    | I | Presented my Research Approach |
-| D3 | I | Delivered my Research Approach (PvA) |
-|    | I | Presented my Research Approach |
+| D2 | I | Delivered my Research Approach (PvA) | DLO PvA |
+|    | I | Presented my Research Approach | - |
+| D3 | I | Delivered my Research Approach (PvA) | DLO PvA |
+|    | I | Presented my Research Approach | - |
 
 
 # Feedback
