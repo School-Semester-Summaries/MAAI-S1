@@ -68,10 +68,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | I | I asked feedback about my Individual Portfolio | - |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting | - |
 | D2 | I | (almost) Finished my Paper | [Research Paper Checkpoint](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Research_Paper_v0.1.pdf) |
-|    | I | Delivered my Research Approach (PvA) | DLO PvA |
+|    | I | Delivered my Research Approach (PvA) | DLO: PvA |
 |    | I | Presented my Research Approach | - |
 | D3 | I | (almost) Finished my Paper | [Research Paper Checkpoint](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Research_Paper_v0.1.pdf) |
-|    | I | Delivered my Research Approach (PvA) | DLO PvA |
+|    | I | Delivered my Research Approach (PvA) | DLO: PvA |
 |    | I | Presented my Research Approach | - |
 
 
