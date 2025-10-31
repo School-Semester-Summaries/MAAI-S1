@@ -28,21 +28,21 @@ ontwikkelen.
 
 # Activiteiten & Leeruitkomsten
 Per learning outcome I tried to order all the activities from most relevant to least relevant, with most relevant being exercises or paragraphs I worked on, and less relevant activities being reviews.
-| **Leeruitkomst** | **I/G** | **Activiteit** |
-|--------------|-----|------------|
-| A1 | G | Research how supermarkets currently handle this case |
-|    | G | Wrote the paragraph "Value Proposition" |
-|    | G | Wrote the paragraph "Concept" |
+| **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
+|--------------|-----|------------|-------------------|
+| A1 | G | Wrote the paragraph "Value Proposition" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
+|    | G | Wrote the paragraph "Concept" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | Reviewed the paragraph "Gebruikersonderzoek" |
 |    | G | Reviewed the paragraph "Basiskennis" |
-| A2 | G | As a group we formulated the requirements of our project case |
+|    | G | Research how supermarkets currently handle this case | - |
+| A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | I | In the first m&t exercise, I formulated functional and technical requirements |
 |    | I | In the second m&t exercise, I formulated functional and technical requirements |
 | A3 | G | Implemented the design patterns that were researched by Yusra into the application |
 |    | G | Documented how the design patterns had impact on our application in our group repo in the folder "Schetsen en Ontwerpen" |
 |    | G | Reviewed the paragraph "Design Patterns" |
-| A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |
-|    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" |
+| A4 | G | Below "Value Proposition" added ethical and social (maatschappelijke) implications |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
+|    | G | Reviewed the paragraph "Overwegingen over het inzetten van AI" | 
 |    | G | Reviewed the paragraph "Niveau van Automatisering" |
 | B1 | G | Performed an EDA on the FGNET dataset |
 |    | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" |
@@ -59,10 +59,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | I | In the second m&t exercise, I evaluated the quality of my AI-model |
 | C3 | G | Making a new prototype and new testplan so we can test again. This isn't finished yet as I write this but this will likely be done the 1st or 2nd of november but i'm working on it |
 |    | G | Document the first and second iteration of our design proces and prototyping |
-|    | G | Updated the flowcharts and updated the paragraph written about the flowcharts |
+|    | G | Updated the flowcharts and updated the paragraph written about the flowcharts | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | As a group we did paper prototyping |
-|    | G | Rewrote a bit about paper prototyping in report |
-| D1 | I | This document |
+|    | G | Rewrote a bit about paper prototyping in report | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
+| D1 | I | This document | You are here |
 |    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding |
 |    | G | Leading the coaching meetings (except for 1 time) |
 |    | G | Ask David feedback on a weekly basis |
