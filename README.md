@@ -60,7 +60,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Updated the flowcharts and updated the paragraph written about the flowcharts | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 |    | G | As a group we did paper prototyping | [Paper Prototyping](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Schetsen%20en%20Ontwerpen?ref_type=heads#:~:text=Eerste%20Iteratie,met%20CMD%20studenten.)
 |    | G | Rewrote a bit about paper prototyping in report | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-| D1 | I | This document | You are here |
+| D1 | I | This document | [You are here](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/README.md) |
 |    | G | I wrote the entire group logbook of our group project, and restructured the entire repo so it fits the studiehandleiding |
 |    | G | Leading the coaching meetings (except for 1 time) |
 |    | G | Ask David feedback on a weekly basis |
