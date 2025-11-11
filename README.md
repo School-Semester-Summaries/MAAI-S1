@@ -67,10 +67,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |    | G | Always keeping notes during coaching meetings with David, then converting the feedback david gave us to tasks for the gitlab planning | [Meeting Minutes](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Feedback%20en%20Logboeken/notulen?ref_type=heads)
 |    | I | I asked feedback about my Individual Portfolio | - |
 |    | G | Send David the Agendapoints on a weekly basis for the group coaching meeting | - |
-| D2 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)) |
+| D2 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel) |
 |    | I | Delivered my Research Approach (PvA) | DLO: PvA |
 |    | I | Presented my Research Approach | - |
-| D3 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)) |
+| D3 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel) |
 |    | I | Delivered my Research Approach (PvA) | DLO: PvA |
 |    | I | Presented my Research Approach | - |
 
