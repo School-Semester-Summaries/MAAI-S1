@@ -10,8 +10,10 @@ We delivered the ontwerp review on the 29th of September and received feedback f
 | C2 | Voor het evalueren van de kwaliteit van het AI-oplossing dien je ook andere door het veld erkende kwaliteitsmaten zoals robustness, scalability, explainability, model complexity en resource demand (en wellicht fairness metrics) in acht te nemen en te verantwoorden. Dit is op een technisch correcte wijze uitgevoerd en kan aangetoond worden in de review. | Op Niveau |
 
 We implemented all the feedback in the following way:
-- A2:  We hebben elke requirement gekoppeld aan een stakeholder. Ook hebben we de technische requirements herschreven. De technische requirements bevatten nu ook getallen, het voordeel hiervan is dat je concreet kunt beoordelen wanneer de requirement is voldaan. Ook hebben we de metric (MAE) verwerkt in een van de technische requirements. 
-- B1: We zijn er van op de hoogte dat de leeftijden niet echt zijn en hebben de DEX paper ook gebruikt als bron om keuzes te onderbouwen binnen ons project. De data verdeling zijn we vergeten toe te voegen aan de ingeleverde paper. 
-- B2: Nieuwe inleiding voor 4.3 geschreven. Duidelijk gemaakt dat de resnet50 puur als baseline wordt gebruikt om de prestaties van het uiteindelijke model te vergelijken. 
-- B3: We hebben de feedback van B2 geïmplementeerd dus zou B3 nu ook duidelijker moeten zijn. 
-- C2: De fairness zijn we nog van plan toe te voegen hier hebben we een taak voor aangemaakt
+- A2: We linked each requirement to a stakeholder and rewrote the technical requirements. The technical requirements now include numerical values, which makes it possible to concretely assess when a requirement has been met. We also incorporated the metric (MAE) into one of the technical requirements.
+- B1: We are aware that the ages are not real and have also used the DEX paper as a source to support decisions within our project. We forgot to include the data distribution in the submitted paper.
+- B2: We wrote a new introduction for section 4.3, clarifying that ResNet50 is used purely as a baseline to compare the performance of the final model.
+- B3: We implemented the feedback from B2, so B3 should now also be clearer.
+- C2: We still plan to add the fairness section and have created a task for this.
+
+
