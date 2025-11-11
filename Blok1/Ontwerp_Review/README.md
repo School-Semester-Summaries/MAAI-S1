@@ -11,6 +11,6 @@ We delivered the ontwerp review on the 3rd of October and received feedback from
 | C3 | Test met CMD studenten correct maar erg bondig gedocumenteerd, voor de volgende test sessies met gebruikers is het wel essentieel dat jullie ook een gedegen testplan in de apendix hebben en hiervan de belangrijkste keuzes en punten uiteraard in het document zelf benoemen | Hier is nog werk nodig |
 
 We implemented the feedback into the final version of the report, here is a detailed description in how we applied the feedback:
-- A3: We have documented the implementation of the design patterns with visual examples in GitLab under sketches and designs.
+- A3: We have documented the implementation of the design patterns with visual examples in GitLab under "schetsen en ontwerpen".
 - A4: Revisited the section “Level of automation” and rewrote parts of it. Decided to link the project to level 9 of Human in the Loop.
 - C3: We conducted new user tests, and the main findings have been documented in the final report. This time, we took a structured approach by using a test plan.
