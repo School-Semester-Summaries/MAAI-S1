@@ -1,5 +1,5 @@
 # Ontwerp Review
-We delivered the ontwerp review on the 3rd of October and received feedback from Michiel and Rick.
+We delivered the ontwerp review on the 3rd of October and received feedback from Arthur and Lamia.
 
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
@@ -10,4 +10,7 @@ We delivered the ontwerp review on the 3rd of October and received feedback from
 | C1 | Vrijwillige deelname, privacy by design en menselijke eindverantwoordelijkheid zijn allemaal goede punten. Ik zie ook dat jullie een suggestie doen hoe de prestatie voor verschillende groepen kan worden geevalueerd. Zou mooi zijn als jullie daar nog wat meer op terug komen aan het eind en nog eens in grote lijnen bespreken wat de (on)gewenste consequenties zijn van AI gebruik in deze context. | Op Niveau |
 | C3 | Test met CMD studenten correct maar erg bondig gedocumenteerd, voor de volgende test sessies met gebruikers is het wel essentieel dat jullie ook een gedegen testplan in de apendix hebben en hiervan de belangrijkste keuzes en punten uiteraard in het document zelf benoemen | Hier is nog werk nodig |
 
-This is a ton to work on. We took all the feedback into account in the final delivery of the Eindrapport. We specifically focussed on implementing the design patterns and testing more structure-based.
+We implemented the feedback into the final version of the report, here is a detailed description in how we applied the feedback:
+- A3: We hebben de implementatie van de design patterns met visuele voorbeelden gedocumenteerd in gitlab bij schetsen en ontwerpen. 
+- A4: opnieuw gekeken naar het stukje "Niveau van automatisering" en wat herschreven. Besloten om het project te linken aan level 9 van Human in the loop 
+- C3: We hebben nieuwe gebruikers testen uitgevoerd en de belangrijkste vindingen hiervan zijn gedocumenteerd in het eindrapport. Dit keer hebben we het gestructureerd aangepakt d.m.v. een testplan.
