@@ -5,7 +5,7 @@ On the 3rd of October I presented my PvA to Marcio and directly after received m
 
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
-| D1 / D2 | • You presented in less than 3 minutes, whereas the amount of time was 10 minutes.<br>• You should give better definitions of some terms, like Model Types.<br>• Research questions should be more specific towards one technique or another <br>• The problem you chose is around the disparity of data between males and females | Hier is nog werk nodig / Hier is nog werk nodig |
+| D1 / D2 | • You presented in less than 3 minutes, whereas the amount of time was 10 minutes.<br>• You should give better definitions of some terms, like Model Types.<br>• Research questions should be more specific towards one technique or another <br>• The problem you chose is around the disparity of data between males and females | Hier is nog werk nodig / <br>Hier is nog werk nodig |
 
 I disagree with the first point. Yes, it was very short, but we weren't informed how long the presentation was ment to be. I scaled down the research drastically, and made all the unclarities clear (the PvA was a collection of vagueness).
 
