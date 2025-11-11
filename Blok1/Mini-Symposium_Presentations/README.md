@@ -1,5 +1,4 @@
 # Presentations
-...
 
 ## PvA Presentation
 On the 3rd of October I presented my PvA to Marcio and directly after received my feedback on DLO.
