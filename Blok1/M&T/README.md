@@ -1,4 +1,23 @@
-# M&T 1b Exercise
+# M&T Exercises
+In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
+
+- [M&T 1a Exercise](#mt-1a-exercise)
+- [M&T 1b Exercise](#mt-1b-exercise)
+
+## M&T 1a Exercise
+On the 20th of september I delivered my M&T 1a exercise, and on the 6th of Oktober Michelangelo (My M&T teacher) provided me feedback on my M&T 1a exercise.
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| A2 | (+)<br>• vanuit de opdracht en data bepaalt wanneer het model ‘voldoende genoeg’ is.<br><br>(+-)<br>• Je had kunnen opmerken dat met zo een scheve verdeling, zoveel klasses en zo weinig waarnemingen niet elke klasse voldoende gerepresenteerd kan zijn.<br><br>(–)<br>• Je had kunnen opmerken dat het aantal waarnemingen laag is ten opzichte van het aantal variabelen. | Hier is nog werk nodig |
+| B1 | (+)<br>• Data is correct gesplitst.<br><br>(+-)<br>• Je maakt geen gebruik van een stratisfied split, terwijl dat in deze situatie wel de conventie is. Waarom?<br>• Herschaling wordt niet verantwoord.<br><br>(–)<br>• Je laat tussentijds testresultaten zien. Pas hiermee op. Als je beslissingen hebt genomen naar aanleiding van deze resultaten, dan is er sprake van data-leakage.<br><br>(––)<br>• Je doet een dataverkenning op de gehele dataset (zonder splitsing). Dit is niet volgens de conventies en kan leiden tot data-leakage. | Hier is nog werk nodig |
+| B2 | (+)<br>• Correcte verantwoording van nulmodel.<br><br>(–)<br>• Prestatiemaat wordt niet correct verantwoord.<br>• Het is onduidelijk uit welke modellen je gekozen hebt.<br>• De keuze van het model is niet logisch (KNN werkt niet goed bij veel waarnemingen).<br>• Verantwoording voor het model is niet overtuigend. Er zijn heel veel modellen die aan dat argument voldoen (classificatie en "een keer gehoord").<br>• Je besluit een variabelenselectie te gebruiken. De keuze voor de methode wordt niet verantwoord. | Hier is nog werk nodig |
+| B3 | (-)<br>• Niet van alle hyperparameters wordt de keuze verantwoord (ook "default" is een keuze) | Hier is nog werk nodig |
+| C2 | (+)<br>• Testresultaten van de modellen worden gegeven.<br>• Model wordt vergeleken met nulmodel.<br><br>(+-)<br>• Confusion matrix wordt gegeven, maar is lastig te interpreteren, omdat de labels niet overeenkomen met de klasses in de variabele S.<br><br>(–)<br>• Fouten van het model worden niet besproken.<br>• Jouw confusion matrix is 5 bij 5, terwijl er 6 klasses zijn. Hoe kan dat? | Hier is nog werk nodig |
+
+The feedback made me realize I took the exercise too lightly. The next time I will invest more time into the exercise and more time into researching and ellaboring my choices.
+
+## M&T 1b Exercise
 On the 15th of October 2025 I delivered my first version of the M&T 1b exercise and on the 16th I delivered my final version. The 4th of November I received feedback from Michelangelo, my M&T teacher.
 
 | Learning Outcome | Feedback | Grading |
