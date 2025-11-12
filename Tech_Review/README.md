@@ -1,13 +1,24 @@
 # Tech Review
+
+## Tech Review Presentation
+For some reason we had the tech presentation after delivering the tech review. So we got feedback on the tech review twice
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| A2 | Link each requirement to a stakeholder. Each requirement must be traceable to a source, rationale, or reasoning. Do not add requirements without justification. Think more about technical requirements. For example: is the model allowed to run in the United States? Include your metrics in your requirements. Other than that, the requirements look good. | - |
+| B1 | The final dataset must be included in the report. The table that you showed in the presentation is missing from the report. | - |
+| B2/B3 | Section 4.3 has no introduction; it starts directly with "regression vs. classification." Explain why regression is chosen instead of classification. Why is it useful to choose regression in this case? How are you going to handle the fact that an error of 17 versus 27 is penalized the same as an error of 57 versus 67? Both have a difference of 10, but do you really want to penalize them equally? | Op Niveau |
+
+## Tech Review Grading
 We delivered the ontwerp review on the 29th of September and received feedback from Michiel and Rick on the 9th of October.
 
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
-| A2 | Je hebt ten minste een lijst van ondubbelzinnige juridische, ethische, organisatorische en functionele en technische vereisten van de AI-oplossing. Deze zijn nader gedefinieerd aan de hand van de bestaande literatuur, experts of vereisten van belangrijke stakeholders. Deze zijn meegenomen in de ontwikkeling van de eindoplossing. | Op Niveau |
-| B1 | Je maakt een opsomming van de datasets die worden gebruikt voor het trainen, fine-tunen en testen van je modellen. Je beschrijft de relevante kenmerken van de gekozen datasets voor de oplossing en onderbouwt je keuzes hierin. Gebruik bijvoorbeeld wetenschappelijke bronnen en voer een verkennende data-analyse uit, waarin de dataverdeling en mogelijke problemen zoals ontbrekende data en onevenwichtigheden worden onthuld. Deze data-analyse is op een technisch correcte manier toegepast. Dit komt terug in zowel het rapport als in code. | Op Niveau |
-| B2 | Je beschrijft de gebouwde of geselecteerde (model)architecturen voor de gekozen oplossingsrichting. Hierbij beschrijf je welke metriek(en) je gebruikt om modellen te vergelijken en selecteren, evenals de onderbouwing van je keuzes. De toepassing is op een technisch correcte en methodologisch geaccepteerde wijze gedaan en dit kan het projectteam aantonen in de review | Op Niveau |
-| B3 | Je dient een systematische aanpak te hanteren, waarin je duidelijk vermeldt hoe je je model traint of fine-tunet, valideert, optimaliseert, test en de resultaten communiceert. Voorlopige resultaten zijn op dit punt verplicht. | Op Niveau |
-| C2 | Voor het evalueren van de kwaliteit van het AI-oplossing dien je ook andere door het veld erkende kwaliteitsmaten zoals robustness, scalability, explainability, model complexity en resource demand (en wellicht fairness metrics) in acht te nemen en te verantwoorden. Dit is op een technisch correcte wijze uitgevoerd en kan aangetoond worden in de review. | Op Niveau |
+| A2 | This is a good list of requirements, well elaborated and sorted. An improvement could be to assign an owner or a source to each requirement. Other feedback: this sentence lacks an actor: "The camera is covered until a choice is made to use AI for age verification." The technical requirement does not exclude the possibility that data leaves the device. The rationale for a requirement is not indicated; the justification is missing. Metrics are hardly mentioned. Is fairness even considered a requirement in your case? | Op Niveau |
+| B1 | Three datasets are discussed. Your choice is justified, ultimately selecting UTKFace, but are you aware that the ages are not real? Data preprocessing with YOLO and other steps is very good, compliments. There is no evidence in the report that the classes are well distributed or how large the final dataset is. This was, however, discussed in the presentation. | Op Niveau |
+| B2 | I notice that I get lost here. ResNet and VGG seem to be mixed up. A good introduction in 4.3(.1) could resolve a lot. The elaboration of the models, however, is done very well. | Op Niveau |
+| B3 | Multiple iterations were carried out. Literature was searched and discussed, compliments. But because I was already lost at B2, I get stuck here as well. | Op Niveau |
+| C2 | The graphs in figures 11 and 12 showing age-MAE are very good, compliments. "This is due to a smaller representation of this age group in the dataset." I have an idea of this, but it is not substantiated because the dataset is not made transparent for B1. Fairness, etc., still needs to be addressed, and you still have enough time for that. | Op Niveau |
 
 We implemented all the feedback in the following way:
 - A2: We linked each requirement to a stakeholder and rewrote the technical requirements. The technical requirements now include numerical values, which makes it possible to concretely assess when a requirement has been met. We also incorporated the metric (MAE) into one of the technical requirements.
