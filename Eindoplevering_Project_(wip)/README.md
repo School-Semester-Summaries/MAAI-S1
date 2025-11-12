@@ -1,6 +1,5 @@
 # Eindoplevering Project
-
-## Feedback on Planning, Plan van Aanpak, Eindrapport (#1)
+All the feedback we received on the Group project excluding the tech and ontwerp review.
 
 | Datum | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt  | Resultaat / Bewijs (repo, doc, code) |
 |-------|---------|------------------|------------------------|-------------------------|
