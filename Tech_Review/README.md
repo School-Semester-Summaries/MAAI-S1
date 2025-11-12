@@ -1,7 +1,7 @@
 # Tech Review
 
 ## Tech Review Presentation
-For some reason we had the tech presentation after delivering the tech review. So we got feedback on the tech review twice
+On the 2nd of October we had our Tech Review presentation. For some reason we had the presentation after delivering the tech review, so we got feedback on the tech review twice.
 
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
