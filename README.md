@@ -111,7 +111,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | D3 | I | Presented my Research Approach | - |
 
 
-# Feedback (that isnt on DLO)
+# Feedback
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
 - [Individual Logbook](./Individual_Logbook/README.md)
