@@ -4,7 +4,7 @@
 Asked my coach Lamia if the logbook looks like how she expects it to be. Also asked if I had to fill in the other letters of the STARRT.
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
-| D1 | (15/09/2025) - copy paste it here | - |
+| D1 | (15/09/2025) - Yes, the format is fine.<br>And for STARRT, S is nice, but also these for the intake (and more elaborated later)<br>  •	T is about your goals for the block (probably based on what you mentioned nog werk nodig), and it does not need to be a long list, you can focus on 2-3 first.<br>  •   A is about planning first actions<br>You can ask yourself the question “What first steps will you take to work on these goals?”<br>You can make then small and concrete, for example “read X paper, set up Git repo, schedule peer feedback.”<br>	•	R with focus on expectations rather than achieved outcomes.<br>You can ask the question “What results do you expect to achieve by the end of this block?” | - |
 
 Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"
 
