@@ -1,24 +1,5 @@
 # MAAI - Kaan G. (Online Personal Repository)
-<!--
-### Note
-Om dit leerresultaat te behalen, moet je logboek laten zien:
-• hoe je je activiteiten koppelt aan leerresultaten,
-• hoe je feedback hebt ontvangen, vastgelegd en verwerkt (verbeteringen,
-beslissingen, aanpassingen),
-• hoe je reflecteert op je voortgang met behulp van de STARRT-methode (intake- en
-voortgangsgesprekken),
-• en welke conclusies en inzichten dit oplevert voor je professionele groei.
 
-### Feedback noteren
-Verzamel tijdens het blok feedback van coaches, collega's en gebruikers. Schrijf voor
-elk feedbackpunt op:
-• Wat de feedback was.
-• Waar het over ging (bijv. code, onderzoek, teamwork).
-• Hoe het verband houdt met je leerdoelen.
-• Wat je ermee hebt gedaan (accepteren, aanpassen, verder onderzoeken).
-Dit laat zien dat je actief bezig bent met het verwerken van feedback om jezelf te
-ontwikkelen.
--->
 # Table of Contents
 - [Activiteiten & Leeruitkomsten](#activiteiten--leeruitkomsten)
 - [Feedback](#feedback)
@@ -143,4 +124,4 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 | **Opmerkingen** | Extra notities of feedback. | Komt wel goed | - |
 
 # Conclusies & Inzichten
-- (pas invullen als laatst, conclusies van het blok)
+Coming to school is extremely tiring. It doesn't leave me any energy to work on school, therefore I am deciding to stay at home as much as possible. I also noticed that staying at home self-studying is extremely benefitial for me. I feel like I actually learn something by self-study rather than attending lessons. I like how nothing in Blok 1 really matters, this allowed me to play around in the exercises and understand what the teachers want from me. Going into Blok 2 I am pretty confident about the exercises. Even though I don't think I have gotten that much smarter, I am more furmilair with the system the study uses which allows me to deliver what is expected.
