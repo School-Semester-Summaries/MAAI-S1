@@ -1,7 +1,7 @@
 # Mini-Symposium
 ...
 
-## PvA
+## PvA (Plan van Aanpak / Research Approach)
 On the 26th of September 2025 I delivered my PvA and on the 7th of October I received feedback from Marcio.
 
 | Learning Outcome | Feedback | Grading |
