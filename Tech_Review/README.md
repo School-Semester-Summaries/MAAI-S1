@@ -7,7 +7,7 @@ For some reason we had the tech presentation after delivering the tech review. S
 |------------------|-----------|----------|
 | A2 | Link each requirement to a stakeholder. Each requirement must be traceable to a source, rationale, or reasoning. Do not add requirements without justification. Think more about technical requirements. For example: is the model allowed to run in the United States? Include your metrics in your requirements. Other than that, the requirements look good. | - |
 | B1 | The final dataset must be included in the report. The table that you showed in the presentation is missing from the report. | - |
-| B2/B3 | Section 4.3 has no introduction; it starts directly with "regression vs. classification." Explain why regression is chosen instead of classification. Why is it useful to choose regression in this case? How are you going to handle the fact that an error of 17 versus 27 is penalized the same as an error of 57 versus 67? Both have a difference of 10, but do you really want to penalize them equally? | Op Niveau |
+| B2/B3 | Section 4.3 has no introduction; it starts directly with "regression vs. classification." Explain why regression is chosen instead of classification. Why is it useful to choose regression in this case? How are you going to handle the fact that an error of 17 versus 27 is penalized the same as an error of 57 versus 67? Both have a difference of 10, but do you really want to penalize them equally? | - |
 
 ## Tech Review Grading
 We delivered the ontwerp review on the 29th of September and received feedback from Michiel and Rick on the 9th of October.
