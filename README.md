@@ -114,6 +114,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
 # Feedback (that isnt on DLO)
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
+- [Individual Logbook](./Individual_Logbook/README.md)
+- [M&T](./M&T/README.md)
+- [Mini-Symposium](./Mini-Symposium/README.md)
+- [Ontwerp Review](./Ontwerp_Review/README.md)
+- [Tech Review](./Tech_Review/README.md)
 
 # STARRT - Intake
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
