@@ -77,10 +77,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 # Feedback (that isnt on DLO)
 I don't think we really had individual feedback up to this point that I was also able to implement and prove. I got plenty feedback on m&t exercise 1a which i implemented on m&t exercise 1b but i cannot prove that i did that since the results aren't up yet. Same for the research paper. I got plenty of usefull feedback which I implemented but there is no way for me to prove this, other than you reading my paper checkpoint but that might be alot to read (It is pretty interesting tho! But still a lot is going to be implemented in the research paper as wel).  Mainly in the group project we were able to implement feedback and prove we did implement it with the Eindrapport and the group repo.
-| Datum (dd/mm/yyyy) | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
-|--------------------|---------|--------------------|-------------------------|----------------------|--------------------------|
-| 15/09/2025 | Lamia Elloumi | Format of the repo is fine. The "S" in "STARRT - Intake" is present, but also add "T", "A" and "R". | Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"  | - | This README.md |
-| 13/10/2025 | Lamia Elloumi | Some evidences are not present in "Activiteiten & Leeruitkomsten" think of: Ontwerpreview, PvA, Symposium Presentation. Midterm STARRT is not present. Feedback is lacking the feedback of CMD students. Finally, Lamia also told me we should consider discussing what we want to do in iteration 2 within the group project. | I decided to add the missing evidences to "Activiteiten & Leeruitkomsten". I also added the midterm STARRT reflection. I decided not to add the cmd student feedback, since that feedback belongs to my group project feedback collection. Also did I tell me group we should consider planning a meeting on what we want to do for iteration 2  | I realised alot of individual feedback is missing from "Feedback" so i will make sure all the feedback is there | This README.md |
+
 
 
 # STARRT - Intake
