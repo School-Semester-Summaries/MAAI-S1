@@ -1,5 +1,12 @@
 # Mini-Symposium
-...
+Here all the feedback I received for Mini-Symposium
+- [PvA (Plan van Aanpak / Research Approach)](#pva-plan-van-aanpak--research-approach)
+- [Presentations](#presentations)
+  - [PvA Presentation](#pva-presentation)
+  - [Poster Presentation](#poster-presentation)
+  - [Artikel](#artikel)
+
+---
 
 ## PvA (Plan van Aanpak / Research Approach)
 On the 26th of September 2025 I delivered my PvA and on the 7th of October I received feedback from Marcio.
@@ -10,6 +17,7 @@ On the 26th of September 2025 I delivered my PvA and on the 7th of October I rec
 
 To sum it up, I implemented the feedback in my paper by reducing overlap, scaling down the research and being more specific about what I am going to do. Also, I tried to add sources for claims I make, but I think my research could use more references do make it stronger.
 
+---
 
 ## Presentations
 
@@ -32,6 +40,7 @@ On the 6th of November I presented my poster to Lamia Elloumi and on the 7th of 
 
 Partially agree since there was only one mistake in the poster. But I am satisfied with the grade.
 
+---
 
 ## Artikel
 ...
