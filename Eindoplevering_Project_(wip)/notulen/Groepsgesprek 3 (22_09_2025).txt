@@ -1,0 +1,43 @@
+Groep Coaching Meeting met David #3 22/09/2025
+
+Agendapunten
+- Planning
+- Eindrapport
+  - Basiskennis
+  - Stakeholder Interview
+  - Enquete
+  - Overwegingen
+  - Requirements
+- Testen met CMD studenten
+
+Notes
+- David heeft inhoudelijk niets doorgenomen
+- We kwamen niet toe aan testen met CMD studenten
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│                             🚀 FEEDBACK 🚀                               │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+Planning
+- goed op weg
+- als het voor jullie werkt is het prima
+
+Eindrapport
+- er staat veel, dat is positief
+- te veel woorden, probeer beknopter te schrijven
+- Introductie staat er nog niet, voornamelijk het stukje probleem
+- Welke vraag wordt er beantwoord in welk stuk, probeer een kopje te baseren op een research/deelvraag, zo kun je controleren ofdat het kopje de vraag beantwoord en zo- informatief correct/genoeg is.
+- De gebruiker begeleiden door het document zonder dat de lezer vraagstukken krijgt
+- Grote kopjes kunnen we letterlijk overnemen, kleine kopjes mogen we verhalend implementeren en hoeven zelf geen kopjes te zijn.
+- Focus op hoofd en deelvragen
+- Reden van Enquete kan scherper, iets duidelijk het doel van dit kopje benadrukken (benadruk de reden van het gebruikersonderzoek)
+
+Kort Samengevat
+- Eindrapport moet beknopter
+- Introductie schrijven
+- Research Vragen opstellen
+- Gebruiker meer begeleiden door het document
+- Subkopjes mogen we zelf namen geven
+- Reden van enquete kan meer benadrukt worden

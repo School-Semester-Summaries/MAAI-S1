@@ -1,0 +1,23 @@
+Feedback Techreview presentatie 02/10/2025
+
+Requirements
+- Koppel elke requirement aan een stakeholder
+- Elke requirement moet herleidbaar zijn naar een bron, reden, 
+beredenering niet zomaar zonder reden requirements toevoegen
+- Denk meer na over technische requirements (bijvoorbeeld: waar gaat 
+het model draaien, in amerika?)
+- Verwerk je metrics in je requirements
+- Verder zien de requirements er goed uit
+
+Data
+- Uiteindelijke dataset in rapport
+- dat data tabel ontbreekt van het rapport
+- Vizualizaties zien er leuk uit maar moelijk te begrijpen zonder die tabel
+
+Model
+- 4.3 heeft geen inleiding, het begint meteen met een kopje "Regressie vs Classificatie"
+- Beredeneer beter waarom regressie i.p.v. classificatie. Waarom precies deze keuze? 
+Waarom is het nuttig om regressie te kiezen in deze context?
+- de fout van een inschatting van 20 (true 30) is even groot als 40 (true 50), 
+hoe gaan jullie hiermee om?
+

@@ -1,0 +1,31 @@
+Groepsgesprek met David 
+
+Info
+- Communicatie met david via teams
+- Wees concreet in de agendapunten en geef concreet aan wat bekeken moet worden en waar het staat
+- Elke vrijdag 12:00 deadline, alles klaar voor review zodat hij het kan bekijken en maandag bespreken
+- Plan van Aanpak is een goed idee
+- Studiehandleiding kan gebruikt worden als handleiding voor project structuur (vrij beperkt)
+- Buiten de datapunten zijn er geen andere deadlines
+
+Todo
+stappen van feedback gesprek
+- Creëer een file structure in Teams
+- Maak een "How to groepsgesprek" todo lijstje
+- Als groep in grote lijnen een project structuur maken (Vrijdag 12:00)
+- Rollen verdelen (Vergader Leider)
+
+Checken Samenwerkingscontract
+- Team Meeting datums, duur en frequentie
+- Coach meeting datums en 
+- agenda punten naar coach door sturen datums
+- Hoe werkt afmelden
+- Online repository branching strategy
+- Project Planning Board aanmaken (Trello, Gitlab, etc.)
+- Conflict Management: the most common things that can go wrong and how to deal with these occasions
+
+Agendapunten 15 Sep (Max 2 zelf inbrengen)
+- Project Structuur bespreken (ingebracht door David)
+--> planning, rollen
+- ... 
+- ...

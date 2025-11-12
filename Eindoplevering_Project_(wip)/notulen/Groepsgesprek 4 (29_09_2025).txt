@@ -1,0 +1,37 @@
+Agendapunten
+- EDA's
+- Eindrapport
+  - Introductie
+  - Onderzoeksvragen
+
+Notes
+- Ongeveer 5 á 7 minuten te laat begonnen
+- David te laat agendapunten doorgestuurd waardoor hij  niet inhoudelijk heeft doorgenomen
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│                             🚀 FEEDBACK 🚀                               │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+EDA's Datasets
+- Samenvattend toevoegen aan eindrapport
+- leg uit Waarom wel, waarom niet keuze voor bepaalde dataset
+
+Flowcharts
+- Happy Flow kan in het eindrapport Bij het stukje concept
+- bij het toevoegen aan het rapport, maak duidelijk wat het verschil is met de vorige flowchart? (het huidige proces)
+- probeer een bekende flowchart stijl aan te houden (van links boven naar rechtsonder en die blokjes die kaan had gestuurd)
+- belangrijkste bij het toevoegen aan het eindrapport, is dat het een booschap over brengt, voeg het toe met een reden
+
+Introductie + Onderzoeksvragen
+- deelvragen nummeren
+- "Tegelijkertijd leidt dit systeem tot nieuwe uitdagingen bij het proces van leeftijdsverificatie voor alcoholverkoop." -> hier dieper op ingaan
+- meerdere kassa’s. ... Uit nalevingsonderzoek -> dit moet beter flowen
+- "Welke tekortkomingen kent het huidige leeftijdscontroleproces bij zelfscankassa’s, en welke criteria bepalen of een computer‐vision oplossing dit proces kan verbeteren?" -> Dit zijn mogelijk 2 verschillende vragen, zo niet? leg uit waarom.
+- wat is tekortkomingen?
+- leguit met het eindrapport en deelvragen, ga deelvragen af, en met behulp van document leg alles uit.
+
+Overig
+- meeting verschuiven?
+- Agendapunt 6 oct: Deelvragen af gaan en per deelvraag uitleggen met behulp van het eindrapport waarom het er staat, zo kunnen we checken of dat alles erin staat en of alles duidelijk is.

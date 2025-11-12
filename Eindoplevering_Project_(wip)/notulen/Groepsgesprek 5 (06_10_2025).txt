@@ -1,0 +1,33 @@
+Agendapunten
+- Per deelvraag kijken of het eindrapport de deelvraag dekt
+
+Notes
+- ontwerpreview bespreken stond in agendapunten maar dit was een foutje van kaan
+- een paar vragen gesteld tijdens het gesprek
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│                             🚀 FEEDBACK 🚀                               │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+Wat vragen andere groepjes feedback voor?
+- vraag het aan andere groepjes
+
+Moeten we een frontend maken?
+- frontend telt niet mee in de beoordeling
+- is wel aangeraden
+
+Deelvragen
+- D1: evt. deelvraag 1 herscrhijven zonder het woord "criteria", want we willen niet bepaalde criteria stellen in de vraag
+- D2: deelvraag 2 is prima
+- D3: IMDB-Wiki en MORPH2 toevoegen aan kopje data, beredeneer wrm wel of niet
+- D4: evt herschrijven naar "voldoet het naar de technische requirements" ipv "voldoet het naar de metrics en de requirements"
+- D5: leest niet lekker, verplaats het woord "worden" na de opsomming. evt vraag herschrijven zodat het de design kopjes dekt
+
+Hoofdvraag
+- in de hoofdvraag worden verschillende termen gebruikt die op elkaar lijken zoals: leeftijdsverificatie, leefstijdcontrole, leeftijdsherkenning. Houdt dit consistent.
+
+Methodologie
+- mogen we de kopjes van methodologie lostrekken -> nee
+- 6.3 andere naam geven
