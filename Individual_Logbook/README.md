@@ -3,6 +3,12 @@ On the 30th of October 2025 I delivered my first version of the individual logbo
 
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
+| D1 | 15/09/2025 - Format of the repo is fine. The "S" in "STARRT - Intake" is present, but also add "T", "A" and "R". | - |
+
+Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
 | D1 | Hello Kaan<br>Thank you for submitting your logbook.<br>It is very well organized and shows how much effort you have put into documenting your work and keeping track of progress and feedback.<br>I also appreciate how you take ownership of group coordination (leading meetings, maintaining notes, and following up on feedback show strong initiative and reliability)<br>What could make your reflection stronger is going beyond what happened and focusing more on what you have learned about yourself.<br>For instance, when you mention that self-study works better for you, what does that tell you about your motivation, focus, or preferred learning environment? How are you now adaption to the new structure, how are you adapting your learning activities and what works for you?<br>For the last part of your logbook, I expected to see a few more concrete insights about what you are taking with you into the next block, even though the current block has not officially ended yet.<br>Regards,<br>Lamia | Op niveau |
 
-I noitced that I didn't deliver the latest version. So I delivered a version without Conclusions and Insights and without any styling. Since block 1 and 2 should be documented in the same logbook, I will go back to the logbook and add the missing paragraph Lamia mentioned.
+I noticed that I didn't deliver the latest version. So I delivered a version without Conclusions and Insights and without any styling. Since block 1 and 2 should be documented in the same logbook, I will go back to the logbook and add the missing paragraph Lamia mentioned.
