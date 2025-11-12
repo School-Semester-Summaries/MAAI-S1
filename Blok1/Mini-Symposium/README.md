@@ -4,7 +4,7 @@ Here all the feedback I received for Mini-Symposium
 - [Presentations](#presentations)
   - [PvA Presentation](#pva-presentation)
   - [Poster Presentation](#poster-presentation)
-  - [Artikel](#artikel)
+- [Artikel](#artikel)
 
 ---
 
