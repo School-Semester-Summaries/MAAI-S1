@@ -100,7 +100,6 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
-- [Individual Logbook](./Individual_Logbook/README.md)
 - [Mini-Symposium](./Mini-Symposium/README.md)
 - [Ontwerp Review](./Ontwerp_Review/README.md)
 - [Tech Review](./Tech_Review/README.md)
@@ -111,12 +110,12 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 
 
 <details>
-  <summary><h3>M&T Exercises</h3></summary>
+  <summary><h3>📊 M&T Exercises</h3></summary>
   
 In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
 
 <details>
-  <summary><h4>Feedback on M&T Exercise 1a (#1)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on M&T Exercise 1a (#1)</h4></summary>
   
 On the 20th of september I delivered my M&T 1a exercise, and on the 6th of Oktober Michelangelo (My M&T teacher) provided me feedback on my M&T 1a exercise.
 
@@ -133,7 +132,7 @@ The feedback made me realize I took the exercise too lightly. The next time I wi
 </details>
 
 <details>
-  <summary><h4>Feedback on M&T Exercise 1b (#2)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on M&T Exercise 1b (#2)</h4></summary>
   
 On the 15th of October 2025 I delivered my first version of the M&T 1b exercise and on the 16th I delivered my final version. The 4th of November I received feedback from Michelangelo, my M&T teacher.
 
@@ -158,10 +157,10 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 
 
 <details>
-  <summary><h3>Individual Logbook</h3></summary>
+  <summary><h3>📒 Individual Logbook</h3></summary>
 
 <details>
-  <summary><h4>Feedback on Individual Logbook structure (#1)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on Individual Logbook structure (#1)</h4></summary>
   
 Asked my coach Lamia if the logbook looks like how she expects it to be. Also asked if I had to fill in the other letters of the STARRT.
 | Learning Outcome | Feedback | Grading |
@@ -174,7 +173,7 @@ Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"
 
 
 <details>
-  <summary><h4>Feedback on Individual Logbook during midterm meeting (#2)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on Individual Logbook during midterm meeting (#2)</h4></summary>
 
 Asked feedback on my individual logbook during the midterm meeting.
 | Learning Outcome | Feedback | Grading |
@@ -187,7 +186,7 @@ I decided to add the missing evidences to "Activiteiten & Leeruitkomsten". I als
 
 
 <details>
-  <summary><h4>Feedback and Grading on Individual Logbook (#3)</h4></summary>
+  <summary><h4>➡️➡️ Feedback and Grading on Individual Logbook (#3)</h4></summary>
 
 On the 30th of October 2025 I delivered my first version of the individual logbook and on the 31st I delivered my final version. The 11th of November I received feedback from my personal coach Lamia.
 
