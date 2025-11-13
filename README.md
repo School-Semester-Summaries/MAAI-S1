@@ -110,7 +110,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊-->
 
 <details>
-  <summary><h3>📊 M&T Exercises</h3></summary>
+  <summary><h3>📊 M&T Exercises (2)</h3></summary>
   
 In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
 
@@ -158,7 +158,7 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 <!--📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒-->
 
 <details>
-  <summary><h3>📒 Individual Logbook</h3></summary>
+  <summary><h3>📒 Individual Logbook (3)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Feedback on Individual Logbook structure (#1)</h4></summary>
@@ -207,10 +207,10 @@ I noticed that I didn't deliver the latest version. So I delivered a version wit
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium</h3></summary>
+  <summary><h3>🎓 Mini Symposium (2)</h3></summary>
 
 <details>
-  <summary><h4>Feedback on PvA Presentation (#1)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on PvA Presentation (#1)</h4></summary>
 
   On the 3rd of October I presented my PvA to Marcio and directly after received my feedback on DLO.
 
@@ -223,7 +223,7 @@ I disagree with the first point. Yes, it was very short, but we weren't informed
 </details>
 
 <details>
-  <summary><h4>Feedback on PvA Assignment (#2)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on PvA Assignment (#2)</h4></summary>
 
 On the 26th of September 2025 I delivered my PvA and on the 7th of October I received feedback from Marcio.
 
