@@ -207,7 +207,7 @@ I noticed that I didn't deliver the latest version. So I delivered a version wit
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium (2)</h3></summary>
+  <summary><h3>🎓 Mini Symposium (3)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Feedback on PvA Presentation (#1)</h4></summary>
@@ -237,7 +237,7 @@ To sum it up, I implemented the feedback in my paper by reducing overlap, scalin
 
 
 <details>
-  <summary><h4>Feedback on Poster Presentation (#3)</h4></summary>
+  <summary><h4>➡️➡️ Feedback on Poster Presentation (#3)</h4></summary>
 
 On the 6th of November I presented my poster to Lamia Elloumi and on the 7th of november I received an update: a comment on my poster presentation and an upgraded grade.
 
