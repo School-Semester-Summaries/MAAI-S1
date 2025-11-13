@@ -89,7 +89,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 </details>
 
 
-# Feedback
+<details>
+  <summary><h2>Feedback</h2></summary>
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
 - [Individual Logbook](./Individual_Logbook/README.md)
@@ -97,6 +98,8 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 - [Mini-Symposium](./Mini-Symposium/README.md)
 - [Ontwerp Review](./Ontwerp_Review/README.md)
 - [Tech Review](./Tech_Review/README.md)
+<details>
+
 
 <details>
   <summary><h2>STARRT - Intake</h2></summary>
@@ -126,6 +129,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 | **Opmerkingen** | Extra notities of feedback. | Komt wel goed | - |
 </details>
 
-
-# Conclusies & Inzichten
+<details>
+  <summary><h2>Conclusies en Inzichten</h2></summary>
 Coming to school is extremely tiring. It doesn't leave me any energy to work on school, therefore I am deciding to stay at home as much as possible. I also noticed that staying at home self-studying is extremely benefitial for me. I feel like I actually learn something by self-study rather than attending lessons. I like how nothing in Blok 1 really matters, this allowed me to play around in the exercises and understand what the teachers want from me. Going into Blok 2 I am pretty confident about the exercises. Even though I don't think I have gotten that much smarter, I am more furmilair with the system the study uses which allows me to deliver what is expected.
+</details>details>
