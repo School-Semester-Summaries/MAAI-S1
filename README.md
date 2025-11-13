@@ -101,10 +101,14 @@ Per learning outcome I tried to order all the activities from most relevant to l
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
 - [Individual Logbook](./Individual_Logbook/README.md)
-- [M&T](./M&T/README.md)
 - [Mini-Symposium](./Mini-Symposium/README.md)
 - [Ontwerp Review](./Ontwerp_Review/README.md)
 - [Tech Review](./Tech_Review/README.md)
+
+
+
+
+
 
 <details>
   <summary><h3>M&T Exercises</h3></summary>
@@ -112,7 +116,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
 
 <details>
-  <summary><h4>M&T Exercise 1a</h4></summary>
+  <summary><h4>Feedback on M&T Exercise 1a (#1)</h4></summary>
   
 On the 20th of september I delivered my M&T 1a exercise, and on the 6th of Oktober Michelangelo (My M&T teacher) provided me feedback on my M&T 1a exercise.
 
@@ -129,7 +133,7 @@ The feedback made me realize I took the exercise too lightly. The next time I wi
 </details>
 
 <details>
-  <summary><h4>M&T Exercise 1b</h4></summary>
+  <summary><h4>Feedback on M&T Exercise 1b (#2)</h4></summary>
   
 On the 15th of October 2025 I delivered my first version of the M&T 1b exercise and on the 16th I delivered my final version. The 4th of November I received feedback from Michelangelo, my M&T teacher.
 
@@ -147,7 +151,69 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 
 </details>
 
+
+
+
+
+
+
+<details>
+  <summary><h3>Individual Logbook</h3></summary>
+
+<details>
+  <summary><h4>Feedback on Individual Logbook structure (#1)</h4></summary>
+  
+Asked my coach Lamia if the logbook looks like how she expects it to be. Also asked if I had to fill in the other letters of the STARRT.
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| D1 | (15/09/2025) - Yes, the format is fine.<br>And for STARRT, S is nice, but also these for the intake (and more elaborated later)<br>  •	T is about your goals for the block (probably based on what you mentioned nog werk nodig), and it does not need to be a long list, you can focus on 2-3 first.<br>  •   A is about planning first actions<br>You can ask yourself the question “What first steps will you take to work on these goals?”<br>You can make then small and concrete, for example “read X paper, set up Git repo, schedule peer feedback.”<br>	•	R with focus on expectations rather than achieved outcomes.<br>You can ask the question “What results do you expect to achieve by the end of this block?” | - |
+
+Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"
+
 </details>
+
+
+<details>
+  <summary><h4>Feedback on Individual Logbook during midterm meeting (#2)</h4></summary>
+
+Asked feedback on my individual logbook during the midterm meeting.
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| D1 | (13/10/2025) - Some evidences are not present in "Activiteiten & Leeruitkomsten" think of: Ontwerpreview, PvA, Symposium Presentation. Midterm STARRT is not present. Feedback is lacking the feedback of CMD students. Finally, Lamia also told me we should consider discussing what we want to do in iteration 2 within the group project. | - |
+
+I decided to add the missing evidences to "Activiteiten & Leeruitkomsten". I also added the midterm STARRT reflection. I decided not to add the cmd student feedback, since that feedback belongs to my group project feedback collection. Also did I tell me group we should consider planning a meeting on what we want to do for iteration 2. I realised alot of individual feedback is missing from "Feedback" so i will make sure all the feedback is there
+
+</details>
+
+
+<details>
+  <summary><h4>Feedback and Grading on Individual Logbook (#3)</h4></summary>
+
+On the 30th of October 2025 I delivered my first version of the individual logbook and on the 31st I delivered my final version. The 11th of November I received feedback from my personal coach Lamia.
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| D1 | (11/11/2025) - Hello Kaan<br>Thank you for submitting your logbook.<br>It is very well organized and shows how much effort you have put into documenting your work and keeping track of progress and feedback.<br>I also appreciate how you take ownership of group coordination (leading meetings, maintaining notes, and following up on feedback show strong initiative and reliability)<br>What could make your reflection stronger is going beyond what happened and focusing more on what you have learned about yourself.<br>For instance, when you mention that self-study works better for you, what does that tell you about your motivation, focus, or preferred learning environment? How are you now adaption to the new structure, how are you adapting your learning activities and what works for you?<br>For the last part of your logbook, I expected to see a few more concrete insights about what you are taking with you into the next block, even though the current block has not officially ended yet.<br>Regards,<br>Lamia | Op niveau |
+
+I noticed that I didn't deliver the latest version. So I delivered a version without Conclusions and Insights and without any styling. Since block 1 and 2 should be documented in the same logbook, I will go back to the logbook and add the missing paragraph Lamia mentioned.
+
+</details>
+
+
+</details>
+
+
+
+
+
+
+
+
+</details>
+
+
+
+
 
 
 
