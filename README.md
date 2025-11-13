@@ -1,13 +1,9 @@
 # MAAI - Kaan G. (Online Personal Repository)
+Welcome to my online repository! You can expand the headers by clicking on them. My structure is based off the structure in Studiehandleiding.
 
-# Table of Contents
-- [Activiteiten & Leeruitkomsten](#activiteiten--leeruitkomsten)
-- [Feedback](#feedback)
-- [STARRT - Intake](#starrt---intake)
-- [STARRT - Midterm](#starrt---midterm)
-- [Conclusies & Inzichten](#conclusies--inzichten)
-
-# Activiteiten & Leeruitkomsten
+<details>
+  <summary><h2>Activiteiten en Leeruitkomsten</h2></summary>
+  
 Per learning outcome I tried to order all the activities from most relevant to least relevant, with most relevant being exercises or paragraphs I worked on, and less relevant activities being reviews.
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|--------------------|
@@ -90,6 +86,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | D3 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel.pdf) |
 | D3 | I | Delivered my Research Approach (PvA) | DLO: PvA |
 | D3 | I | Presented my Research Approach | - |
+</details>
 
 
 # Feedback
@@ -101,7 +98,9 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 - [Ontwerp Review](./Ontwerp_Review/README.md)
 - [Tech Review](./Tech_Review/README.md)
 
-# STARRT - Intake
+<details>
+  <summary><h2>STARRT - Intake</h2></summary>
+  
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
 |---------|-----------------|------------------|-----------------------------|
 | **S – Situatie** | Degelijke ervaring met machine learning, voornamelijk met CNNs, Object Detection en Reinforcement Learning. Weinig ervaring met verantwoorden van (design) keuzes binnen AI en Machine Learning. Ook weinig ervaring met Ethiek en hogere wiskunde | Zelf veel exercises maken, daar leer ik het beste van. Ook lessen en workshops bijwonen om up-to-date te blijven | Deep-RL-Agent for Custom Game: [GitHub Repo](https://github.com/CrossyChainsaw/WASD-RL-Agent),  Template Matching using Computer Vision: [GitHub Repo](https://github.com/CrossyChainsaw/brawl-template-matcher),  CNN-Exercise: [GitHub Repo](https://github.com/CrossyChainsaw2/Brawlhalla-Legend-Classification),  RL-Agent for Cartpole Game: [GitHub Repo](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program),  ANN Exercise: [GitHub Repo](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/ANN%20Exercise),  CNN Exercise: [GitHub Repo](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/CNN%20Exercise%202%20(Pokemon)),  XAI Exercise: [GitHub Repo](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/XAI%20Exercise),  RL-Agent for Frozen Lake: [GitHub Repo](https://github.com/School-Semester-Summaries/AI-semester-6/tree/main/repos/RL%20Exercise).  I also once made a Deep-RL-Agent for Cartpole Game but can’t seem to find it.  Werk ook aan een groter project gerelateerd aan Object Detection.
@@ -111,8 +110,11 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 | **R – Reflectie** | Wat heb je geleerd? |  | Reflectieverslag |
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? |  | Voorbeelden / plan |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
+</details>
 
-# STARRT - Midterm
+<details>
+  <summary><h2>STARRT - Midterm</h2></summary>
+  
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
 |---------|-----------------|------------------|-----------------------------|
 | **S – Situatie** | Wat is de huidige situatie? | Alle individuele datapunten zijn onder niveau en alle groepsdatapunten zijn op niveau | - |
@@ -122,6 +124,8 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 | **R – Reflectie** | Wat heb je geleerd? | Lessen volgen is niks voor mij. Ik kan beter thuis blijven en 90% afhankelijk zijn van zelfstudie en eens in de zoveel tijd naar school komen. Ik weet zeker dat deze aanpak mij goed gaat doen. | - |
 | **T – Transfer** | Hoe pas je dit toe in de toekomst? | Minder vaak naar school komen | - |
 | **Opmerkingen** | Extra notities of feedback. | Komt wel goed | - |
+</details>
+
 
 # Conclusies & Inzichten
 Coming to school is extremely tiring. It doesn't leave me any energy to work on school, therefore I am deciding to stay at home as much as possible. I also noticed that staying at home self-studying is extremely benefitial for me. I feel like I actually learn something by self-study rather than attending lessons. I like how nothing in Blok 1 really matters, this allowed me to play around in the exercises and understand what the teachers want from me. Going into Blok 2 I am pretty confident about the exercises. Even though I don't think I have gotten that much smarter, I am more furmilair with the system the study uses which allows me to deliver what is expected.
