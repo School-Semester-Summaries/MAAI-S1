@@ -101,8 +101,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Logboek Bibiëne Doornemen | 13 November 2025 | D1 | Samen met Bibiëne haar logboek doorgenomen om inspiratie op te doen. Bibi heeft haar logboek in Notion gemaakt en ik was benieuwd hoe dat werkt | - |
-| Empathy Maps Maken | 14 November 2025 | D1 | Samen met Terence empathy maps gemaakt voor de gemeente Oostzaan, de medewerkers van OVER en de inwoners van Oostzaan. | (Link) |
+| Logboek Bibiëne Doornemen | 10 November 2025 | D1 | Samen met Bibiëne haar logboek doorgenomen om inspiratie op te doen. Bibi heeft haar logboek in Notion gemaakt en ik was benieuwd hoe dat werkt | - |
+| Pitch Voorbereiden | 11 November 2025 | A1 | Met de groep de casus doorgenomen en een idee bedacht. Vervolgens voorbereid wat we willen presenteren en vragen | (link dit) | 
+| Logboek Bijwerken | 12 November 2025 | D1 | Mijn logboek veel gestructureerder gemaakt | You are here |
+| Notule Bijhouden | 13 November 2025 | A1 | Tijdens de pitches van de andere groepjes en de presentatie van gemeente OVER heb ik aantekeningen gemaakt. Vervolgens heb ik mijn notule gecombineerd met de notule van Amber om een geheel document te vormen | (Link Dit) |
+| Empathy Maps Maken | 14 November 2025 | A1 | Samen met Terence empathy maps gemaakt voor de gemeente Oostzaan, de medewerkers van OVER en de inwoners van Oostzaan | [Empathy Maps](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/Bedrijfs--en-databegrip) |
 
 </details>
 
