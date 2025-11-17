@@ -95,7 +95,28 @@ Per learning outcome I tried to order all the activities from most relevant to l
   <summary><h3>🗓️ Blok 2</h3></summary>
     
   This blok I decided to also track what I do on a weekly basis.
-(make planning here)
+
+<details>
+  <summary><h4>➡️➡️ Week 1</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Logboek Bibiëne Doornemen | 13 November 2025 | D1 | Samen met Bibiëne haar logboek doorgenomen om inspiratie op te doen. Bibi heeft haar logboek in Notion gemaakt en ik was benieuwd hoe dat werkt | - |
+| Empathy Maps Maken | 14 November 2025 | D1 | Samen met Terence empathy maps gemaakt voor de gemeente Oostzaan, de medewerkers van OVER en de inwoners van Oostzaan. | (Link) |
+
+</details>
+
+<details>
+  <summary><h4>➡️➡️ Week 2</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Logboek Amber Doornemen | 17 November 2025 | D1 | Samen met Amber haar logboek doorgenomen om inspiratie op te doen, aangezien Amber Boven Niveau heeft behaald | - |
+
+
+</details>
+
+
   
 </details>
   
