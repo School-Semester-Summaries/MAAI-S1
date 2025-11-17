@@ -3,6 +3,9 @@ Welcome to my online repository! You can expand the headers by clicking on them.
 
 <details>
   <summary><h2>Activiteiten en Leeruitkomsten</h2></summary>
+
+<details>
+  <summary><h3>🗓️ Blok 1</h3></summary>
   
 Per learning outcome I tried to order all the activities from most relevant to least relevant, with most relevant being exercises or paragraphs I worked on, and less relevant activities being reviews.
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
@@ -86,6 +89,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | D3 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel.pdf) |
 | D3 | I | Delivered my Research Approach (PvA) | DLO: PvA |
 | D3 | I | Presented my Research Approach | - |
+</details>
+
+<details>
+  <summary><h3>🗓️ Blok 2</h3></summary>
+    
+  This blok I decided to also track what I do on a weekly basis.
+(make planning here)
+  
+</details>
+  
 </details>
 
 
