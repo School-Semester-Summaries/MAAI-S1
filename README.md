@@ -152,7 +152,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊-->
 
 <details>
-  <summary><h3>📊 M&T Exercises (2)</h3></summary>
+  <summary><h3>📊 M&T Exercises (3)</h3></summary>
   
 In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
 
@@ -190,6 +190,22 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 
 </details>
 
+Start Blok 2
+
+<details>
+  <summary><h4>➡️➡️ Feedback talk about exercise 1b (#4)</h4></summary>
+  
+On the 13th of November I asked Michalangelo why I got "Onder Niveau" for B1 and B2.
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| B1 | • The dataset is normalized but I didn't acknowledge that. Next time I should menntion this in my answer. | - |
+| B2 | • We are taught that default options are also decisions, but in this case it is okay to choose MSE if there is no valid reason to choose a different metric. In my case, I choose the MAE metric, but I wasn't able to validate correctly why I choose for that metric, therefore my grade. | - |
+
+I now understand why my teacher decided to give me "Onder Niveau" for these learning outcomes and I know now how to improve on them. The next time I will beter analyze the data and I will more carefully choose a metric.
+
+</details>
+
 </details>
 
 <!--📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊-->
@@ -200,7 +216,7 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 <!--📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒-->
 
 <details>
-  <summary><h3>📒 Individual Logbook (3)</h3></summary>
+  <summary><h3>📒 Individual Logbook (4)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Feedback on Individual Logbook structure (#1)</h4></summary>
@@ -236,6 +252,21 @@ On the 30th of October 2025 I delivered my first version of the individual logbo
 | Learning Outcome | Feedback | Grading |
 |------------------|-----------|----------|
 | D1 | (11/11/2025) - Hello Kaan<br>Thank you for submitting your logbook.<br>It is very well organized and shows how much effort you have put into documenting your work and keeping track of progress and feedback.<br>I also appreciate how you take ownership of group coordination (leading meetings, maintaining notes, and following up on feedback show strong initiative and reliability)<br>What could make your reflection stronger is going beyond what happened and focusing more on what you have learned about yourself.<br>For instance, when you mention that self-study works better for you, what does that tell you about your motivation, focus, or preferred learning environment? How are you now adaption to the new structure, how are you adapting your learning activities and what works for you?<br>For the last part of your logbook, I expected to see a few more concrete insights about what you are taking with you into the next block, even though the current block has not officially ended yet.<br>Regards,<br>Lamia | Op niveau |
+
+I noticed that I didn't deliver the latest version. So I delivered a version without Conclusions and Insights and without any styling. Since block 1 and 2 should be documented in the same logbook, I will go back to the logbook and add the missing paragraph Lamia mentioned.
+
+</details>
+
+Start Blok 2
+
+<details>
+  <summary><h4>➡️➡️ Feedback on Individual Logbook (#4)</h4></summary>
+
+I scheduled a meeting for the 18th of November to discuss my individual logbook. I wanted to know what I should do to improve my "Op Niveau" to "Boven Niveau".
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| D1 | (18/11/2025) - Go deeper in the Why's (more concrete examples next monday)<br>- Have more insights from what you bring from one feedback point to the next one.<br>- deliver your logbook as pdf next time. | - |
 
 I noticed that I didn't deliver the latest version. So I delivered a version without Conclusions and Insights and without any styling. Since block 1 and 2 should be documented in the same logbook, I will go back to the logbook and add the missing paragraph Lamia mentioned.
 
