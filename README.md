@@ -115,6 +115,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
 | Logboek Amber Doornemen | 17 November 2025 | D1 | Samen met Amber haar logboek doorgenomen om inspiratie op te doen, aangezien Amber Boven Niveau heeft behaald | - |
+| Requirements Opstellen | 18 November 2025 | A2 | Samen met Bibi de requirements van het groeps project opstellen | Bewijs hier |
+| Feedback Individueel Logboek | 18 November 2025 | D1 | Meeting met Lamia om te kijken hoe we mijn "Op Niveau" naar een "Boven Niveau" kunnen tillen | - |
 
 
 </details>
