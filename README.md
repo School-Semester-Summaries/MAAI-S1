@@ -193,7 +193,7 @@ I implemented the feedback from exercise 1a, and managed to improve 3 outcomes t
 Start Blok 2
 
 <details>
-  <summary><h4>➡️➡️ Feedback talk about exercise 1b (#4)</h4></summary>
+  <summary><h4>➡️➡️ Feedback talk about exercise 1b (#3)</h4></summary>
   
 On the 13th of November I asked Michalangelo why I got "Onder Niveau" for B1 and B2.
 
