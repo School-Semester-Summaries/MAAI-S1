@@ -391,6 +391,8 @@ Partially agree since there was only one mistake in the poster. But I am satisfi
 </details>
 
 <details>
-  <summary><h2>Conclusies en Inzichten</h2></summary>
+  <summary><h2>Conclusies en Inzichten van Blok 1</h2></summary>
 Coming to school is extremely tiring. It doesn't leave me any energy to work on school, therefore I am deciding to stay at home as much as possible. I also noticed that staying at home self-studying is extremely benefitial for me. I feel like I actually learn something by self-study rather than attending lessons. I like how nothing in Blok 1 really matters, this allowed me to play around in the exercises and understand what the teachers want from me. Going into Blok 2 I am pretty confident about the exercises. Even though I don't think I have gotten that much smarter, I am more furmilair with the system the study uses which allows me to deliver what is expected.
+
+  Divide this into sections for things i learned for that section
 </details>
