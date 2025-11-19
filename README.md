@@ -553,5 +553,15 @@ To be honest, this is the outcome I expected. My previous study was extremely la
   <summary><h2>Conclusies en Inzichten van Blok 1</h2></summary>
 Coming to school is extremely tiring. It doesn't leave me any energy to work on school, therefore I am deciding to stay at home as much as possible. I also noticed that staying at home self-studying is extremely benefitial for me. I feel like I actually learn something by self-study rather than attending lessons. I like how nothing in Blok 1 really matters, this allowed me to play around in the exercises and understand what the teachers want from me. Going into Blok 2 I am pretty confident about the exercises. Even though I don't think I have gotten that much smarter, I am more furmilair with the system the study uses which allows me to deliver what is expected.
 
-  <br> **- Divide this into sections for things i learned for that section**
+### Group Project
+For the group project in Blok 1 I didn't contribute a lot. I did make sure the project was structured and everything was being reviewed, but I was barely writing anything in the report. I personally didn't have any problems with this, neither did my group. We had coaching meeting with David but rarely utilized this opportunity because we didn't really understand how David could help us. Since if we sent, either we sent it too late, or we sent it in time but David just didn't read through it in detail. For the next blok it would be a good idea to first discuss with the coach what their exact contribution is and how they can help us. The group project also made me realize how important ontwerp workshops are and how little important tech workshops are, since we are being actively graded on topics mentioned in the ontwerp workshop, but topics mentioned in the tech workshop weren't really coming back in the group project if I remember correctly.
+
+### M&T 
+Is alrigh
+
+### Individual Logbook
+Individual logbook is the topic I worry the least about in this study. I think my logbook looks very nice and I got graded "Op Niveau" for it. From here I will just keep adding feedback/information to the logboook.
+
+### Mini Symposium
+WORRY
 </details>
