@@ -153,7 +153,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (1) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (2) (w.i.p...)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -166,6 +166,25 @@ On the 8th of September we had our first meeting with David.
 | Samenwerkingscontract | Check your collaboration agreement for the following points:<br>- Team Meeting datums, duur en frequentie<br>- Coach meeting datums en agenda punten naar coach door sturen datums<br>- Hoe werkt afmelden<br>- Online repository branching strategy<br>- Project Planning Board aanmaken (Trello, Gitlab, etc.)<br>- Conflict Management: the most common things that can go wrong and how to deal with these occasions
 
 We made the project structure as discussed. Also did we go over the collaboration agreement.
+
+</details>
+
+
+<details>
+  <summary><h4>➡️➡️ Coaching meeting with David about Planning, Project Approach and Report (#2)</h4></summary>
+  
+On the 15th of September we had our second meeting with David.
+
+| Criteria | Feedback |
+|------------------|-----------|
+| Planning | The deadlines are hard to follow, try to create a greater overview for the planning. | 
+| Project Approach | There is no main question. Project Approach (plan van aanpak) isn't a necessity for the group project. | 
+| Planning | Make a start on the report, try to start writing the introduction or at least a first draft. | 
+
+We made the following changes:
+- **Planning**: de planning is aangepast, nu is er een high level en een low level planning.
+- **Plan van aanpak**: hier werken we niet meer aan.
+- **Rapport**: Begonnen aan concept versie, taak aangemaakt om alles vanuit het PvA te verwerken in het rapport.
 
 </details>
 
