@@ -195,7 +195,7 @@ We made the following changes:
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Planning and Report (#3)</h4></summary>
   
-On the 15th of September we had our second meeting with David.
+On the 22nd of September we had our third meeting with David.
 
 | Criteria | Feedback |
 |------------------|-----------|
