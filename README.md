@@ -171,7 +171,7 @@ On the 20th of september I delivered my M&T 1a exercise, and on the 6th of Oktob
 | B3 | (-)<br>• Niet van alle hyperparameters wordt de keuze verantwoord (ook "default" is een keuze) | Hier is nog werk nodig |
 | C2 | (+)<br>• Testresultaten van de modellen worden gegeven.<br>• Model wordt vergeleken met nulmodel.<br><br>(+-)<br>• Confusion matrix wordt gegeven, maar is lastig te interpreteren, omdat de labels niet overeenkomen met de klasses in de variabele S.<br><br>(–)<br>• Fouten van het model worden niet besproken.<br>• Jouw confusion matrix is 5 bij 5, terwijl er 6 klasses zijn. Hoe kan dat? | Hier is nog werk nodig |
 
-The feedback made me realize I took the exercise too lightly. The next time I will invest more time into the exercise and more time into researching and ellaboring my choices.
+The feedback made me realize I took the exercise too lightly. The next time I will invest more time into the exercise and more time into researching and ellaboring my choices. Also a major finding after this grading is that I was one of the only ones that didn't use Generative AI to generate code since I thought it was forbidden. However, in class many students admitted to have used Generative AI and the teacher was fine with this as long as you were able to explain what is happening and elaborate why you do X. The usage of Generative AI will help me pass roadblocks easier and overall speeds up the coding process by a lot, allowing me to spend more time on the exercise.
 
 </details>
 
