@@ -120,9 +120,10 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Update Individual Logbook | 19th November 2025 | D1 | Add feedback entries to my logbook that I forgot to add | You are here |
 | Read the Artikel Feedback | 19th November 2025 | D2, D3 | Read through the feedback Marcio gave me about my article. There is a ton to work on which was expcted since my previous study was rather lax on the topic of research. | - | 
 
-
-
 </details>
+
+
+
 
 
   
@@ -138,7 +139,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 
 <details>
-  <summary><h2>Feedback</h2></summary>
+  <summary><h2>Feedback (w.i.p...)</h2></summary>
   
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
@@ -153,7 +154,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (2) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (3) (w.i.p...)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -179,12 +180,30 @@ On the 15th of September we had our second meeting with David.
 |------------------|-----------|
 | Planning | The deadlines are hard to follow, try to create a greater overview for the planning. | 
 | Project Approach | There is no main question. Project Approach (plan van aanpak) isn't a necessity for the group project. | 
-| Planning | Make a start on the report, try to start writing the introduction or at least a first draft. | 
+| Report | Make a start on the report, try to start writing the introduction or at least a first draft. | 
 
 We made the following changes:
-- **Planning**: de planning is aangepast, nu is er een high level en een low level planning.
-- **Plan van aanpak**: hier werken we niet meer aan.
-- **Rapport**: Begonnen aan concept versie, taak aangemaakt om alles vanuit het PvA te verwerken in het rapport.
+- **Planning**: the planning has been adjusted; there is now a high-level and a low-level plan.
+- **Project Approach**: we are no longer working on this.
+- **Report**: started on draft version, created task to incorporate everything from the project approach into the report.
+
+</details>
+
+
+
+
+<details>
+  <summary><h4>➡️➡️ Coaching meeting with David about Planning and Report (#3)</h4></summary>
+  
+On the 15th of September we had our second meeting with David.
+
+| Criteria | Feedback |
+|------------------|-----------|
+| Planning | Looks good, if it works for you it's fine. | 
+| Report | There is a lot of text, which is positive. There are already too many words, so try to write more concisely. The introduction is missing. Try to use the sub-questions indirectly as a document structure. Think about which heading answers which sub-question. Try to write the document in such a way that the reader never has any questions. We can use the headings in DLO in the study guide, but we can fill in the subheadings ourselves. For now, focus on the main and sub-questions. The reason for the survey could be clearer; emphasize the purpose of this heading more clearly. | 
+
+We updated the report by moving it to Overleaf, cut down on words, added an introduction, rename some headers and update the reasoning for the survey.
+
 
 </details>
 
