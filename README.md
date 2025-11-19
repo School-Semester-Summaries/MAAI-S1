@@ -365,6 +365,7 @@ Partially agree since there was only one mistake in the poster. But I am satisfi
 </details>
 
 
+Start Blok 2
 
 
 <details>
@@ -391,9 +392,6 @@ I submitted my article on the 2nd of November and received feedback on the 18th 
 To be honest, this is the outcome I expected. My previous study was extremely lax with researching. Just like the M&T exercises, reading the feedback gives me a better understanding of where the expectations are in the study within researching. I thought I could get away with some unclaimed sentences which wasn't the case. I have no clue what a literature review is which I have to dive into. Also agree about the points about the figures that was a last second change and it was just really dumb. No introduction to MORPH-II is indeed concerning. I could repeat everything Marcio said but he's spot on on every point. I will start on time for the next article and strive for perfection.
 
 </details>
-
-Start Blok 2
-
 
 <!--
 
