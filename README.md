@@ -153,7 +153,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
   <summary><h3>👥 Group Project Blok 1 (1) (w.i.p...)</h3></summary>
 
 <details>
-  <summary><h4>➡️➡️ Coaching meeting with David (#1)</h4></summary>
+  <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
   
 On the 8th of September we had our first meeting with David.
 
