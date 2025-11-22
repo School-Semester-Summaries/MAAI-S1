@@ -120,6 +120,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Update Individual Logbook | 19th November 2025 | D1 | Add feedback entries to my logbook that I forgot to add | You are here |
 | Read the Artikel Feedback | 19th November 2025 | D2, D3 | Read through the feedback Marcio gave me about my article. There is a ton to work on which was expcted since my previous study was rather lax on the topic of research. | - | 
 | Talk with Michelangelo | 20th November 2025 | B2, B3 | Talk about when it is okay not to elaborate a technical choice and when you have to | - |
+| Review H1 of our Report | 22th of November 2025 | A1 | I read through H1 (Introduction) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/4ZYapT8E |
 </details>
 
 
