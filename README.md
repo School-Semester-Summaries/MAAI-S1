@@ -262,6 +262,29 @@ We implemented all the feedback in the following way:
 
 
 
+<details>
+  <summary><h4>➡️➡️ Ontwerp Review Grading (#6)</h4></summary>
+
+We delivered the ontwerp review on the 3rd of October and on the 17th we received feedback from Arthur and Lamia.
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| A1 | - Benoem bron(nen) naar stakeholder onderzoek<br>+ Mooie concrete opbouw naar hoofdvraag<br>+- Goed dat jullie deelvragen hebben, sommige deelvragen zijn erg specifiek en andere erg generiek. Hoe presteert het model is altijd een relevante vraag bijvoorbeeld, wellicht niet nodig als deelvraag. Maar een deelvraag voor regelgeving en ethiek zou wel relevant zijn gezien het een product wordt dat publiekelijk gebruikt zou moeten worden.<br>+ Top! dat jullie een Enquête hebben gedaan, introduceer de enquête wel voordat je hem presenteert, nu staat er opeens “De enquête”<br>+ Goede punten ook gehanteerd voor de enquete<br>+ Goed interview met supermarkt eigenaar | Boven Niveau |
+| A2 | + Jullie opbouw naar de requirements is heel helder, wel is het goed om altijd toelichting bij een table, figuur oid te hebben. Dus in dit geval de tabel met requirements wel te introduceren ondanks dat het best duidelijk is. En zoals in de les benoemt, licht de belangrijkste requiremens even kort toe, waar deze op gebaseerd zijn.<br>- Jullie benoemen dat het model een MAE moet hebben van minder dan 5 jaar, waarschijnlijk vanwege de leeftijdsgrens van 25 jaar (25 - 5 > 18). Maar je kunt ook ontwerpen naar de MAE, stel dat het model een MAE heeft van 12 jaar worden alleen klanten van 37+ goedgekeurd. Daarnaast zou ik MAE ook altijd koppelen aan een leeftijdsgroep, zoals jullie in de tekst wel goed doen “een fout van 15 jaar bij een 85-jarige heeft in de praktijk geen consequenties voor alcoholverkoop, terwijl een afwijking van 5 jaar bij een 20-jarige wel cruciaal is”.<br> Mooi om te zien dat jullie verschillende type requirements hebben opgenomen (juridisch, ethisch, functioneel en technisch). Soms kunnen de requirements nog net wat scherper worden geformuleerd. Bijv. wat verstaan jullie onder een diverse dataset? Het zou mooi zijn om daar nog wat concreter in te zijn zodat straks ook kan worden geevalueerd of de requirement is behaald. Verder zou ik de requirements organiseren per categorie, nu staan ze nog een beetje door elkaar. | Op Niveau |
+| A3 | + Ontwerp keuzes en aanpassing op bestaande flow netjes gedocumenteerd inc verschillende design patterns.<br>- Jullie document bevat alleen helaas helemaal geen concrete visuele voorbeelden, de onderbouwing van patterns is puur hoog over het concept maar ik mis concrete voorbeelden uit de ontwerpen en ook iteraties (of één iteratie) hier in<br>- Jullie benoemen zekerheid van het model als voorwaarden van automatisering maar gebruiken regressie | Hier is nog werk nodig |
+| A4 | - Level 5 geeft de suggestie dat er bij elke uitkomst een mens moet goedkeuren. Jullie geven juist aan dat er bij >25 volgens mij geen mens mee kijkt. Dan is jullie level eerder 10 (of iets lager). Het AI model beslist automatisch zonder menselijke interventie of iemand ouder of jonger is dan 25, de stappen daarna wordt geen ai gebruikt<br>- Jullie geven aan dat er alleen bij een oudere leeftijd wordt geautomatiseerd, maar benoemen daarna in de flow 25 gewoon als harde grens voor het model zonder MAE mee te nemen in die keuze.<br>- Jullie onderbouwing voor regressie is niet voldoende in mijn ogen; "Regressie sluit beter aan bij het continue karakter van leeftijd en maakt het mogelijk om de fout direct te optimaliseren op een interpreteerbare maat zoals de Mean Absolute Error (MAE)" Je uiterlijk veranderd veel meer in de eerste 20 jaar van je leven dan de laatste 20, leeftijd heeft daarom in mijn ogen zeker geen continu character behalve dat 24 komt na 25.<br>Mooie overwegingen en helder uiteengezet qua maatschappelijke ethische en technische overwegingen. Mogelijk zouden jullie nog wat meer de vraag kunnen stellen in hoeverre AI een goede oplossing is voor dit vraagstuk, waarbij je de verschillende aspecten (technisch, maatschappelijk, ethisch) samen in overweging neemt. | Op Niveau |
+| C1 | Vrijwillige deelname, privacy by design en menselijke eindverantwoordelijkheid zijn allemaal goede punten. Ik zie ook dat jullie een suggestie doen hoe de prestatie voor verschillende groepen kan worden geevalueerd. Zou mooi zijn als jullie daar nog wat meer op terug komen aan het eind en nog eens in grote lijnen bespreken wat de (on)gewenste consequenties zijn van AI gebruik in deze context. | Op Niveau |
+| C3 | Test met CMD studenten correct maar erg bondig gedocumenteerd, voor de volgende test sessies met gebruikers is het wel essentieel dat jullie ook een gedegen testplan in de apendix hebben en hiervan de belangrijkste keuzes en punten uiteraard in het document zelf benoemen | Hier is nog werk nodig |
+
+We implemented the feedback into the final version of the report, here is a detailed description in how we applied the feedback:
+- A3: We have documented the implementation of the design patterns with visual examples in GitLab under "schetsen en ontwerpen".
+- A4: Revisited the section “Level of automation” and rewrote parts of it. Decided to link the project to level 9 of Human in the Loop.
+- C3: We conducted new user tests, and the main findings have been documented in the final report. This time, we took a structured approach by using a test plan.
+
+
+</details>
+
+
 
 </details>
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
