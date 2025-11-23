@@ -140,10 +140,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 
 <details>
-  <summary><h2>Feedback (w.i.p...)</h2></summary>
-  
-All the feedback is spread over the folders. I am still thinking on how to fix this.
-- [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
+  <summary><h2>Feedback</h2></summary>
+
 
 
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
@@ -153,7 +151,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (6) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (8) (w.i.p...)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -227,9 +225,33 @@ We added a cancel button to our design and the testers made us think about some 
 
 
 
+<details>
+  <summary><h4>➡️➡️ Coaching meeting with David about EDA's, Flowcharts, Introduction, Research Questions (#5)</h4></summary>
+  
+On the 29th of September we had our fourth meeting with David.
+
+| Criteria | Feedback |
+|------------------|-----------|
+| EDA's | Add a summary to the final report. Also explain why a particular dataset was or was not chosen. | 
+| Flowcharts | Happy flow can be included in the concept section. Make it clear what the difference is between the flowcharts (the current state and our concept). Try to use flowchart conventions. Only add it if it conveys a message. | 
+| Introduction | “_”At the same time, this system leads to new challenges in the age verification process for alcohol sales.“_ -> elaborate on this. _”multiple cash registers. ... From compliance research"_ -> this needs to flow better. |
+| Research Questions | sub-questions are not numbered. _“”What are the shortcomings of the current age verification process at self-scan checkouts, and what criteria determine whether a computer vision solution can improve this process?“_ -> this seems to be a combination of two sub-questions; if not, explain why. And what does ”shortcomings" mean? At the next meeting, we will number the sub-questions to check whether each sub-question is answered in the final report. |
+
+We implemented the feedback as follows:
+- **EDAs**: We forgot to document the other datasets we considered besides UTKFace. We want to address this in a future deliverable. We also created a task for it so we won’t forget.
+- **Flowcharts**: There is now a clear distinction between the flowcharts. You can now see which parts belong to the old flow and which steps are added in the new flow, and this difference is also indicated with a frame. We also applied standard flowchart conventions.
+- **Introduction**: We implemented both points in our final report.
+- **Research** questions: Sub-questions have been numbered. We decided not to rewrite the sub-question and explained to David why.
+- **Other**: For the next meeting, David wanted us to answer each sub-question in the final report using only the final report itself. We prepared for this as well, so we know where everything can be found in the next meeting.
+
+
+</details>
+
+
+
 
 <details>
-  <summary><h4>➡️➡️ Tech Review Presentation and Grading (#5)</h4></summary>
+  <summary><h4>➡️➡️ Tech Review Presentation and Grading (#6)</h4></summary>
 
 I combined the presentation and the datapoint since it was sort of a blur with a lot of overlap. On the 2nd of October we had our Tech Review presentation. For some reason we had the presentation after delivering the tech review, so we got feedback on the tech review twice.
 
@@ -261,7 +283,26 @@ We implemented all the feedback in the following way:
 
 
 <details>
-  <summary><h4>➡️➡️ Ontwerp Review Grading (#6)</h4></summary>
+  <summary><h4>➡️➡️ Coaching meeting with David about the Research Questions (#7)</h4></summary>
+  
+On the 6th of October we had our fifth meeting with David.
+
+| Criteria | Feedback |
+|------------------|-----------|
+| RQ1 | rewrite without using the word “criteria,” because we don’t want to set specific criteria in the question. | 
+| RQ2 | fine |
+| RQ3 | fine, don’t forget to add the other datasets you considered to the data section. |
+| RQ4 | optionally rewrite to *“voldoet het naar de technische requirements”* instead of *“voldoet het naar de metrics en de requirements”* |
+| RQ5 | doesn’t read very well. |
+
+We haven't been able to implement anything yet due to the deadlines but we turned the feedback into tasks on our planning.
+
+</details>
+
+
+
+<details>
+  <summary><h4>➡️➡️ Ontwerp Review Grading (#8)</h4></summary>
 
 We delivered the ontwerp review on the 3rd of October and on the 17th we received feedback from Arthur and Lamia.
 
