@@ -155,7 +155,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (3) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (4) (w.i.p...)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -207,6 +207,27 @@ We updated the report by moving it to Overleaf, cut down on words, added an intr
 
 
 </details>
+
+
+
+
+
+<details>
+  <summary><h4>➡️➡️ Testing with CMD students (#4)</h4></summary>
+  
+On the 29th of September we tested our prototype with the CMD students.
+
+| Criteria | Feedback |
+|------------------|-----------|
+| Prototype | What if someone arrives wearing a cap or headscarf? What if there are several people? Who should be required to show ID? What if you are younger than 25? Then the check is pointless. It might be useful to indicate that it is only useful if you are older than 25. There is no back/cancel button. Students recommend using icons for the employee terminal, such as check marks and crosses (✅ / ❌). | 
+
+We added a cancel button to our design and the testers made us think about some questions mentioned in the feedback
+
+
+</details>
+
+
+
 
 </details>
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
