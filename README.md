@@ -144,8 +144,6 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 All the feedback is spread over the folders. I am still thinking on how to fix this.
 - [Eindoplevering Project](./Eindoplevering_Project_(wip)/README.md)
-- [Ontwerp Review](./Ontwerp_Review/README.md)
-- [Tech Review](./Tech_Review/README.md)
 
 
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
