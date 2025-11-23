@@ -155,7 +155,7 @@ All the feedback is spread over the folders. I am still thinking on how to fix t
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (5) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (6) (w.i.p...)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
