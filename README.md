@@ -124,6 +124,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Update Individual Logbook | 23 November 2025 | D1 | Add feedback entries to my logbook that were located at illogical places | You are here |
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 3</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Review H2 of our Report | 24 November 2025 | A1, A2 | I read through H2 (Background) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/RupA91Ah |
+| Review H5.4 of our Report | 24 November 2025 | A4 | I read through H5.4 (Level of Automation) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/d8YOlzgt |
+
+</details>
+
 
 
 
