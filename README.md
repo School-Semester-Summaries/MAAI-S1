@@ -714,11 +714,11 @@ Coming to school is extremely tiring. It doesn't leave me any energy to work on 
 For the group project in Blok 1 I didn't contribute a lot. I did make sure the project was structured and everything was being reviewed, but I was barely writing anything in the report. I personally didn't have any problems with this, neither did my group. We had coaching meeting with David but rarely utilized this opportunity because we didn't really understand how David could help us. Since if we sent, either we sent it too late, or we sent it in time but David just didn't read through it in detail. For the next blok it would be a good idea to first discuss with the coach what their exact contribution is and how they can help us. The group project also made me realize how important ontwerp workshops are and how little important tech workshops are, since we are being actively graded on topics mentioned in the ontwerp workshop, but topics mentioned in the tech workshop weren't really coming back in the group project if I remember correctly.
 
 ### M&T 
-Is alrigh
+M&T exercises are definitely challenging but I think I'm not really worried. I didn't score too well on my first M&T exercise but after understanding what the teachers are looking for there was clear progression in my second M&Texercise. If I just keep up this momentum I am sure I am able to get most if not all learning outcomes on "Op Niveau".
 
 ### Individual Logbook
 Individual logbook is the topic I worry the least about in this study. I think my logbook looks very nice and I got graded "Op Niveau" for it. From here I will just keep adding feedback/information to the logboook.
 
 ### Mini Symposium
-WORRY
+I am very worried about this subject. Reading and writing papers have always been out of my comfort zone and I scored terribly on all the Mini-Symposium datapoints. I started way too late on my PvA and therefore the presentation was also bad. I expected the Article to be a little better, but reading the feedback I have a better understanding now where the expectations are of my MS teachers. I think I will be able to show progression but I must definitely spend a lot of time in this subject.
 </details>
