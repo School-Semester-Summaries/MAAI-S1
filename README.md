@@ -131,7 +131,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |----------------|-----------|--------------|-----------------|------------|
 | Review H2 of our Report | 24 November 2025 | A1, A2 | I read through H2 (Background) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/RupA91Ah |
 | Review H5.4 of our Report | 24 November 2025 | A4 | I read through H5.4 (Level of Automation) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/d8YOlzgt |
-
+| Write Testplan | 25 November 2025 | C3 | Together with Bibi we wrote the testplan for testing with gemeente Oostzaan | link this |
+| Start PvA | 26 November 2025 | D2, D3 | Start brainstorming about what I want to do for my PvA. Also communicated questions to Marcio and Lamia about unclarities | - |
 </details>
 
 
@@ -495,7 +496,7 @@ I noticed that I didn't deliver the latest version. So I delivered a version wit
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium (6)</h3></summary>
+  <summary><h3>🎓 Mini Symposium (7)</h3></summary>
 
 
 
@@ -604,6 +605,31 @@ I submitted my article on the 2nd of November and received feedback on the 18th 
 
 To be honest, this is the outcome I expected. My previous study was extremely lax with researching. Just like the M&T exercises, reading the feedback gives me a better understanding of where the expectations are in the study within researching. I thought I could get away with some unclaimed sentences which wasn't the case. I have no clue what a literature review is which I have to dive into. Also agree about the points about the figures that was a last second change and it was just really dumb. No introduction to MORPH-II is indeed concerning. I could repeat everything Marcio said but he's spot on on every point. I will start on time for the next article and strive for perfection.
 
+</details>
+
+
+
+
+<details>
+  <summary><h4>➡️➡️ Sparring about PvA Idea with Marcio (#7)</h4></summary>
+
+On the 26th of November I proposed my idea for my 2nd PvA. I asked him the following questions: 
+- I was brainstorming about an idea for my PvA and came up with the following. A tutorial / how-to-guide on "how to train your first LLM from scratch" or maybe "how to transfer learn your first LLM". And then as article I would deliver a step by step guide on what to do, why to do it. I wonder what you think of this idea?
+
+| Learning Outcome | Feedback |
+|------------------|----------|
+| D2 / D3 | training a LLM from scratch is a huge endeavor. It requires a massive amount of data |
+
+I didn't fully agree with Marcio and replied on him, and also asked a follow-up question: 
+- Massive amount of data to have a "good" model yes. But i think it would still be usefull since it can help people make their first steps in training an LLM and perhaps understand the basics of training an LLM.
+Also, does this mean the other idea i had is okay for a pva/article (transfer learning an LLM)?
+
+| Learning Outcome | Feedback |
+|------------------|----------|
+| D2 / D3 | yes, some fine-tune, like the ones discussed in the tech workshop |
+
+Meaning I will most likely go in the direction of making a How-to-Guide for my PvA.
+  
 </details>
 
 <!--
