@@ -163,7 +163,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (8) (w.i.p...)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (8)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -335,7 +335,9 @@ We implemented the feedback into the final version of the report, here is a deta
 
 </details>
 
+Start Blok 2
 
+_Add Coaching Sessions Here with David_
 
 </details>
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
