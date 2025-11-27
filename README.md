@@ -133,6 +133,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Review H5.4 of our Report | 24 November 2025 | A4 | I read through H5.4 (Level of Automation) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/d8YOlzgt |
 | Write Testplan | 25 November 2025 | C3 | Together with Bibi we wrote the testplan for testing with gemeente Oostzaan | link this |
 | Start PvA | 26 November 2025 | D2, D3 | Start brainstorming about what I want to do for my PvA. Also communicated questions to Marcio and Lamia about unclarities | - |
+| Review Feedback H1 | 27 November 2025 | A1 | Together with Amber and Amir we reviewed the feedback that I gave them on their written chapter | - |
 </details>
 
 
