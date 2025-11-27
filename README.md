@@ -427,7 +427,7 @@ I now understand why my teacher decided to give me "Onder Niveau" for these lear
 <!--📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒-->
 
 <details>
-  <summary><h3>📒 Individual Coaching (5)</h3></summary>
+  <summary><h3>📒 Coaching (5)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Feedback on Individual Logbook structure (#1)</h4></summary>
@@ -496,7 +496,7 @@ On the 27th of November I discussed my current progress with Lamia.
 | Focus Points | A3, D2 and D3 should be my biggest focus points for this Block since I've been performing the worst on these learning outcomes. B1 and B2 are also focus points but I mentioned that they were off by a little and I know what I did wrong. I am not really worried about these learning outcomes since I am confident I get get them "Op Niveau". |
 | Big Miss on A3 | For A3 I documented everything on the GitLab but didn't refer to it in the report. This is a good learning point to make sure to refer to it the next time | 
 
-Updated my online repo by adding the "T", "A" and "R" to "STARRT - Intake"
+Also do I have to update my self reflection form.
 
 </details>
 
