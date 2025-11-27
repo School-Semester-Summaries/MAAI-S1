@@ -427,7 +427,7 @@ I now understand why my teacher decided to give me "Onder Niveau" for these lear
 <!--📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒📒-->
 
 <details>
-  <summary><h3>📒 Individual Logbook (4)</h3></summary>
+  <summary><h3>📒 Individual Coaching (4)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Feedback on Individual Logbook structure (#1)</h4></summary>
