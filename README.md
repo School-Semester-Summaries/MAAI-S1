@@ -134,7 +134,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Write Testplan | 25 November 2025 | C3 | Together with Bibi we wrote the testplan for testing with gemeente Oostzaan | link this |
 | Start PvA | 26 November 2025 | D2, D3 | Start brainstorming about what I want to do for my PvA. Also communicated questions to Marcio and Lamia about unclarities | - |
 | Review Feedback H1 | 27 November 2025 | A1 | Together with Amber and Amir we reviewed the feedback that I gave them on their written chapter | - |
+| Start on M&T 2a | 27 November 2025 | A2, B1, B2, B3, C2 | Started reading into Deep Learning with Python Chapter 14 | - |
 | Review Feedback H2 | 28 November 2025 | A1, A2 | Together with Amber we reviewed the feedback that I gave her and Amir on their written chapter | - |
+| Work on M&T 2a | 28 November 2025 | A2, B1, B2, B3, C2 | Continue reading and experimenting with DLP Chapter 14 | - |
+| Work on M&T 2a | 29 November 2025 | A2, B1, B2, B3, C2 | Finished Chapter 14 of DLP, started on Chapter 15 | - |
+| Work on M&T 2a | 30 November 2025 | A2, B1, B2, B3, C2 | Started working on the exercise. Built the baseline model and stated the requirements | - |
 </details>
 
 
