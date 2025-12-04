@@ -141,6 +141,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Work on M&T 2a | 30 November 2025 | A2, B1, B2, B3, C2 | Started working on the exercise. Built the baseline model and stated the requirements | - |
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 4</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Work on M&T 2a | 1 December 2025 | A2, B1, B2, B3, C2 | brainstormed about a way to improve the baseline model and trained the first improvement |
+| Work on M&T 2a | 2 December 2025 | A2, B1, B2, B3, C2 | trained the second and third iterations and finalised my exercise |
+| DEDA tool with group | 2 December 2025 | A4 | Considered the ethical considerations within our group project |
+</details>
+
 
 
 
@@ -523,7 +533,7 @@ Also do I have to update my self reflection form.
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium (7)</h3></summary>
+  <summary><h3>🎓 Mini Symposium (8)</h3></summary>
 
 
 
@@ -656,6 +666,21 @@ Also, does this mean the other idea i had is okay for a pva/article (transfer le
 | D2 / D3 | yes, some fine-tune, like the ones discussed in the tech workshop |
 
 Meaning I will most likely go in the direction of making a How-to-Guide for my PvA.
+  
+</details>
+
+
+<details>
+  <summary><h4>➡️➡️ Sparring about PvA Idea with Lamia (#8)</h4></summary>
+
+On the 3rd of December I told Lamia that I was stuck and didn't know how to proceed. We had a disucssion, here are the main points: 
+
+| Learning Outcome | Feedback |
+|------------------|----------|
+| D2 / D3 | Your idea "How to train a LLM from scratch" is too broad |
+| D2 / D3 | You are too much focussed on the final product rather than the research. The final product is just an end product of your research |
+
+I will do my PvA and paper about using text classification to classify what language a certain text is. This is usefull for detecting hate and toxicity in online chats (social media, gaming etc.). Toxicity detectors would benefit from understanding what language a hatefull comment is to better estimate if something is hatefull or not.
   
 </details>
 
