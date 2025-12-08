@@ -148,7 +148,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |----------------|-----------|--------------|-----------------|------------|
 | Work on M&T 2a | 1 December 2025 | A2, B1, B2, B3, C2 | brainstormed about a way to improve the baseline model and trained the first improvement |
 | Work on M&T 2a | 2 December 2025 | A2, B1, B2, B3, C2 | trained the second and third iterations and finalised my exercise |
-| DEDA tool with group | 2 December 2025 | A4 | Considered the ethical considerations within our group project |
+| Work on PvA | 3 December 2025 | D2, D3 | Start on PvA and discuss with Lamia what is expected and how to begin |
+| DEDA tool with group | 4 December 2025 | A4 | Considered the ethical considerations within our group project |
+| Work on PvA | 4 December 2025 | D2, D3 | Wrote the first half |
+| Work on PvA | 5 December 2025 | D2, D3 | Wrote the second half |
+| Work on Group Project | 6 December 2025 | A1, C3 | Research Word extensions |
+| Work on Group Project | 7 December 2025 | A1, C3 | Make a small prototype for my group project to show them what is possible with Word |
 </details>
 
 
