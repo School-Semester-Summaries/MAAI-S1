@@ -19,7 +19,7 @@ Je ontwerpt AI-oplossingen en handelt daarbij vanuit expliciet gemaakte ethische
 deze ontwerpen werk je intensief samen met belanghebbenden en collega’s.
 
 
-Beoordelingscriteria
+#### Beoordelingscriteria
 <table>
   <tr>
     <td>A1</td>
@@ -44,40 +44,65 @@ Je ontwikkelt AI-oplossingen. Hierbij toon je niet alleen diep begrip van de tec
 welke techniek toe te passen en hoe deze te integreren in een bredere oplossing. Hierbij werk je vanuit
 ethische principes en morele waarden.
 
-Beoordelingscriteria
-B1 Je verkent en prepareert een dataset voor het trainen en testen van een AI-model en kan de voor-
-en nadelen van het gebruik van een bestaande dataset onderbouwen, rekening houdend met
-technische en ethische randvoorwaarden.
-B2 Je stelt op basis van requirements en data een geschikte architectuur voor een AI-oplossing op en
-selecteert daarvoor passende AI-technieken gebruik makend van bijvoorbeeld machine learning,
-Master Applied AI / FDMCI – studiejaar 2025-2026 6
-deep learning, kennisrepresentatie, computer vision en natural language processing.
-B3 Je ontwikkelt een nieuw of voorgetraind AI-model volgens een iteratief en systematisch proces.
+#### Beoordelingscriteria
+<table>
+  <tr>
+    <td>B1</td>
+    <td>Je verkent en prepareert een dataset voor het trainen en testen van een AI-model en kan de voor- en nadelen van het gebruik van een bestaande dataset onderbouwen, rekening houdend met technische en ethische randvoorwaarden.</td>
+  </tr>
+  <tr>
+    <td>B2</td>
+    <td>Je stelt op basis van requirements en data een geschikte architectuur voor een AI-oplossing op en selecteert daarvoor passende AI-technieken gebruik makend van bijvoorbeeld machine learning, deep learning, kennisrepresentatie, computer vision en natural language processing.</td>
+  </tr>
+  <tr>
+    <td>B3</td>
+    <td>Je ontwikkelt een nieuw of voorgetraind AI-model volgens een iteratief en systematisch proces.</td>
+  </tr>
+</table>
 
 ### C. EVALUEREN EN MONITOREN
 Je monitort en evalueert voortdurend AI-oplossingen en AI-technologie en reflecteert op de
 maatschappelijke impact van de AI-oplossing.
 
-Beoordelingscriteria
-C1 Je evalueert hoe de ontwikkelde oplossing werkt en welke (ongewenste) consequenties de AI-
-oplossing kan hebben voor individu en maatschappij en treedt hierover in gesprek met
-vakgenoten.
-C2 Je evalueert en beoordeelt de kwaliteit van een AI-model aan de hand van kwaliteitscriteria die in
-het vakgebied erkend worden zoals robustness, performance, scalability, explainability, model
-complexity en resource demand.
-C3 Je test samen met stakeholders je oplossing met behulp van een prototype in de werkelijke
-context, en neemt de inzichten mee in je iteratieve proces.
+#### Beoordelingscriteria
+<table>
+  <tr>
+    
+<td>C1</td> 
+<td>Je evalueert hoe de ontwikkelde oplossing werkt en welke (ongewenste) consequenties de AI-oplossing kan hebben voor individu en maatschappij en treedt hierover in gesprek met vakgenoten.</td>
+  </tr>
+<tr>
+  
+<td>C2</td> 
+<td>Je evalueert en beoordeelt de kwaliteit van een AI-model aan de hand van kwaliteitscriteria die in het vakgebied erkend worden zoals robustness, performance, scalability, explainability, model complexity en resource demand.</td>
+</tr>
+<tr>
+  
+<td>C3</td> 
+<td>Je test samen met stakeholders je oplossing met behulp van een prototype in de werkelijke context, en neemt de inzichten mee in je iteratieve proces.</td>
+</tr>
+</table>
 
 ### D. ZELFSTURING
 Je kan zelfstandig bepalen wat nodig is om een complex AI-vraagstuk op te lossen, kan hierbij mogelijke
 lacunes in de eigen kennis of vaardigheden bepalen en daarvoor een passende aanpak hanteren om deze
 lacunes op te lossen.
 
-Beoordelingscriteria
-D1 Je verzamelt en verwerkt actief feedback over de eigen kennis, vaardigheden en ontwikkeling en laat
-zien deze feedback te kunnen gebruiken om je werk te verbeteren.
-D2 Je kan zelfstandig een onderzoek opzetten, uitvoeren en schriftelijk en mondeling rapporteren
-volgens de geldende standaarden uit het vakgebied.
-D3 Je kiest robuuste en valide onderzoeksmethoden en draagt zo bij aan de ontwikkeling van nieuwe
-kennis in het AI-vakgebied.
-2.6 Projectcasus
+#### Beoordelingscriteria
+<table>
+<tr>
+  
+<td>D1</td> 
+<td>Je verzamelt en verwerkt actief feedback over de eigen kennis, vaardigheden en ontwikkeling en laat zien deze feedback te kunnen gebruiken om je werk te verbeteren.</td>
+</tr>  
+<tr>
+  
+<td>D2</td> 
+<td>Je kan zelfstandig een onderzoek opzetten, uitvoeren en schriftelijk en mondeling rapporteren volgens de geldende standaarden uit het vakgebied.</td>
+</tr>
+<tr>
+  
+<td>D3</td> 
+<td>Je kiest robuuste en valide onderzoeksmethoden en draagt zo bij aan de ontwikkeling van nieuwe kennis in het AI-vakgebied.</td>
+</tr>
+</table>
