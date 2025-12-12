@@ -156,6 +156,18 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Work on Group Project | 7 December 2025 | A1, C3 | Make a small prototype for my group project to show them what is possible with Word |
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 5</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Check Learning Outcomes | 9 December 2025 | - | I read through the document placed some comments and checked if the learning outcomes mentioned per header are correct | - | 
+| Implement Peer Feedback | 10 December 2025 | - | As a group we reviewed all the comments we put in the document | - |
+| Modelling Baseline | 11 December 2025 | B2, B3 | Run and evaluate the baseline model | - |
+| Error Flows | 12 December 2025 | A3 | Created the error flows | - |
+
+</details>
+
 
 
 
