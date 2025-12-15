@@ -168,6 +168,18 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 6</h4></summary>
+  
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Review Report | 15 December 2025 | - | As a group we reviewed all the remaining comments on the report | - |
+| Review and Finetune documentation | 15 December | - | I reviewed the documentation for the code that Amir wrote. I made a minimal change to perfect it. | [GitLab](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src) |
+| Merge Branch | 15 December | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
+
+
+</details>
+
 
 
 
