@@ -196,7 +196,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (8)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (9)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -369,6 +369,17 @@ We implemented the feedback into the final version of the report, here is a deta
 </details>
 
 Start Blok 2
+
+<details>
+  <summary><h4>➡️➡️ Error Flows (#9)</h4></summary>
+  
+On the 12th of December I asked feedback to Lamia about the error flows
+
+| Criteria | Feedback |
+|------------------|-----------|
+|Error Flows| We were making error flows about the UI but that was not the goal of making error flows. For both the error flows and the AI breakdown it is the goal that we indicate what the possible errors of the AI could be. Also we don't need an error flow for each possible error. A few error flows are enough.|
+
+</details>
 
 _Add Coaching Sessions Here with David_
 
