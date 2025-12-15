@@ -208,7 +208,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 <!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
-  <summary><h3>👥 Group Project Blok 1 (9)</h3></summary>
+  <summary><h3>👥 Group Project Blok 1 (8)</h3></summary>
 
 <details>
   <summary><h4>➡️➡️ Coaching meeting with David about Project Structure and Collaboration Agreement (#1)</h4></summary>
@@ -378,12 +378,14 @@ We implemented the feedback into the final version of the report, here is a deta
 - C3: We conducted new user tests, and the main findings have been documented in the final report. This time, we took a structured approach by using a test plan.
 
 
+  </details>
 </details>
 
-Start Blok 2
+<details>
+  <summary><h3>👥 Group Project Blok 2 (1)</h3></summary>
 
 <details>
-  <summary><h4>➡️➡️ Error Flows (#9)</h4></summary>
+  <summary><h4>➡️➡️ Error Flows (#1)</h4></summary>
   
 On the 12th of December I asked feedback to Lamia about the error flows
 
