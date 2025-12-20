@@ -596,7 +596,7 @@ Also do I have to update my self reflection form.
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium (8)</h3></summary>
+  <summary><h3>🎓 Mini Symposium (9)</h3></summary>
 
 
 
@@ -747,6 +747,71 @@ I will do my PvA and paper about using text classification to classify what lang
   
 </details>
 
+
+
+<details>
+  <summary><h4>➡️➡️ Feedback and Grading on PvA-2 (#9)</h4></summary>
+
+*Overall Feedback*
+
+
+Dear Kaan,
+
+Thank you for the submission of your PvA.
+I see that you tied, but I am so confused by your PvA.
+
+You start with with a strong societal problem: online toxicity, cyberbullying, mental and physical harm (which is nice).
+
+And then you explicitly do not work on toxicity detection and build only a language identification model? How? Why?
+
+Then it makes me confused "Am I reading a plan about toxicity detection, or about language classification?" 
+
+
+At different points, the goal appears to be:
+- Reducing online toxicity
+- Building a multilingual toxicity pipeline
+- Classifying languages
+
+And all for writing a tutorial for software engineers, like yourself.
+
+None of these are wrong individually, but they are not hierarchically ordered, or connected.
+
+Then you do not justify the methodology, do not connect back to toxicity, and do not reflect the tutorial format (sections).
+
+What can you do now?
+Be more clear and structured.
+Maybe your project is about language identification for multilingual NLP systems, and treat toxicity only as an example application.
+(it does not to have a specific connection to project, it can be more open this blok given it's about NLP or LLMs)
+
+Sharpen your research question so it guides your choices. (RQ per se is not required for tutorials)
+Explain why you chose this method.
+
+Either reduce the number of languages to a well-motivated subset (e.g. 5–10), or explicitly explain why scale is important and how you will control for class imbalance.
+
+
+All this will improve feasibility and validity of your work.
+
+I hope it is clear. If you have questions, let me know.
+
+Best regards,
+Lamia
+
+| Criteria | Feedback | Grading |
+|----------|----------|---------|
+| The issue or topic to be investigated is clearly described | Clear issue with the online toxicity, especially in gaming. But this context does not come back in your RQ or methodology or target group? then why limited to gaming or focused on gaming? | Hier is nog werk nodig |
+| Objective is achievable within time | It can be feasible within time if it was more clear. Planning is very limited, it does not show all tasks ant deliverable. When will you for example evaluate? What does it mean to refresh after holidays? One week is enough to write the tutorial? And no clear structure of your potential tutorial. | Hier is nog werk nodig |
+| Objective is relevant to the project | Your objective is to solve the RQ, right? "Hoe ontwikkel je een taalmodel dat talen kan classificeren?" The RQ is vague. RQs are not required for tutorial but they guide the process What do you need to know or research? Are you comparing? or trying to find the  text classification approaches are most effective for multilingual language? Ok relevant for the project, as there is classification. But the goal is not clear. Is it about making language identification techniques accessible and reproducible for practitioners? and toxicity is only an example and later out of scope? | Hier is nog werk nodig |
+| The aim and scope of your paper are concise and clearly formulated | It is not clear why you would use 50 languages, and not focused on 1 or 2. 50 languages introduces complexity that is not acknowledged in the PvA. With 50 languages, data imbalance is almost guaranteed:<br>- High-resource languages (English, Spanish, Portuguese) will dominate<br>- Low-resource languages will eventually have fewer samples, noisier labels and poorer performance. <br><br>From an AI perspective, this leads to: poor per-language performance and eventually misleading evaluation results. Without explicit handling of class imbalance and per-language evaluation, conclusions about model performance are not reliable. Maybe there are some techniques or methods that contradicts my comments, which maybe could have explained in the background information (which is weak) Including 50 languages is theoretically valid but methodologically under-justified. You methodology could have been more justified. Dataset size (32 million comments) is overkill and may cause unnecessary overhead. How can you ensure feasibility and reproducibility? How will you evaluate? what metrics will you use? how will you measure robustness across languages? recommendation from M&T teachers is not an argument for the modelling part of the methodology | Op niveau |
+| The sources (still to be studied) are of good quality | Ok, But eventually needed more for the background information. NLP related studies. Your core reference is [10] Bag of Tricks for Efficient Text Classification | Hier is nog werk nodig |
+| There is a clear definition of the target audience | In the structure of your article you mention what you will build and the target audience: "simple tutorial that software engineers with little to no AI knowledge can follow" That's the target audience. In section 3, I have no idea what you are talking about and why there. I think you are confusing the demographic that experience online toxicity, and you want to be inclusive. That's probably something that you would consider when selecting a dataset. And when you have the target audience "software engineers with little to no AI knowledge", you can think about the tone and level of details that you need in the tutorial, which is not clear. | Hier is nog werk nodig |
+
+
+| Learning Outcome | Feedback | Grading |
+|------------------|----------|---------|
+| D2 | Overall Score | Onder Niveau |
+| D3 | Overall Score | Onder Niveau |
+
+</details>
 <!--
 
 <details>
