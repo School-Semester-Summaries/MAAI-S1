@@ -176,6 +176,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Review Report | 15 December 2025 | - | As a group we reviewed all the remaining comments on the report | - |
 | Review and Finetune documentation | 15 December | - | I reviewed the documentation for the code that Amir wrote. I made a minimal change to perfect it. | [GitLab](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src) |
 | Merge Branch | 15 December | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
+| Prepare Demo | 16 December | C3 | Prepare a mini demo inside a word extension capable of showing everything we have currently working | - |
+| Presentation | 18 December | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | - |
+
 
 
 </details>
@@ -412,7 +415,7 @@ _Add Coaching Sessions Here with David_
 <!--📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊📊-->
 
 <details>
-  <summary><h3>📊 M&T Exercises (3)</h3></summary>
+  <summary><h3>📊 M&T Exercises (4)</h3></summary>
   
 In this section I cover the exercises I made for M&T, the feedback I received and how I used this feedback.
 
@@ -463,6 +466,24 @@ On the 13th of November I asked Michalangelo why I got "Onder Niveau" for B1 and
 | B2 | • We are taught that default options are also decisions, but in this case it is okay to choose MSE if there is no valid reason to choose a different metric. In my case, I choose the MAE metric, but I wasn't able to validate correctly why I choose for that metric, therefore my grade. | - |
 
 I now understand why my teacher decided to give me "Onder Niveau" for these learning outcomes and I know now how to improve on them. The next time I will beter analyze the data and I will more carefully choose a metric.
+
+</details>
+
+<details>
+  <summary><h4>➡️➡️ Grading, Feedback and Elaboration on M&T exercise 2a (#4)</h4></summary>
+  
+On the 18th of December I received feedback on my 2a exercise.
+
+| Learning Outcome | Feedback | Grading |
+|------------------|-----------|----------|
+| A2 | (+)<br>• Er is een lijst van eisen waarvan het duidelijk is wat de verbetering zou moeten zijn<br>• Er is een kwaliteitsmaat gegeven om de verbetering te kunnen meten | Op Niveau |
+| B1 | (+)<br>• Splitsing correct gebruikt<br>• Voor- en nadelen van data besproken<br>• Voor- en nadelen van data gekoppeld aan model-kwaliteit, maar niet altijd correct verantwoord<br><br>(+/-)<br>• Voor- en nadelen van data soms gekoppeld aan kwaliteit van het model en vertalingen, maar niet altijd<br><br>(–)<br>• Je zegt: "In NLP kan dit een voordeel zijn, áls je de betekenissen van de woorden in acht neemt." Waar is dat op gebaseerd?<br>• Wat is het voordeel van een "diverse dataset"? | Op Niveau |
+| B2 | (+)<br>• Keuze van prestatiemaat is verantwoord. Je hebt correct besproken dat dit niet de logische keuze is en dat de literatuur iets anders suggereert.<br><br>(-)<br>• Eerste iteratie is verantwoord (met bron) en deels gerelateerd aan de specifieke situatie<br>• De bron suggereert dat de vocabulary 20 duizend tokens zou moeten bevatten<br>• De bron suggereert niet dat n-grams nuttig zouden zijn in een sequence-model. Dit is wat ongewoon en zou echt beter verantwoord moeten worden. Standaard is juist dat je kiest tussen een sequence-model of een set-model met N-grams | Onder Niveau | 
+| B3 | (+)<br>• Basismodel werkend gekregen<br>• Verschillen met model uit slides besproken<br>• Eerste iteratie is uitgevoerd<br><br>(+/-)<br>• Tweede iteratie is verantwoord en gerelateerd aan resultaten, maar is wel een vreemde suggestie. N-grams combineren met een sequence-model is niet standaard. Heb je hier literatuur bij gevonden? | Op Niveau |
+| C1 | (+)<br>• Modellen worden vergeleken op kwaliteitsmaat<br><br>(-)<br>• Fouten in vertalingen worden niet besproken<br>• Je evalueert de modellen op dezelfde dataset die gebruik maakt van de laatste tokenization. Dat lijkt mij geen eerlijke vergelijking.<br>• Je merkt op dat de test-prestatie in de buurt komt van de validatie-prestatie en noemt dat opmerkelijk. Onduidelijk is waarom dat je verbaast. | Onder Niveau |
+
+At first I didn't fully agree about B2, and I didn't understand C2. So I had a talk with Michelangelo about these learning outcomes. He explained me what he ment with the description in outcome C2, and it appeared that I made a small coding mistake. I noticed that the results were very strange but I didn't realize my code was faulty. So that's just whatever. We also talked about B2. I used Deep Learning with Python as reasoning for my approach, and the model did indeed get better! However, this approach was suggested for a **Set-Model** whilst the exercise was covering a **Sequence Model**. This is a detail that I didn't catch. I agreed with Michelangelo on both points. 2 silly minor mistakes, if I can learn anything here then it's just to make sure I 100% understand the exercise context and the resources that I am using since I overlooked that the source was specifically for Set-Models. AND, if I notice weird things happpen in my code such as an accuracy of 2% start wondering why that happens instead of just accepting it. I did ask classmates if anyone else was getting test scores of 2% but for some reason no-one was using the test set so I was really close to noticing it but unfortunately. I still have high hopes for exercise 2b since I know I am capable of getting "Op Niveau" on all the learning outcomes.
+
 
 </details>
 
