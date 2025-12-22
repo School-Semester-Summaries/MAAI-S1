@@ -811,6 +811,39 @@ Lamia
 | D2 | Overall Score | Onder Niveau |
 | D3 | Overall Score | Onder Niveau |
 
+To be honest I am confused by the feedback. 
+
+1. *And then you explicitly do not work on toxicity detection and build only a language identification model? How? Why?<br>Then it makes me confused "Am I reading a plan about toxicity detection, or about language classification?"*
+
+-> Both! The goal is to make a model that can detect toxicity. To achieve that I want a pipeline wherein a comment first is detected on what language the comment is written in. Next the toxicity is accessed. Maybe an image would make it more clear (see image below). 
+
+<img width="3768" height="2184" alt="image" src="https://github.com/user-attachments/assets/97093915-867d-4d13-8f3d-4bfdcb62d6e6" />
+
+2. *At different points, the goal appears to be:<br>- Reducing online toxicity<br>- Building a multilingual toxicity pipeline<br>- Classifying languages*
+
+-> Yes. Those are all goals within the project. The end goal is to reduce toxicity by developing a toxicity pipeline. But the goal within the scope of this tutorial is going to be classifying languages. A smaller portion of the full goal. I decided to only do a smaller part since it is easier technically so I have to spend less time on modelling and can spend more time on writing a good tutorial.
+
+3. *Clear issue with the online toxicity, especially in gaming.<br>But this context does not come back in your RQ or methodology or target group? then why limited to gaming or focused on gaming?*
+
+-> I reviewed my PvA and there doesn't seem to be a clear focus on gaming communities. Rather on gaming communities, social media end online forums. However, you are bringing up a fair point.
+
+4. *It can be feasible within time if it was more clear.<br>Planning is very limited, it does not show all tasks ant deliverable. When will you for example evaluate? What does it mean to refresh after holidays? 
+One week is enough to write the tutorial?<br>And no clear structure of your potential tutorial.*
+
+-> Fair, the planning is very concise.
+
+5. *Your objective is to solve the RQ, right? <br>"Hoe ontwikkel je een taalmodel dat talen kan classificeren?"<br>The RQ is vague.<br>RQs are not required for tutorial but they guide the process<br>What do you need to know or research? Are you comparing? or trying to find the  text classification approaches are most effective for multilingual language?<br>Ok relevant for the project, as there is classification.<br>But the goal is not clear. Is it about making language identification techniques accessible and reproducible for practitioners? and toxicity is only an example and later out of scope?*
+
+-> Explained in point 1.
+
+6. *It is not clear why you would use 50 languages, and not focused on 1 or 2.<br>50 languages introduces complexity that is not acknowledged in the PvA.<br><br>Dataset size (32 million comments) is overkill and may cause unnecessary overhead.*
+
+-> Fair point. I can scale it down to way less languages. This will also speedu up the modelling phase.
+
+7. *In the structure of your article you mention what you will build and the target audience: "simple tutorial that software engineers with little to no AI knowledge can follow"<br>That's the target audience.<br>In section 3, I have no idea what you are talking about and why there. I think you are confusing the demographic that experience online toxicity, and you want to be inclusive. That's probably something that you would consider when selecting a dataset.<br>And when you have the target audience "software engineers with little to no AI knowledge", you can think about the tone and level of details that you need in the tutorial, which is not clear.*
+
+-> I explained the target audience of the problem in chapter 3 target audience, and explained the target audience of the tutorial in structure of the article. The way I understood the PvA was: Explain the problem and everything related to it, and the tutorial is just a deliverable. That's why the entire PvA is focussed on solving toxicity rather than the deliverable. In hinesight I could have gone in more detail in the fact that I understood it this way, make the division more clear, and ellaborate more what I am planning to do with the tutorial.
+
 </details>
 <!--
 
