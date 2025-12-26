@@ -818,7 +818,7 @@ To be honest I am confused by the feedback.
 -> Both! The goal is to make a model that can detect toxicity. To achieve that I want a pipeline wherein a comment first is detected on what language the comment is written in. Next the toxicity is accessed. Maybe an image would make it more clear (see image below). 
 
 
-<img width="3768" height="2184" alt="image" src="https://github.com/user-attachments/assets/6aa953b6-365f-4ff4-9728-e71de1df3d7b" />
+<img width="3768" height="2184" alt="charts" src="https://github.com/user-attachments/assets/e62c49c3-1eaf-49d8-b1e2-876d404aac56" />
 
 
 2. *At different points, the goal appears to be:<br>- Reducing online toxicity<br>- Building a multilingual toxicity pipeline<br>- Classifying languages*
