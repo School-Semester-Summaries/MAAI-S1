@@ -183,6 +183,18 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 7</h4></summary>
+  I was still on vacation due to a cancelled flight, so I didn't do much
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Work on M&T-2b | 10 January | A2, B1, B2, B3, C2  | Try to understand what the exercise is even about | - |
+| Work on M&T-2b | 11 January | A2, B1, B2, B3, C2  | Read DLP Chapter 17 | - |
+
+
+
+</details>
+
 
 
 
