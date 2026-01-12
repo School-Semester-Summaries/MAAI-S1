@@ -1,6 +1,8 @@
 # MAAI - Kaan G. (Online Personal Repository)
 Welcome to my online repository! You can expand the headers by clicking on them. My structure is based off the structure in Studiehandleiding.
 
+# TODO: OVERAL BEWIJS/BRONNEN BIJVOEGEN BIJ PLANNING AGENDA DINGETJE
+
 <details>
   <summary><h2>Activiteiten en Leeruitkomsten</h2></summary>
 
@@ -175,9 +177,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |----------------|-----------|--------------|-----------------|------------|
 | Review Report | 15 December 2025 | - | As a group we reviewed all the remaining comments on the report | - |
 | Review and Finetune documentation | 15 December | - | I reviewed the documentation for the code that Amir wrote. I made a minimal change to perfect it. | [GitLab](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src) |
-| Merge Branch | 15 December | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
-| Prepare Demo | 16 December | C3 | Prepare a mini demo inside a word extension capable of showing everything we have currently working | - |
-| Presentation | 18 December | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | - |
+| Merge Branch | 15 December 2025 | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
+| Prepare Demo | 16 December 2025 | C3 | Prepare a mini demo inside a word extension capable of showing everything we have currently working | - |
+| Presentation | 18 December 2025 | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | - |
 
 
 
@@ -186,11 +188,22 @@ Per learning outcome I tried to order all the activities from most relevant to l
 <details>
   <summary><h4>➡️➡️ Week 7</h4></summary>
   I was still on vacation due to a cancelled flight, so I didn't do much
+  
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Work on M&T-2b | 10 January | A2, B1, B2, B3, C2  | Try to understand what the exercise is even about | - |
-| Work on M&T-2b | 11 January | A2, B1, B2, B3, C2  | Read DLP Chapter 17 | - |
+| Work on M&T-2b | 10 January 2026 | A2, B1, B2, B3, C2  | Try to understand what the exercise is even about | - |
+| Work on M&T-2b | 11 January 2026 | A2, B1, B2, B3, C2  | Read DLP Chapter 17, scan the m&t lessons (11, 12, 13) | - |
 
+</details>
+
+<details>
+  <summary><h4>➡️➡️ Week 8</h4></summary>
+
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Test with CMD students | 12 January 2026 | C3 | Test our digital prototype with Isabel Erven and César van Hardeveld | - |
+| Individual Coaching with Lamia | 12 January 2026 | D1 | Discuss the current progress and what to focus on. Check on me if I know what to do and how to pass the semester and also think through the worst case scenario. | - |
+| Work on M&T-2b | 11 January 2026 | A2, B1, B2, B3, C2  | Run Roberts code | - |
 
 
 </details>
