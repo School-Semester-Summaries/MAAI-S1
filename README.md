@@ -397,7 +397,8 @@ We implemented the feedback into the final version of the report, here is a deta
 </details>
 
 <details>
-  <summary><h3>👥 Group Project Blok 2 (1)</h3></summary>
+  <summary><h3>👥 Group Project Blok 2 (2)</h3></summary>
+The coaching sessions with David aren't in here since I feel like it doesn't really fit in here.
 
 <details>
   <summary><h4>➡️➡️ Error Flows (#1)</h4></summary>
@@ -407,6 +408,18 @@ On the 12th of December I asked feedback to Lamia about the error flows
 | Criteria | Feedback |
 |------------------|-----------|
 |Error Flows| We were making error flows about the UI but that was not the goal of making error flows. For both the error flows and the AI breakdown it is the goal that we indicate what the possible errors of the AI could be. Also we don't need an error flow for each possible error. A few error flows are enough.|
+
+</details>
+
+
+<details>
+  <summary><h4>➡️➡️ UML Diagram voor Model Architectuur (#2)</h4></summary>
+  
+On the 12th of January I asked further elaboration to Michiel about the UML Diagram he mentioned in the Tech Review feedback.
+
+| Criteria | Feedback |
+|------------------|-----------|
+|Model Architectuur | Looks good but could be better. Consider making use of a UML sequence diagram instead of the current Architecture Diagram. |
 
 </details>
 
