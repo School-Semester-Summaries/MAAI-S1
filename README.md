@@ -203,7 +203,13 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |----------------|-----------|--------------|-----------------|------------|
 | Test with CMD students | 12 January 2026 | C3 | Test our digital prototype with Isabel Erven and César van Hardeveld | - |
 | Individual Coaching with Lamia | 12 January 2026 | D1 | Discuss the current progress and what to focus on. Check on me if I know what to do and how to pass the semester and also think through the worst case scenario. | - |
-| Work on M&T-2b | 11 January 2026 | A2, B1, B2, B3, C2  | Run Roberts code | - |
+| Work on M&T-2b | 12 January 2026 | A2, B1, B2, B3, C2  | Build the baseline VAE | - |
+| Work on M&T-2b | 13 January 2026 | A2, B1, B2, B3, C2  | Work a ton on m&t | - |
+| Work on M&T-2b | 14 January 2026 | A2, B1, B2, B3, C2  | Finalize | - |
+| Work on M&T-2b | 15 January 2026 | A2, B1, B2, B3, C2  | rewrite some parts of my evaluation | - |
+| Make MS presentation | 15 January 2026 | D2, D3 | Revisit my topic, rerun my code, read through my PvA, write presentation | - |
+| MS presentation | 16 January 2026 | D2, D3 | I think I did a pretty good job | - |
+| Work on Group Project | 16 January 2026 | D2, D3 | - | - |
 
 
 </details>
