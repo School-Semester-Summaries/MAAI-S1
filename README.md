@@ -209,7 +209,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Work on M&T-2b | 15 January 2026 | A2, B1, B2, B3, C2  | rewrite some parts of my evaluation | - |
 | Make MS presentation | 15 January 2026 | D2, D3 | Revisit my topic, rerun my code, read through my PvA, write presentation | - |
 | MS presentation | 16 January 2026 | D2, D3 | I think I did a pretty good job | - |
-| Work on Group Project | 16 January 2026 | D2, D3 | slordigheids foutjes verwijderen. het woord "code" vervangen door meer passende synoniemen | - |
+| Work on Group Project | 17 January 2026 | D2, D3 | slordigheids foutjes verwijderen. het woord "code" vervangen door meer passende synoniemen | - |
 
 
 </details>
