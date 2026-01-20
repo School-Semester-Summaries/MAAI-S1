@@ -221,7 +221,7 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
 | Meetings with group | 19 January 2026 | - | Together scan through the document, gather and apply each others feedback. | - |
-| UML Diagram | 20 January 2026 | - | - | - |
+| Architecture Diagrams | 20 January 2026 | - | Level 1 en 2 van het C4 model gemaakr voor alle 3 de iteraties | - |
 
 </details>
 
