@@ -214,6 +214,15 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 </details>
 
+<details>
+  <summary><h4>➡️➡️ Week 9</h4></summary>
+
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Meetings with group | 19 January 2026 | - | Together scan through the document, gather and apply each others feedback. | - |
+| UML Diagram | 20 January 2026 | - | - | - |
+
+</details>
 
 
 
