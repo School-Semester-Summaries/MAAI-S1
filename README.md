@@ -222,6 +222,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |----------------|-----------|--------------|-----------------|------------|
 | Meetings with group | 19 January 2026 | - | Together scan through the document, gather and apply each others feedback. | - |
 | Architecture Diagrams | 20 January 2026 | - | Level 1 en 2 van het C4 model gemaakr voor alle 3 de iteraties | - |
+| Review Report | 22 January 2026 | - | Together scan through the document, gather and apply each others feedback | - |
+| Rewrite 4.3.1 | 22 January 2026 | - | Rewrite 4.3.1 *Model Architectuur* to make sure Ollama end the new figures are mentioned | - |
 
 </details>
 
