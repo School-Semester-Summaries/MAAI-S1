@@ -2,7 +2,9 @@
 Welcome to my online repository! You can expand the headers by clicking on them. My structure is based off the structure in Studiehandleiding.
 
 # TODO: OVERAL BEWIJS/BRONNEN BIJVOEGEN BIJ PLANNING AGENDA DINGETJE
-- voeg feedback uml
+- voeg group feedback uml michiel
+- indv feedback lamia ms
+- alle artiekel 2 working history in activiteiten
 
 <details>
   <summary><h2>Activiteiten en Leeruitkomsten</h2></summary>
