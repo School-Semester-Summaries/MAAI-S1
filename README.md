@@ -209,8 +209,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | MS presentation | 16 January 2026 | D2, D3 | I think I did a pretty good job | - |
 | Work on Group Project | 17 January 2026 | D2, D3 | slordigheids foutjes verwijderen. het woord "code" vervangen door meer passende synoniemen | - |
 
-
 </details>
+
+
 
 <details>
   <summary><h4>➡️➡️ Week 9</h4></summary>
@@ -222,7 +223,24 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Review Report | 22 January 2026 | - | Together scan through the document, gather and apply each others feedback | - |
 | Rewrite 4.3.1 | 22 January 2026 | - | Rewrite 4.3.1 *Model Architectuur* to make sure Ollama end the new figures are mentioned | - |
 | Finalize Report | 23 January 2026 | - | Reduce the word count to under 7700 | - |
-| Work on Article 2 | 24 January 2026 | - | Finish first draft of the tutorial | - |
+| First Draft Article 2 | 24 January 2026 | - | Finish first draft of the tutorial | - |
+| Second Draft Article 2 | 25 January 2026 | - | Apply Lamia's feedback on my Article. Finished 2nd draft. | - |
+
+</details>
+
+
+
+<details>
+  <summary><h4>➡️➡️ Week 10</h4></summary>
+
+| **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
+|----------------|-----------|--------------|-----------------|------------|
+| Finalize Group Project | 26 January 2026 | - | Update Gitlab-Wiki together scan through the document once more, fixing minor things, delivering the project, repo and poster | - |
+| Finalize Article 2 | 26 January 2026 | - | follow my own tutorial, give myself feedback on the entire document. applied the same feedback afterwards. | - |
+| Work on Demo | 27 January 2026 | - | Mostly work on the demo functionally. Make sure everything works. Finished a minimal demo. | - |
+| Finalize Demo | 28 January 2026 | - | Focussed on applying our design and the design patterns. Finalized the real demo, also tested everything to make sure nothing could go wrong during the demo. | - |
+| Back-up Demo | 29 January 2026 | - | My train wasn't continuing, so i wrote instructions how to run the demo, all the additional setup etcetera. This wasn't necessary in the end since I managed to get to Amsterdam in time. | - |
+| Present Demo | 29 January 2026 | - | Presented my demo together with my groupmates for stakeholders, teachers and others that were interested | - |
 
 </details>
 
