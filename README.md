@@ -463,6 +463,8 @@ We implemented the feedback into the final version of the report, here is a deta
   <summary><h3>👥 Group Project Blok 2 (2)</h3></summary>
 The coaching sessions with David aren't in here since I feel like it doesn't really fit in here.
 
+
+
 <details>
   <summary><h4>➡️➡️ Error Flows (#1)</h4></summary>
   
@@ -482,9 +484,16 @@ On the 12th of January I asked further elaboration to Michiel about the UML Diag
 
 | Criteria | Feedback |
 |------------------|-----------|
-|Model Architectuur | Looks good but could be better. Consider making use of a UML sequence diagram instead of the current Architecture Diagram. |
+| Model Architectuur | Looks good but could be better. Consider making use of a UML sequence diagram instead of the current Architecture Diagram. |
 
 </details>
+
+
+
+
+
+
+
 
 _Add Coaching Sessions Here with David_
 
@@ -684,7 +693,7 @@ Also do I have to update my self reflection form.
 <!--🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓-->
 
 <details>
-  <summary><h3>🎓 Mini Symposium (9)</h3></summary>
+  <summary><h3>🎓 Mini Symposium (12)</h3></summary>
 
 
 
@@ -935,21 +944,58 @@ One week is enough to write the tutorial?<br>And no clear structure of your pote
 -> I explained the target audience of the problem in chapter 3 target audience, and explained the target audience of the tutorial in structure of the article. The way I understood the PvA was: Explain the problem and everything related to it, and the tutorial is just a deliverable. That's why the entire PvA is focussed on solving toxicity rather than the deliverable. In hinesight I could have gone in more detail in the fact that I understood it this way, make the division more clear, and ellaborate more what I am planning to do with the tutorial.
 
 </details>
-<!--
+
+
 
 <details>
-  <summary><h4></h4></summary>
+  <summary><h4>➡️➡️ Feedback and Grading on Presentation 2 (#10)</h4></summary>
 
+On the 16th of January I presented my current progress on my Article2. 
+
+| Learning Outcome | Feedback | Grading |
+|------------------|----------|---------|
+| D2 / D3 | Dear Kaan,<br><br>Thank you for your presentation. Good presentation skills.<br>It was clear and organised.<br><br><br>Please consider the questions that were asked during the presentation.<br><br>Make sure it is clear your choices for the different languages, and the objective of your tutorial.<br><br>Best regards,<br>Lamia | Op Niveau / Op Niveau|
+
+I had fun presenting. I think my op niveau was well deserved.
+
+</details>
+
+
+
+<details>
+  <summary><h4>➡️➡️ Feedback on Article 2 (#11)</h4></summary>
+  
+In general, the tutorial structure is good, and logical. I didn’t look at the correctness and soundness of the code.
+Here some points for improvements, based on the rubric:
+
+| Criteria | Feedback |
+|----------|----------|
+| Sources | - It is good to have the book as methodological foundation. I don’t know the book per se, but are the terms like "bag-of-words," "tokenization," "word-level tokenization," and "logistic regression" explanined in the book too? Because they are introduced without references to foundational literature or documentation, and I am not sure if they are concepts that are known for NLP/ML starters. This can be important to define, or at least give references (if for the book, can be the chapter of the book). Maybe it can be a section Knowledge prerequisites, as subsection of the Prerequisites.<br>- I understand that Papluca's Language Identification dataset is from Hugging Face, but it will be good to add reference to it (I see the reference in the code, but should be when you introduce the dataset)<br>- Add library documentation references<br>- Do your readers need some refrences for ML fundamentals beyond the book? (can be no)<br>- References can be clickable links like what you have for the book, but it is also better to have the list at the end, with proper citation style (that you can chose, APA, IEEE…), and have proper links/DOI |
+| Contextualization and Objective | - It is clear what to expect to learn from the tutorial, with clear motivation<br>- I still miss why this tutorial matters, and what is the problem? You went directly to the building, without thinking about how to frame the problem. Maybe you can add a small section on the why and real word applications? |
+| Scope | - This is fine, clear definition of the scope |
+| Methods | - Logical step by step<br>- Appropriate code level for the audience level<br>- I would add more details on Prerequisites, about hardware requirements (part of Prerequisites, as subsections?). You can also add a note aboy the dataset (publically available, no API required, size…). You can event add about Package versions used, as it may have an impact (you can say this tutorial was tested using python v.3,10, pandas v. … and so on)<br>- I would also add something about how much time your reader should invest (can be divided into the estimated time for setup, walking through the tutorial and experimentation)<br>- Some justifications are missing, no explanation about the choice of hyperparameters<br>- Are there some alternatives? Why bag-of-words?<br>- Is it out of the scope to handle errors? |
+| Supporting content | - There are some visual aids like the confusion matrix<br> - Code and intermediate outputs count also as supporting content |
+| Conclusions and final section |- Do you still need to do something? Because after showing misclassifications it feels like the tutorial just stops, is that the end?<br>- What would be next steps for your readers? You can guide them towards what they can explore. Or how it related to other techniques.<br>- What are the limitations of your tutorial?<br>- You can even suggest next reading or tutorials to explore |
+
+This was mostly clear to me. I asked Lamia to ellaborate some points which she did. To implement the feedback I added two more hardware requirements to prerequisites, Enhanced the introduction by referring to real life implementations of language classification, added citations/references. Also, now there is a proper ending to the notebook, including next steps/further reading. 
   
 </details>
 
 
-<details>
-  <summary><h4></h4></summary>
 
+<details>
+  <summary><h4>➡️➡️ Self Feedback on Article 2 (#12)</h4></summary>
   
+I followed the entire tutorial and per chapter wrote down the following:
+- Sometimes, for example, i explain abc and then jump to xyz, assuming that you know that I'm referring to the alphabet. This happened a few times. Decided to sometimes add one or two sentences to make the text flow better and really guide the reader hand in hand through the document.
+- some examples were inconsistent, tried to make them format the same if they looked alike.
+- sometimes something were worded oddly. example, "bag-of-words model" however, bag-of-words is a representation, not a model. Altough, it does get referred to as a BoW-model in some cases. Anyway, by writing the tutorial I got more domain knowledge which allowed me to word sentences better.
+- Some packages installed newer versions, fixed that.
+- Rewrote some chapter introductions.
+- Chapter 5 ended without any message or markdown cell, now it does.
+- And finally, i was able to get an estimation of how long the tutorial would take. I went through it slowly and spent 30 minutes. I decided to make it 30-60 minutes since I am already furmilair with the subject.
+
 </details>
--->
 
 
   
