@@ -20,6 +20,6 @@
 - Individual Logbook (Removed because irrelevant)
 - [Report](Report/README.md)
 - Source-code (Removed because files too big)
-- [Wiki](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home)
+- [Wiki](Wiki/README.md)
 - Planning (Trello) (Removed because inaccessible)
 - [Poster](Poster_Team2.pdf)
