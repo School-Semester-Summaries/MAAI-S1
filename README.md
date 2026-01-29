@@ -1,11 +1,6 @@
 # MAAI - Kaan G. (Online Personal Repository)
 Welcome to my online repository! You can expand the headers by clicking on them. My structure is based off the structure in Studiehandleiding.
 
-# TODO: OVERAL BEWIJS/BRONNEN BIJVOEGEN BIJ PLANNING AGENDA DINGETJE
-- voeg group feedback uml michiel
-- indv feedback lamia ms
-- alle artiekel 2 working history in activiteiten
-
 <details>
   <summary><h2>Activiteiten en Leeruitkomsten</h2></summary>
 
@@ -249,13 +244,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
 <details>
   <summary><h2>Feedback</h2></summary>
 
-
-
-<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
-<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
-<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
-<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
-<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
+<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥---
+ooooooooo.   ooooooooo.     .oooooo.      oooo oooooooooooo   .oooooo.   ooooooooooooo        .o  
+`888   `Y88. `888   `Y88.  d8P'  `Y8b     `888 `888'     `8  d8P'  `Y8b  8'   888   `8      o888  
+ 888   .d88'  888   .d88' 888      888     888  888         888               888            888  
+ 888ooo88P'   888ooo88P'  888      888     888  888oooo8    888               888            888  
+ 888          888`88b.    888      888     888  888    "    888               888            888  
+ 888          888  `88b.  `88b    d88'     888  888       o `88b    ooo       888            888  
+o888o        o888o  o888o  `Y8bood8P'  .o. 88P o888ooooood8  `Y8bood8P'      o888o          o888o 
+                                       `Y888P                                                    
+---👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
 
 <details>
   <summary><h3>👥 Group Project Blok 1 (8)</h3></summary>
@@ -430,6 +428,18 @@ We implemented the feedback into the final version of the report, here is a deta
 
   </details>
 </details>
+
+
+<!--👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥---
+       .o   .o   ooooooooooooo oooooooooooo       .o.       ooo        ooooo oooooooooo.     .oooooo.    .oooooo..o 
+      .8'  .8'   8'   888   `8 `888'     `8      .888.      `88.       .888' `888'   `Y8b   d8P'  `Y8b  d8P'    `Y8 
+  .888888888888'      888       888             .8"888.      888b     d'888   888      888 888      888 Y88bo.      
+    .8'  .8'          888       888oooo8       .8' `888.     8 Y88. .P  888   888      888 888      888  `"Y8888o.  
+.888888888888'        888       888    "      .88ooo8888.    8  `888'   888   888      888 888      888      `"Y88b 
+  .8'  .8'            888       888       o  .8'     `888.   8    Y     888   888     d88' `88b    d88' oo     .d8P 
+ .8'  .8'            o888o     o888ooooood8 o88o     o8888o o8o        o888o o888bood8P'    `Y8bood8P'  8""88888P'
+---👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥👥-->
+
 
 <details>
   <summary><h3>👥 Group Project Blok 2 (2)</h3></summary>
