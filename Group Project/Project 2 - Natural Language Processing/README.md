@@ -18,7 +18,7 @@
 
 - [Collaboration Agreement](Collaboration_Agreement.pdf)
 - Individual Logbook (Removed because irrelevant)
-- [Report](report/README.md)
+- [Report](Report/README.md)
 - Source-code (Removed because files too big)
 - [Wiki](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home)
 - Planning (Trello) (Removed because inaccessible)
