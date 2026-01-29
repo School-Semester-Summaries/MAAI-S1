@@ -17,9 +17,13 @@
 ## Resources
 
 * [Collaboration Agreement](project/Collaboration_Agreement.pdf)
-* [Individual Logbook](project/logbook/README.md)
+* [*Individual Logbook](project/logbook/README.md)
 * [Report](project/report/README.md)
-* [Source-code](project/src)
+* [**Source-code](project/src)
 * [Wiki](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home)
-* [Planning (Trello)](https://trello.com/b/nJpZrrLe/team-2-maai-project-taal)
+* [***Planning (Trello)](https://trello.com/b/nJpZrrLe/team-2-maai-project-taal)
 * [Poster](project/Poster_Team2.pdf)
+
+* = Irrelevant
+** = Files too big
+*** = Inaccessible
