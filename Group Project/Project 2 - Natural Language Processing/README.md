@@ -1,25 +1,21 @@
-# Master of Applied AI Repository
+# Master of Applied AI 
 
-## General Information
+[[_TOC_]]
 
-* Template version: 1.3
-* Year: 2025-26
-* Class: 1 en 2
-* Team: 2
-* Participants:
-    * Amber van Hassel
-    * Kaan Gögcay
-    * Amir Jacobs
-    * Terence Terzol
-    * Bibiëne Wüst
-* Coach: David van Dijk
+## Report
+- [Rapport_Team2_v1.pdf](./Rapport_Team2_v1.pdf) (Ontwerp en Tech review)
+- [Rapport_Team2_v2.pdf](./Rapport_Team2_v2.pdf) (Eindoplevering)
 
-## Resources
 
-* [Collaboration Agreement](project/collab/samenwerkingscontract.pdf)
-* [Individual Logbook](project/logbook/README.md)
-* [Report](project/report/README.md)
-* [Source-code](project/src)
-* [Wiki](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home)
-* [Planning (Trello)](https://trello.com/b/nJpZrrLe/team-2-maai-project-taal)
-* [Poster](project/Poster_Team2.pdf)
+<!-- 
+>**Fill-in instructions**:
+>
+>A report should be delivered at the end of the block. This report should contain the most relevant choices, results, and discussions. The student manual has more information about the required content and outline. 
+> For template, style and limits, see the student manual. 
+>
+>Please add a link to the PDF file versioned in this repository. 
+-->
+
+## Navigation
+
+[Home](../../README.md)
