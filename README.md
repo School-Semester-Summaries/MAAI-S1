@@ -178,6 +178,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | Merge Branch | 15 December 2025 | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
 | Prepare Demo | 16 December 2025 | C3 | Prepare a mini demo inside a word extension capable of showing everything we have currently working | - |
 | Presentation | 18 December 2025 | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | - |
+| Start on Article 2 | 20 December 2025 | D2, D3 | Start programming language classifier. | - |
+| Work on Article 2 | 21 December 2025 | D2, D3 | Finish programming the language classifier. I could theoratically start writing the tutorial now. | - |
 
 
 
