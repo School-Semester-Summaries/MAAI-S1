@@ -23,6 +23,3 @@
 - [Wiki](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home)
 - Planning (Trello) (Removed because inaccessible)
 - [Poster](Poster_Team2.pdf)
-
-
-
