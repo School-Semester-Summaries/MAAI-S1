@@ -1,0 +1,1 @@
+We hebben een update gegeven over de tech review, maar verder is er concreet niet echt iets belangrijks besproken.

@@ -3,16 +3,16 @@
 * 1.1 [Coachingsessie 10 november 2025](home/Coachingsessie%2010%20november%202025.md)
 * 1.2 [Coachingsessie 17 november 2025](home/Coachingsessie%2017%20november%202025.md)
 * 1.3 [Coachingsessie 24 november 2025](home/Coachingsessie%2024%20december%202025.md)
-* 1.4 [Coachingsessie 1 december 2025](home/Coachingsessie%201%20december%202025)
-* 1.5 [Coachingsessie 8 december 2025](home/Coachingsessie%208%20december%202025)
-* 1.6 [Coachingsessie 15 december 2025](home/Coachingsessie%2015%20december%202025)
-* 1.7 [Tech review 18 december 2025](home/Tech%20review%2018%20december%202025)
-* 1.8 [Coachingsessie 5 januari 2026](home/Coachingsessie%205%20januari%202026)
-* 1.9 [Tech workshop bespreken beoordeling tech review 8 januari 2026](home/Tech%20workshop%20bespreken%20beoordeling%20tech%20review%208%20januari%202026)
-* 1.10 [Coachingsessie 12 januari 2026](home/Coachingsessie%205%12januari%202026)
-* 1.11 [Ontwerp workshop bespreken beoordeling ontwerp review 12 januari 2026](Ontwerp%20workshop%20bespreken%20beoordeling%20ontwerp%20review%2012%20januari%202026)
-* 1.12 [Coachingsessie 19 januari 2026](home/Coachingsessie%2019%20januari%202026)
-* 1.13 [Coachingsessie 23 januari 2026](home/Coachingsessie%2023%20januari%202026)
+* 1.4 [Coachingsessie 1 december 2025](home/Coachingsessie%201%20december%202025.md)
+* 1.5 [Coachingsessie 8 december 2025](home/Coachingsessie%208%20december%202025.md)
+* 1.6 [Coachingsessie 15 december 2025](home/Coachingsessie%2015%20december%202025.md)
+* 1.7 [Tech review 18 december 2025](home/Tech%20review%2018%20december%202025.md)
+* 1.8 [Coachingsessie 5 januari 2026](home/Coachingsessie%205%20januari%202026.md)
+* 1.9 [Tech workshop bespreken beoordeling tech review 8 januari 2026](home/Tech%20workshop%20bespreken%20beoordeling%20tech%20review%208%20januari%202026.md)
+* 1.10 [Coachingsessie 12 januari 2026](home/Coachingsessie%2012%20januari%202026.md)
+* 1.11 [Ontwerp workshop bespreken beoordeling ontwerp review 12 januari 2026](Ontwerp%20workshop%20bespreken%20beoordeling%20ontwerp%20review%2012%20januari%202026.md)
+* 1.12 [Coachingsessie 19 januari 2026](home/Coachingsessie%2019%20januari%202026.md) *
+* 1.13 [Coachingsessie 23 januari 2026](home/Coachingsessie%2023%20januari%202026.md)
 
 **Context in kaart brengen**
 

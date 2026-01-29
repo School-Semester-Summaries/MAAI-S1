@@ -1,0 +1,1 @@
+Deze week hadden we geen vragen aangezien we de tech review hadden. Vandaar dat deze coachingsessie niet is doorgegaan.
