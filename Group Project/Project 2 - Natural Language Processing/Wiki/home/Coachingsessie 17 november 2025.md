@@ -1,0 +1,1 @@
+Deze week kon David ons niet begeleiden, daarom zijn er geen agendapunten opgesteld en heeft er geen coachingsessie plaatsgevonden.
