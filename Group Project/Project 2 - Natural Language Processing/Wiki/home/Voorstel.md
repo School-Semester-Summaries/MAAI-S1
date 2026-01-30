@@ -5,5 +5,4 @@ De toepassing wordt ontwikkeld voor gebruik in een lokale omgeving, zodat tekste
 Met behulp van deze AI-tool kunnen medewerkers praktisch en betrouwbaar geholpen worden bij het schrijven van begrijpelijke brieven aan inwoners. Hiermee wordt de kwaliteit van gemeentelijke brieven verhoogd en wordt de dienstverlening aan inwoners toegankelijker en duidelijker.
 
 **Happy-flow**
-
-![image.png](uploads/2d9fcf9facb923800d1d6bc05ff1c71b/image.png){width=719 height=292}
+<img width="1197" height="486" alt="image" src="https://github.com/user-attachments/assets/116beb4f-95ca-435a-a1d3-2b5cab3c8c9c" />
