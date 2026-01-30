@@ -463,6 +463,7 @@ We implemented the feedback into the final version of the report, here is a deta
 
 <details>
   <summary><h3>👥 Group Project Blok 2 (5)</h3></summary>
+  
 Most of the coaching sessions with David aren't here since we didn't really get feedback most of the time. You can still find all the minutes here: [Wiki](https://github.com/School-Semester-Summaries/MAAI-S1/tree/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki)
 
 
@@ -470,7 +471,7 @@ Most of the coaching sessions with David aren't here since we didn't really get 
 
 <details>
   <summary><h4>➡️➡️ Coaching Session with David (#1)</h4></summary>
-  
+
 [On the 24th of November we had our third meeting with David](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Coachingsessie%2024%20november%202025.md). We had 3 questions:
 
 - 1. Kun je feedback geven op de tekst en inhoud van H1 en H2 van het rapport? https://www.overleaf.com/6818742613xzjrtxqwvphc#6c11f8
@@ -531,7 +532,7 @@ On the 12th of January I asked further elaboration to Michiel about the UML Diag
 
 <details>
   <summary><h4>➡️➡️ Coaching Session with David (#4)</h4></summary>
-  
+
 [On the 12th of January we had our 8th session with David](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Coachingsessie%2012%20januari%202026.md). Our agenda for the meeting:
 
 > We hebben de volgende vraag voor aankomende maandag. Tijdens de Tech Review hoorden we namelijk dat de repo natuurlijk goed zichtbaar moet zijn en alle data/het rapport etc. hier goed vindbaar moet zijn. Zou u kunnen controleren of dit voor u goed vindbaar is en of u nog informatie mist?
@@ -563,7 +564,9 @@ So we made sure all our research was added to the repo
 
 <details>
   <summary><h4>➡️➡️ Coaching Session with David (#5)</h4></summary>
+  
   There is been said a lot it would be more appropriate to just put the link to the minutes here: [Notule Coaching 19 januari](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Coachingsessie%2019%20januari%202026.md)
+  
 </details>
 
 
