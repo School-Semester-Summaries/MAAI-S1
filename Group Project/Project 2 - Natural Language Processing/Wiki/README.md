@@ -16,11 +16,11 @@
 
 **Context in kaart brengen**
 
-* 2.1 [Context en probleem](home/Context)
-* 2.2 [Stakeholderanalyse](home/Stakeholderanalyse)
-* 2.3 [Waardeproposities per stakeholder](home/Waardeproposities-per-stakeholder)
-* 2.4 [Empathy map](home/Empathy%20map)
-* 2.5 [AI-breakdown en error flows](home/AI-breakdown%20en%20error%20flows)
+* 2.1 [Context en probleem](home/Context.md) *
+* 2.2 [Stakeholderanalyse](home/Stakeholderanalyse.md) *
+* 2.3 [Waardeproposities per stakeholder](home/Waardeproposities-per-stakeholder.md)
+* 2.4 [Empathy map](home/Empathy%20map.md) *
+* 2.5 [AI-breakdown en error flows](home/AI-breakdown%20en%20error%20flows.md) *
 
 **Voorstel en eisen**
 
