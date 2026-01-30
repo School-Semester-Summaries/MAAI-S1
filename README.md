@@ -462,7 +462,7 @@ We implemented the feedback into the final version of the report, here is a deta
 
 
 <details>
-  <summary><h3>👥 Group Project Blok 2 (3)</h3></summary>
+  <summary><h3>👥 Group Project Blok 2 (5)</h3></summary>
 Most of the coaching sessions with David aren't here since we didn't really get feedback most of the time. You can still find all the minutes here: [Wiki](https://github.com/School-Semester-Summaries/MAAI-S1/tree/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki)
 
 
