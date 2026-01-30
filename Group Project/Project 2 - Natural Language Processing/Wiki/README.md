@@ -31,9 +31,9 @@
 
 **Informatie vanuit OVER-gemeenten**
 
-* 4.1 [Kennismaking OVER-gemeenten (13 nov)](home/Kennismaking-OVER-gemeenten-13-nov)
-* 4.2 [Vragen en antwoorden OVER-gemeenten (21 nov)](home/Vragen-en-antwoorden-OVER-gemeenten-21-nov)
-* 4.3 [Vragen en antwoorden OVER-gemeenten (6 jan)](home/Vragen-en-antwoorden-OVER--gemeenten)
+* 4.1 [Kennismaking OVER-gemeenten (13 nov)](home/Kennismaking-OVER-gemeenten-13-nov.md)
+* 4.2 [Vragen en antwoorden OVER-gemeenten (21 nov)](home/Vragen-en-antwoorden-OVER-gemeenten-21-nov.md)
+* 4.3 [Vragen en antwoorden OVER-gemeenten (6 jan)](home/Vragen-en-antwoorden-OVER--gemeenten.md)
 
 **Ontwerp testen**
 
