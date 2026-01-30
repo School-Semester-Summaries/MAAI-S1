@@ -73,8 +73,10 @@ Voor het systeem zijn 2 verschillende architectuur diagrammen gemaakt, een high-
 
 _Figuur 1: High-level architectuur diagram van de eerste iteratie_
 
-![C4_Iteratie1_Lv1.png](uploads/889fabbe9ca7bb86c7794127457b2f0c/C4_Iteratie1_Lv1.png){width="641" height="581"}
+<img width="641" height="581" alt="image" src="https://github.com/user-attachments/assets/038c542f-349d-49b9-9400-123dfe39417e" />
+
 
 _Figuur 2: Low-level architectuur diagram van de eerste iteratie_
 
-![C4_Iteratie1_Lv2.png](uploads/29ebdf97f646c400a8e6a5c932e8fe44/C4_Iteratie1_Lv2.png){width="900" height="535"}
+
+<img width="900" height="535" alt="image" src="https://github.com/user-attachments/assets/9c737837-ac33-4850-af4d-41354d9d7844" />
