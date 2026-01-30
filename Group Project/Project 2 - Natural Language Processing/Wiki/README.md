@@ -24,10 +24,10 @@
 
 **Voorstel en eisen**
 
-* 3.1 [Voorstel](home/Voorstel)
-* 3.2 [Requirements](home/Requirements)
-* 3.3 [DEDA-analyse](home/DEDA-analyse)
-* 3.4 [Evaluatie requirements](home/Evaluatie%20requirements)
+* 3.1 [Voorstel](home/Voorstel.md)
+* 3.2 [Requirements](home/Requirements.md)
+* 3.3 [DEDA-analyse](home/DEDA-analyse.md)
+* 3.4 [Evaluatie requirements](home/Evaluatie%20requirements.md)
 
 **Informatie vanuit OVER-gemeenten**
 

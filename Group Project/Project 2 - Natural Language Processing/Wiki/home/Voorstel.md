@@ -1,0 +1,9 @@
+Het voorstel is om een AI-gestuurde applicatie (AI-tool) te ontwikkelen die medewerkers van de OVER-gemeenten ondersteunt tijdens het schrijven van brieven aan de bewoners. Hierbij wordt, samen met statische regels, een taalmodel gebruikt om bijvoorbeeld automatisch moeilijke woorden en lange zinnen te signaleren. Hierbij worden automatisch verbeteringssuggesties gegeven die direct aansluiten op de schrijfwijzer van de OVER-gemeenten. Bij elke suggestie krijgt de medewerker een toelichting en verwijzing naar de regel in de schrijfwijzer waar de suggestie betrekking tot heeft. Hierdoor wordt de tekst verbeterd en leren medewerkers ook beter begrijpen waarom een bepaalde formulering past binnen de gemeentelijke richtlijnen.
+
+De toepassing wordt ontwikkeld voor gebruik in een lokale omgeving, zodat teksten en persoonsgegevens binnen de gemeentelijke infrastructuur blijven en niet worden gedeeld met externe partijen. Er wordt onderzocht of de AI-tool kan worden geïntegreerd als extensie binnen Microsoft Word, zodat medewerkers het hulpmiddel direct in hun vertrouwde werkomgeving kunnen gebruiken. Er is voor Word gekozen omdat dit programma dagelijks door medewerkers van de OVER-gemeenten wordt gebruikt voor het opstellen van brieven (Bijlage\~\\ref{app:informatiegemeenteoostzaan}). Om het hulpmiddel gebruiksvriendelijk en flexibel inzetbaar te maken, wordt de AI-tool zo ontworpen dat deze aan- en uitgezet kan worden. Medewerkers stellen eerst de volledige brief op, waarna de AI-tool wordt ingezet om de tekst te beoordelen.
+
+Met behulp van deze AI-tool kunnen medewerkers praktisch en betrouwbaar geholpen worden bij het schrijven van begrijpelijke brieven aan inwoners. Hiermee wordt de kwaliteit van gemeentelijke brieven verhoogd en wordt de dienstverlening aan inwoners toegankelijker en duidelijker.
+
+**Happy-flow**
+
+![image.png](uploads/2d9fcf9facb923800d1d6bc05ff1c71b/image.png){width=719 height=292}
