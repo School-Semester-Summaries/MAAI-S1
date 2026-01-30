@@ -17,10 +17,11 @@
 ## Resources
 
 - [Collaboration Agreement](Collaboration_Agreement.pdf)
-- Individual Logbook (Removed because irrelevant)
+- Individual Logbooks (Removed because irrelevant)
 - [Report](Report/README.md)
 - Source-code (Removed because files too big)
 - [Wiki](Wiki/README.md)
 - Planning (Trello) (Removed because inaccessible)
 
 - [Poster](Poster_Team2.pdf)
+
