@@ -12,4 +12,4 @@ Deze combinatie van een algemeen landelijk probleem en knelpunten binnen de OVER
 
 ## Huidige situatie (flow-diagram)
 
-![image.png](uploads/fb66e819ba95a7eec424444e9420d7c2/image.png){width=725 height=441}
+<img width="725" height="441" alt="image" src="https://github.com/user-attachments/assets/4c446f31-0974-4bed-9e17-2439da59b012" />
