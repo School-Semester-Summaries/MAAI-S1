@@ -48,13 +48,13 @@
 
 **Model bouwen**
 
-* 6.1 [Data verzamelen en voorbereiden](home/Data%20verzamelen%20en%20voorbereiden)
-* 6.2 [Keuze evaluatiemetrics](home/Keuze%20evaluatiemetrics)
-* 6.3 [Baseline model](home/Baseline%20model)
-* 6.4 [Modelkeuze en modelarchtiectuur](home/Modelkeuze%20en%20modelarchitectuur)
-* 6.5 [Onderbouwing iteraties (systematische aanpak)](home/Onderbouwing%20iteraties%20\(systematische%20aanpak\))
-* 6.6 [Resultaten en evaluatie ervan](home/Resultaten%20en%20evaluatie%20evan)
+* 6.1 [Data verzamelen en voorbereiden](home/Data%20verzamelen%20en%20voorbereiden.md)
+* 6.2 [Keuze evaluatiemetrics](home/Keuze%20evaluatiemetrics.md)
+* 6.3 [Baseline model](home/Baseline%20model.md)
+* 6.4 [Modelkeuze en modelarchtiectuur](home/Modelkeuze%20en%20modelarchitectuur.md) *
+* 6.5 [Onderbouwing iteraties (systematische aanpak)](home/Onderbouwing-iteraties-(systematische-aanpak).md)
+* 6.6 [Resultaten en evaluatie ervan](home/Resultaten%20en%20evaluatie%20evan.md)
 
 **Implementatie in de praktijk**
 
-* 7.1 [Feedbackloop](home/Feedbackloop)
+* 7.1 [Feedbackloop](home/Feedbackloop.md)
