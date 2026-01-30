@@ -2,7 +2,7 @@
 
 * 1.1 [Coachingsessie 10 november 2025](home/Coachingsessie%2010%20november%202025.md)
 * 1.2 [Coachingsessie 17 november 2025](home/Coachingsessie%2017%20november%202025.md)
-* 1.3 [Coachingsessie 24 november 2025](home/Coachingsessie%2024%20december%202025.md)
+* 1.3 [Coachingsessie 24 november 2025](home/Coachingsessie%2024%20november%202025.md)
 * 1.4 [Coachingsessie 1 december 2025](home/Coachingsessie%201%20december%202025.md)
 * 1.5 [Coachingsessie 8 december 2025](home/Coachingsessie%208%20december%202025.md)
 * 1.6 [Coachingsessie 15 december 2025](home/Coachingsessie%2015%20december%202025.md)
