@@ -463,7 +463,7 @@ We implemented the feedback into the final version of the report, here is a deta
 
 <details>
   <summary><h3>👥 Group Project Blok 2 (2)</h3></summary>
-The coaching sessions with David aren't in here since I feel like it doesn't really fit in here.
+Most of the coaching sessions with David aren't here since we didn't really get feedback most of the time
 
 
 
@@ -479,8 +479,44 @@ On the 12th of December I asked feedback to Lamia about the error flows
 </details>
 
 
+
 <details>
-  <summary><h4>➡️➡️ UML Diagram voor Model Architectuur (#2)</h4></summary>
+  <summary><h4>➡️➡️ Coaching Session with David(#2)</h4></summary>
+  
+On the 24th of December we had our third meeting with David. We had 3 questions:
+
+- 1. Kun je feedback geven op de tekst en inhoud van H1 en H2 van het rapport? https://www.overleaf.com/6818742613xzjrtxqwvphc#6c11f8
+- 2. In 2.1.1 en 2.1.2 hebben we nu in zinnen ishetb1.nl staan. Is dit correct? Hoe kunnen we dit het beste noteren?
+- 3. Wat moeten we dit keer plaatsen op de WIKI?
+  - Er zijn tijdens vorig blok tegen verschillende groepjes andere dingen gezegd.
+  - Moeten we bijvoorbeeld enkel de wiki pagina’s hebben op Gitlab of ook bijlagen in het verslag.
+
+Answers
+1. Jullie moeten nadenken over welke vraag bij een paragraaf wordt beantwoord. Verder wordt er al over problemen gepraat in paragraaf 1.1 terwijl de paragraaf 1.2 Probleem nog niet is geweest. David raad aan de vragen in een apart document op te schrijven en door te nemen. Zo kan je duidelijk een relatie leggen naar de leerdoelen. Als we zo gestructureerd aan de slag gaan dan kunnen we ook gerichtere vragen stellen, denkt David. Hij er is er erg voor dat één alinea antwoord geeft op één vraag.
+
+Daarnaast zei David dat het antwoord op de ene deelvraag weer input is op de deelvraag erna. Dit kan natuurlijk niet altijd maar zou wel mooi zijn.
+
+Verder vraagt hij zich af: "Wat betekent dit voor jullie?", "wat maakt een probleem binnen de context en wat maakt een probleem binnen het probleem?"
+
+Als we inzoomen van gemeenten naar Oostzaan, dan verwacht david niet dat we terug uitzoomen naar globaal gemeenten. In 1.1 moeten we de tekst dus van globaal naar lokaal herschrijven.
+
+2. Verwijs echt naar de bron bij ishetb1.nl. Het kan ook een footnote zijn, maar het ligt eraan welke standaard we hanteren.
+
+3. WIKI mag, bijlagen mag.
+
+Ik (Kaan) zou persoonlijk niet voor wiki gaan omdat de wiki prive staat en bijlages publiek zijn (David is het hiermee eens).
+WIKI mag, maar David wil geen verwijzingen naar de WIKI.
+
+---
+
+We decided to do both Wiki and Bijlage. About point 1. We don't really know what to do with that. 
+
+</details>
+
+
+
+<details>
+  <summary><h4>➡️➡️ UML Diagram voor Model Architectuur (#3)</h4></summary>
   
 On the 12th of January I asked further elaboration to Michiel about the UML Diagram he mentioned in the Tech Review feedback.
 
@@ -489,6 +525,7 @@ On the 12th of January I asked further elaboration to Michiel about the UML Diag
 | Model Architectuur | Looks good but could be better. Consider making use of a UML sequence diagram instead of the current Architecture Diagram. |
 
 </details>
+
 
 
 
