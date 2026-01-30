@@ -11,7 +11,7 @@
 * 1.9 [Tech workshop bespreken beoordeling tech review 8 januari 2026](home/Tech%20workshop%20bespreken%20beoordeling%20tech%20review%208%20januari%202026.md)
 * 1.10 [Coachingsessie 12 januari 2026](home/Coachingsessie%2012%20januari%202026.md)
 * 1.11 [Ontwerp workshop bespreken beoordeling ontwerp review 12 januari 2026](Ontwerp%20workshop%20bespreken%20beoordeling%20ontwerp%20review%2012%20januari%202026.md)
-* 1.12 [Coachingsessie 19 januari 2026](home/Coachingsessie%2019%20januari%202026.md) *
+* 1.12 [Coachingsessie 19 januari 2026](home/Coachingsessie%2019%20januari%202026.md)
 * 1.13 [Coachingsessie 23 januari 2026](home/Coachingsessie%2023%20januari%202026.md)
 
 **Context in kaart brengen**
@@ -37,11 +37,11 @@
 
 **Ontwerp testen**
 
-* 5.1 [Paper prototype](home/Paper%20prototype.md) *
+* 5.1 [Paper prototype](home/Paper%20prototype.md)
 * 5.2 [Testplan (1 dec)](home/Testplan-1-dec.md)
 * 5.3 [Notulen testresultaten (1 dec)](home/Notulen-testresultaten-1-dec.md)
-* 5.4 [Tweede prototype (Figma)](home/Tweede%20prototype%20(vigma).md) *
-* 5.5 [Derde prototype (Figma)](home/Derde%20prototype%20(vigma).md) *
+* 5.4 [Tweede prototype (Figma)](home/Tweede%20prototype%20(vigma).md)
+* 5.5 [Derde prototype (Figma)](home/Derde%20prototype%20(vigma).md)
 * 5.6 [Testplan (12 jan)](home/Testplan-12-jan.md)
 * 5.7 [Notulen testresultaten (12 jan)](home/Notulen-testresultaten-12-jan.md)
 * 5.8 [Samenvatting testresultaten 1 dec 2025 en 12 jan 2026](home/Samenvatting%20testresultaten%201%20dec%202025%20en%2012%20jan%202026.md)
