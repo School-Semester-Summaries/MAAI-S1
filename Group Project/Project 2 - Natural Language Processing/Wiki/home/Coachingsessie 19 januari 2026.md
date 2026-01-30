@@ -2,7 +2,8 @@ Hieronder staan de notulen van de coachingsessie van 19 januari 2026. Aanvankeli
 
 * We hebben feedback gehad van Michiel over het meer vergelijken van verschillende modellen. We vroegen ons af of hij denkt dat de laatste zin enkel slaat op de één na laatste zin of de gehele tekst.
 
-  ![image.png](uploads/e577d4500d725b39423b789ed3352ab9/image.png){width=676 height=250}
+  <img width="676" height="250" alt="image" src="https://github.com/user-attachments/assets/d21a443e-29c1-4c37-b519-17c2f7ea7810" />
+
   * David denkt dat de laatste zin niet enkel slaat op de één na laatste zin. Het meenemen van de encoder, decoder en encoder-decoder klinkt prima. Hij denkt dat er geen vervolgstappen nodig zijn, met die nuance dat – de stap hoe ga je met alle modellen naar een stap op huggingface, als we uitleggen waarom de leesplank noot modellen logisch het beste passen binnen de requirements met een goede onderbouwing hebben we genoeg modellen genoemd vindt David- We kunnen het sterker maken door te melden dat het op een andere dataset getest is en dan aan te geven welke van de 3 het beste is. De nuance zit hem erin dat het het altijd sterker maakt, als je het alle drie getest hebt op je eigen data. Ik ga ervan uit dat je het haalt als je het hebt getest op één model, maar het is natuurlijk altijd beter om ze alle drie te testen? Die één na laatste zin zit voor mij (David) meer op boven niveau. Het is meer om de keuze die er gemaakt is goed te onderbouwen.
 * We hebben gevraagd waarom je alle drie de modellen nog zou runnen als je al onderbouwd een keuze hebt gemaakt:
   * Dat hangt ervan af welke requirements zwaarder wegen. Je kan het harder maken als je kan aantonen dat het goed werkt op je eigen data (alle drie). Je kan ook noteren dat de data waarop ze getest hebben vergelijkbaar is met onze data.
