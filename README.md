@@ -81,14 +81,14 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
 | D2 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel.pdf) |
-| D2 | I | Delivered my Research Approach (PvA) | DLO: PvA |
-| D2 | I | Presented my Research Approach | - |
+| D2 | I | Delivered my Research Approach (PvA) | [PvA 1](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok1_PvA.pdf) |
+| D2 | I | Presented my Research Approach | [Powerpoint Presentation](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok1_Presentation.pptx) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
 | D3 | I | (almost) Finished my Paper | [Research Paper](./Blok1/Mini-Symposium_Artikel_(wip)/Mini-Symposium_Artikel.pdf) |
-| D3 | I | Delivered my Research Approach (PvA) | DLO: PvA |
-| D3 | I | Presented my Research Approach | - |
+| D3 | I | Delivered my Research Approach (PvA) | [PvA 1](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok1_PvA.pdf) |
+| D3 | I | Presented my Research Approach | [Powerpoint Presentation](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok1_Presentation.pptx) |
 </details>
 
 <details>
