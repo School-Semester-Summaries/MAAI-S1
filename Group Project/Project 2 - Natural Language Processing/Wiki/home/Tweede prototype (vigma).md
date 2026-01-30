@@ -6,28 +6,29 @@ Dit tweede prototype is uiteindelijk gebruikt voor de tweede testronde met stude
 
 Als eerste is de naam veranderd van AI-assistent naar Schrijfwijzer assistent. Door middel van de aan en uit knop kan de schrijfwijzer assistent aan en uit gezet worden.
 
-![Scherm­afbeelding 2026-01-23 om 12.25.19.png](/uploads/43cb15ddb069217475086017a4c7043f/Scherm_afbeelding_2026-01-23_om_12.25.19.png){width="126" height="68"}
+<img width="126" height="68" alt="image" src="https://github.com/user-attachments/assets/3aa2ae78-ef28-41dc-9244-5adaaab81392" />
+
 
 **Afbeelding 2: 'Nieuwe suggestie' toegevoegd**
 
 Door middel van de knop 'nieuwe suggestie' kan een nieuwe suggestie getoond worden van het AI-model.
 
-![Scherm­afbeelding 2026-01-23 om 12.26.30.png](/uploads/f697a7d306b315af0d52c62783db5b9d/Scherm_afbeelding_2026-01-23_om_12.26.30.png){width="193" height="262"}
+<img width="193" height="262" alt="image" src="https://github.com/user-attachments/assets/e27f11b0-f5f7-4e37-bc1c-534c9a6fd5a8" />
 
 **Afbeelding 3: Bronverwijzing**
 
 De verwijzing naar de OVER-schrijfwijzer wordt nog maar één keer getoond in dit nieuwe Figma prototype.
 
-![Scherm­afbeelding 2026-01-23 om 12.27.27.png](/uploads/9d23e758b6992486d0b70835f52a8d27/Scherm_afbeelding_2026-01-23_om_12.27.27.png){width="222" height="128"}
+<img width="222" height="128" alt="image" src="https://github.com/user-attachments/assets/f6fe79b9-e420-482b-8d50-76b79c9586a7" />
 
 **Afbeelding 4: Zelf verantwoordelijk**
 
 Bij het aanzetten van de schrijfwijzer assistent krijgt de medewerker de melding in beeld: "U bent zelf verantwoordelijk voor de inhoud van deze brief".
 
-![Scherm­afbeelding 2026-01-23 om 12.28.17.png](/uploads/6055e8abff831199be8f56479cb2541a/Scherm_afbeelding_2026-01-23_om_12.28.17.png){width="325" height="56"}
+<img width="212" height="37" alt="image" src="https://github.com/user-attachments/assets/30e601fc-40aa-456e-96d9-60639c5b6bd0" />
 
 **Afbeelding 5: Geen suggestie gevonden**
 
 Als alle suggesties zijn verwerkt, komt er een melding in het scherm dat er geen suggestie gevonden is.
 
-![Scherm­afbeelding 2026-01-23 om 12.29.22.png](/uploads/24f164e79d487077dcce3dc8a2990c76/Scherm_afbeelding_2026-01-23_om_12.29.22.png){width="146" height="255"}
+<img width="146" height="255" alt="image" src="https://github.com/user-attachments/assets/068fa712-a8da-41f1-b5ef-694e625d745c" />
