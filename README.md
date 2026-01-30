@@ -462,7 +462,7 @@ We implemented the feedback into the final version of the report, here is a deta
 
 
 <details>
-  <summary><h3>👥 Group Project Blok 2 (2)</h3></summary>
+  <summary><h3>👥 Group Project Blok 2 (3)</h3></summary>
 Most of the coaching sessions with David aren't here since we didn't really get feedback most of the time
 
 
