@@ -101,11 +101,11 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Logboek Bibiëne Doornemen | 10 November 2025 | D1 | Samen met Bibiëne haar logboek doorgenomen om inspiratie op te doen. Bibi heeft haar logboek in Notion gemaakt en ik was benieuwd hoe dat werkt | - |
-| Pitch Voorbereiden | 11 November 2025 | A1 | Met de groep de casus doorgenomen en een idee bedacht. Vervolgens voorbereid wat we willen presenteren en vragen | (link dit) | 
+| Logboek Bibiëne Doornemen | 10 November 2025 | D1 | Samen met Bibiëne haar logboek doorgenomen om inspiratie op te doen. Bibi heeft haar logboek in Notion gemaakt en ik was benieuwd hoe dat werkt | [Bibi Logbook](https://www.notion.so/Zelfreflectie-26ff3a9c1019808cade1cdf77d8f5512?source=copy_link) |
+| Pitch Voorbereiden | 11 November 2025 | A1 | Met de groep de casus doorgenomen en een idee bedacht. Vervolgens voorbereid wat we willen presenteren en vragen | [Casus](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Project-Scope2025-26.pdf) | 
 | Logboek Bijwerken | 12 November 2025 | D1 | Mijn logboek veel gestructureerder gemaakt | You are here |
-| Notule Bijhouden | 13 November 2025 | A1 | Tijdens de pitches van de andere groepjes en de presentatie van gemeente OVER heb ik aantekeningen gemaakt. Vervolgens heb ik mijn notule gecombineerd met de notule van Amber om een geheel document te vormen | (Link Dit) |
-| Empathy Maps Maken | 14 November 2025 | A1 | Samen met Terence empathy maps gemaakt voor de gemeente Oostzaan, de medewerkers van OVER en de inwoners van Oostzaan | [Empathy Maps](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/Bedrijfs--en-databegrip) |
+| Notule Bijhouden | 13 November 2025 | A1 | Tijdens de pitches van de andere groepjes en de presentatie van gemeente OVER heb ik aantekeningen gemaakt. Vervolgens heb ik mijn notule gecombineerd met de notule van Amber om een geheel document te vormen | [Aantekeningen Kennismaking OVER-Gemeenten](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Kennismaking-OVER-gemeenten-13-nov.md) |
+| Empathy Maps Maken | 14 November 2025 | A1 | Samen met Terence empathy maps gemaakt voor de gemeente Oostzaan, de medewerkers van OVER en de inwoners van Oostzaan | [Empathy Maps](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Empathy%20map.md) |
 
 </details>
 
@@ -114,13 +114,13 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Logboek Amber Doornemen | 17 November 2025 | D1 | Samen met Amber haar logboek doorgenomen om inspiratie op te doen, aangezien Amber Boven Niveau heeft behaald | - |
-| Requirements Opstellen | 18 November 2025 | A2 | Samen met Bibi de requirements van het groeps project opstellen | Bewijs hier |
+| Logboek Amber Doornemen | 17 November 2025 | D1 | Samen met Amber haar logboek doorgenomen om inspiratie op te doen, aangezien Amber Boven Niveau heeft behaald | Logboek van Amber is Privé |
+| Requirements Opstellen | 18 November 2025 | A2 | Samen met Bibi de requirements van het groeps project opstellen | [Requirements oud](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Requirements.md) |
 | Feedback Individueel Logboek | 18 November 2025 | D1 | Meeting met Lamia om te kijken hoe we mijn "Op Niveau" naar een "Boven Niveau" kunnen tillen | - |
 | Update Individual Logbook | 19 November 2025 | D1 | Add feedback entries to my logbook that I forgot to add | You are here |
 | Read the Artikel Feedback | 19 November 2025 | D2, D3 | Read through the feedback Marcio gave me about my article. There is a ton to work on which was expcted since my previous study was rather lax on the topic of research. | - | 
 | Talk with Michelangelo | 20 November 2025 | B2, B3 | Talk about when it is okay not to elaborate a technical choice and when you have to | - |
-| Review H1 of our Report | 22 November 2025 | A1 | I read through H1 (Introduction) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/4ZYapT8E |
+| Review H1 of our Report | 22 November 2025 | A1 | I read through H1 (Introduction) and commented everything that was a little off, from readability to inaccuracies | - |
 | Update Individual Logbook | 23 November 2025 | D1 | Add feedback entries to my logbook that were located at illogical places | You are here |
 </details>
 
@@ -129,16 +129,16 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Review H2 of our Report | 24 November 2025 | A1, A2 | I read through H2 (Background) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/RupA91Ah |
-| Review H5.4 of our Report | 24 November 2025 | A4 | I read through H5.4 (Level of Automation) and commented everything that was a little off, from readability to inaccuracies | https://trello.com/c/d8YOlzgt |
-| Write Testplan | 25 November 2025 | C3 | Together with Bibi we wrote the testplan for testing with gemeente Oostzaan | link this |
-| Start PvA | 26 November 2025 | D2, D3 | Start brainstorming about what I want to do for my PvA. Also communicated questions to Marcio and Lamia about unclarities | - |
-| Review Feedback H1 | 27 November 2025 | A1 | Together with Amber and Amir we reviewed the feedback that I gave them on their written chapter | - |
-| Start on M&T 2a | 27 November 2025 | A2, B1, B2, B3, C2 | Started reading into Deep Learning with Python Chapter 14 | - |
-| Review Feedback H2 | 28 November 2025 | A1, A2 | Together with Amber we reviewed the feedback that I gave her and Amir on their written chapter | - |
-| Work on M&T 2a | 28 November 2025 | A2, B1, B2, B3, C2 | Continue reading and experimenting with DLP Chapter 14 | - |
-| Work on M&T 2a | 29 November 2025 | A2, B1, B2, B3, C2 | Finished Chapter 14 of DLP, started on Chapter 15 | - |
-| Work on M&T 2a | 30 November 2025 | A2, B1, B2, B3, C2 | Started working on the exercise. Built the baseline model and stated the requirements | - |
+| Review H2 of our Report | 24 November 2025 | A1, A2 | I read through H2 (Background) and commented everything that was a little off, from readability to inaccuracies | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Review H5.4 of our Report | 24 November 2025 | A4 | I read through H5.4 (Level of Automation) and commented everything that was a little off, from readability to inaccuracies | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Write Testplan | 25 November 2025 | C3 | Together with Bibi we wrote the testplan for testing with gemeente Oostzaan | [Testplan](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Testplan-1-dec.md) |
+| Start PvA | 26 November 2025 | D2, D3 | Start brainstorming about what I want to do for my PvA. Also communicated questions to Marcio and Lamia about unclarities | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Review Feedback H1 | 27 November 2025 | A1 | Together with Amber and Amir we reviewed the feedback that I gave them on their written chapter |[Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Start on M&T 2a | 27 November 2025 | A2, B1, B2, B3, C2 | Started reading into Deep Learning with Python Chapter 14 | [DLP by Chollet](https://deeplearningwithpython.io/chapters/) |
+| Review Feedback H2 | 28 November 2025 | A1, A2 | Together with Amber we reviewed the feedback that I gave her and Amir on their written chapter | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Work on M&T 2a | 28 November 2025 | A2, B1, B2, B3, C2 | Continue reading and experimenting with DLP Chapter 14 | [M&T-2a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2a/M%26T_opdracht_Datapunt2a.ipynb) |
+| Work on M&T 2a | 29 November 2025 | A2, B1, B2, B3, C2 | Finished Chapter 14 of DLP, started on Chapter 15 | [M&T-2a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2a/M%26T_opdracht_Datapunt2a.ipynb) |
+| Work on M&T 2a | 30 November 2025 | A2, B1, B2, B3, C2 | Started working on the exercise. Built the baseline model and stated the requirements | [M&T-2a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2a/M%26T_opdracht_Datapunt2a.ipynb) |
 </details>
 
 <details>
@@ -146,14 +146,14 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Work on M&T 2a | 1 December 2025 | A2, B1, B2, B3, C2 | brainstormed about a way to improve the baseline model and trained the first improvement |
-| Work on M&T 2a | 2 December 2025 | A2, B1, B2, B3, C2 | trained the second and third iterations and finalised my exercise |
-| Work on PvA | 3 December 2025 | D2, D3 | Start on PvA and discuss with Lamia what is expected and how to begin |
-| DEDA tool with group | 4 December 2025 | A4 | Considered the ethical considerations within our group project |
-| Work on PvA | 4 December 2025 | D2, D3 | Wrote the first half |
-| Work on PvA | 5 December 2025 | D2, D3 | Wrote the second half |
-| Work on Group Project | 6 December 2025 | A1, C3 | Research Word extensions |
-| Work on Group Project | 7 December 2025 | A1, C3 | Make a small prototype for my group project to show them what is possible with Word |
+| Work on M&T 2a | 1 December 2025 | A2, B1, B2, B3, C2 | brainstormed about a way to improve the baseline model and trained the first improvement | [M&T-2a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2a/M%26T_opdracht_Datapunt2a.ipynb) |
+| Work on M&T 2a | 2 December 2025 | A2, B1, B2, B3, C2 | trained the second and third iterations and finalised my exercise | [M&T-2a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2a/M%26T_opdracht_Datapunt2a.ipynb) |
+| Work on PvA | 3 December 2025 | D2, D3 | Start on PvA and discuss with Lamia what is expected and how to begin | [PVA 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) |
+| DEDA tool with group | 4 December 2025 | A4 | Considered the ethical considerations within our group project | [DEDA Analyse](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/DEDA-analyse.md) |
+| Work on PvA | 4 December 2025 | D2, D3 | Wrote the first half | [PVA 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) |
+| Work on PvA | 5 December 2025 | D2, D3 | Wrote the second half | [PVA 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) |
+| Work on Group Project | 6 December 2025 | A1, C3 | Research Word extensions | - |
+| Work on Group Project | 7 December 2025 | A1, C3 | Make a small prototype for my group project to show them what is possible with Word | - |
 </details>
 
 <details>
@@ -162,9 +162,9 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
 | Check Learning Outcomes | 9 December 2025 | - | I read through the document placed some comments and checked if the learning outcomes mentioned per header are correct | - | 
-| Implement Peer Feedback | 10 December 2025 | - | As a group we reviewed all the comments we put in the document | - |
-| Modelling Baseline | 11 December 2025 | B2, B3 | Run and evaluate the baseline model | - |
-| Error Flows | 12 December 2025 | A3 | Created the error flows | - |
+| Implement Peer Feedback | 10 December 2025 | - | As a group we reviewed all the comments we put in the document | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Modelling Baseline | 11 December 2025 | B2, B3 | Run and evaluate the baseline model | Can be read back in [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Error Flows | 12 December 2025 | A3 | Created the error flows | [Error Flows (and AI-breakdown)](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/AI-breakdown%20en%20error%20flows.md) |
 
 </details>
 
@@ -173,13 +173,13 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Review Report | 15 December 2025 | - | As a group we reviewed all the remaining comments on the report | - |
+| Review Report | 15 December 2025 | - | As a group we reviewed all the remaining comments on the report | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
 | Review and Finetune documentation | 15 December | - | I reviewed the documentation for the code that Amir wrote. I made a minimal change to perfect it. | [GitLab](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src) |
 | Merge Branch | 15 December 2025 | B3 | Merged the baseline branch I worked on last week into the main branch | [Gitlab: baseline/](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/tree/main/project/src/baseline)
 | Prepare Demo | 16 December 2025 | C3 | Prepare a mini demo inside a word extension capable of showing everything we have currently working | - |
-| Presentation | 18 December 2025 | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | - |
-| Start on Article 2 | 20 December 2025 | D2, D3 | Start programming language classifier. | - |
-| Work on Article 2 | 21 December 2025 | D2, D3 | Finish programming the language classifier. I could theoratically start writing the tutorial now. | - |
+| Presentation | 18 December 2025 | A2, B1, B2, B3, C2  | Tech Review Presentation with my team | [Presentation](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Presentatie_TechReview_Team2.pdf) |
+| Start on Article 2 | 20 December 2025 | D2, D3 | Start programming language classifier. | [The code for my tutorial](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Artikel%20(code%20only).ipynb) |
+| Work on Article 2 | 21 December 2025 | D2, D3 | Finish programming the language classifier. I could theoratically start writing the tutorial now. | [The code for my tutorial](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Artikel%20(code%20only).ipynb) |
 
 
 
@@ -191,8 +191,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
   
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Work on M&T-2b | 10 January 2026 | A2, B1, B2, B3, C2  | Try to understand what the exercise is even about | - |
-| Work on M&T-2b | 11 January 2026 | A2, B1, B2, B3, C2  | Read DLP Chapter 17, scan the m&t lessons (11, 12, 13) | - |
+| Work on M&T-2b | 10 January 2026 | A2, B1, B2, B3, C2  | Try to understand what the exercise is even about | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
+| Work on M&T-2b | 11 January 2026 | A2, B1, B2, B3, C2  | Read DLP Chapter 17, scan the m&t lessons (11, 12, 13) | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
 
 </details>
 
@@ -201,15 +201,15 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Test with CMD students | 12 January 2026 | C3 | Test our digital prototype with Isabel Erven and César van Hardeveld | - |
+| Test with CMD students | 12 January 2026 | C3 | Test our digital prototype with Isabel Erven and César van Hardeveld | [Test with CMD-Graduates](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Notulen-testresultaten-12-jan.md) |
 | Individual Coaching with Lamia | 12 January 2026 | D1 | Discuss the current progress and what to focus on. Check on me if I know what to do and how to pass the semester and also think through the worst case scenario. | - |
-| Work on M&T-2b | 12 January 2026 | A2, B1, B2, B3, C2  | Build the baseline VAE | - |
-| Work on M&T-2b | 13 January 2026 | A2, B1, B2, B3, C2  | Work a ton on m&t | - |
-| Work on M&T-2b | 14 January 2026 | A2, B1, B2, B3, C2  | Finalize | - |
-| Work on M&T-2b | 15 January 2026 | A2, B1, B2, B3, C2  | rewrite some parts of my evaluation | - |
-| Make MS presentation | 15 January 2026 | D2, D3 | Revisit my topic, rerun my code, read through my PvA, write presentation | - |
-| MS presentation | 16 January 2026 | D2, D3 | I think I did a pretty good job | - |
-| Work on Group Project | 17 January 2026 | D2, D3 | slordigheids foutjes verwijderen. het woord "code" vervangen door meer passende synoniemen | - |
+| Work on M&T-2b | 12 January 2026 | A2, B1, B2, B3, C2  | Build the baseline VAE | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
+| Work on M&T-2b | 13 January 2026 | A2, B1, B2, B3, C2  | Work a ton on m&t | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
+| Work on M&T-2b | 14 January 2026 | A2, B1, B2, B3, C2  | Finalize | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
+| Work on M&T-2b | 15 January 2026 | A2, B1, B2, B3, C2  | rewrite some parts of my evaluation | [M&T-2b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/2b/M%26T_opdracht_Datapunt2b_kaan_2.ipynb) |
+| Make MS presentation | 15 January 2026 | D2, D3 | Revisit my topic, rerun my code, read through my PvA, write presentation | [Presentation](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Presentation.odp) |
+| MS presentation | 16 January 2026 | D2, D3 | I think I did a pretty good job | [Presentation](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Presentation.odp) |
+| Work on Group Project | 17 January 2026 | D2, D3 | slordigheids foutjes verwijderen. Waaronder het woord "code" vervangen door meer passende synoniemen | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
 
 </details>
 
@@ -221,12 +221,12 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
 | Meetings with group | 19 January 2026 | - | Together scan through the document, gather and apply each others feedback. | - |
-| Architecture Diagrams | 20 January 2026 | - | Level 1 en 2 van het C4 model gemaakr voor alle 3 de iteraties | - |
+| Architecture Diagrams | 20 January 2026 | - | Level 1 en 2 van het C4 model gemaakt voor alle 3 de iteraties | [C4 Model Eerste Iteratie](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Wiki/home/Modelkeuze%20en%20modelarchitectuur.md) |
 | Review Report | 22 January 2026 | - | Together scan through the document, gather and apply each others feedback | - |
-| Rewrite 4.3.1 | 22 January 2026 | - | Rewrite 4.3.1 *Model Architectuur* to make sure Ollama end the new figures are mentioned | - |
-| Finalize Report | 23 January 2026 | - | Reduce the word count to under 7700 | - |
-| First Draft Article 2 | 24 January 2026 | - | Finish first draft of the tutorial | - |
-| Second Draft Article 2 | 25 January 2026 | - | Apply Lamia's feedback on my Article. Finished 2nd draft. | - |
+| Rewrite 4.3.1 | 22 January 2026 | - | Rewrite 4.3.1 *Model Architectuur* to make sure Ollama end the new figures are mentioned | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Finalize Report | 23 January 2026 | - | Reduce the word count to under 7700 | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| First Draft Article 2 | 24 January 2026 | - | Finish first draft of the tutorial | [Article 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Artikel.ipynb) |
+| Second Draft Article 2 | 25 January 2026 | - | Apply Lamia's feedback on my Article. Finished 2nd draft. | [Article 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Artikel.ipynb) |
 
 </details>
 
@@ -237,8 +237,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 | **Activiteit** | **Datum** | **Leerdoel** | **Description** | **Bewijs** |
 |----------------|-----------|--------------|-----------------|------------|
-| Finalize Group Project | 26 January 2026 | - | Update Gitlab-Wiki together scan through the document once more, fixing minor things, delivering the project, repo and poster | - |
-| Finalize Article 2 | 26 January 2026 | - | follow my own tutorial, give myself feedback on the entire document. applied the same feedback afterwards. | - |
+| Finalize Group Project | 26 January 2026 | - | Update Gitlab-Wiki together scan through the document once more, fixing minor things, delivering the project, repo and poster | [Eind Rapport](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Group%20Project/Project%202%20-%20Natural%20Language%20Processing/Report/Rapport_Team2_v2.pdf) |
+| Finalize Article 2 | 26 January 2026 | - | follow my own tutorial, give myself feedback on the entire document. applied the same feedback afterwards. | [Article 2](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/Mini-Symposium/Mini-Symposium_Blok2_Artikel.ipynb) |
 | Work on Demo | 27 January 2026 | - | Mostly work on the demo functionally. Make sure everything works. Finished a minimal demo. | - |
 | Finalize Demo | 28 January 2026 | - | Focussed on applying our design and the design patterns. Finalized the real demo, also tested everything to make sure nothing could go wrong during the demo. | - |
 | Back-up Demo | 29 January 2026 | - | My train wasn't continuing, so i wrote instructions how to run the demo, all the additional setup etcetera. This wasn't necessary in the end since I managed to get to Amsterdam in time. | - |
