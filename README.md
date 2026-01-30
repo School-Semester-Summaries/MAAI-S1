@@ -1071,3 +1071,24 @@ Individual logbook is the topic I worry the least about in this study. I think m
 ### Mini Symposium
 I am very worried about this subject. Reading and writing papers have always been out of my comfort zone and I scored terribly on all the Mini-Symposium datapoints. I started way too late on my PvA and therefore the presentation was also bad. I expected the Article to be a little better, but reading the feedback I have a better understanding now where the expectations are of my MS teachers. I think I will be able to show progression but I must definitely spend a lot of time in this subject.
 </details>
+
+
+
+<details>
+  <summary><h2>Conclusies en Inzichten van Blok 2</h2></summary>
+I went less to school as I wanted in the conclusion of Block 1. Only visited lessons that were necessary in my eyes. This definitely helped with my energy and motivation, also giving myself way more time to self-study. At the end of the semester I definitely feel like I gained enough knowledge to be able to pass this semester. At this moment I am just waiting for 4 gradings which are: M&T-2b, Group Project 2, Article 2 and Logbook 2. But I am pretty confident about all of these so I think I'm good. In the absolute worst case scenario I fail learning outcomes B, C and D. But I think it's more likely that I will fail 0 to 2 learning outcomes. Anyway, my current progress:
+
+<img width="704" height="501" alt="image" src="https://github.com/user-attachments/assets/23b10a10-d0ef-4d76-83a6-1502f5d792aa" />
+
+### Group Project
+I had a very fun group again. This time I wasn't really the group "leader" but more just someone that works in the group. It was refreshing to have felt both roles in such short notice. I did contribute an okay amount, more than last time at least. But on the other hand, maybe it felt less this time because we were with 5 people? Since I asked one other groupmate that also felt he/she wasn't doing too much. We had a slow start with David, our group coach. We couldn't really figure out how to ask feedback to him, since our questions were always too broad. Near the end of the semester we did manage to get useful feedback from our group coach.
+
+### M&T
+M&T exercises were fun and a bit challenging. This time I was more aware of what was expected from me. In M&T-2a I was extremely close to 5/5 op niveau's, but I made two minor errors. That motivated me alot, knowing that I am able to get 5/5 op niveau.
+
+### Individual Logbook
+I think logbook looks nice. Only point that stand out are the fact that I used a different format in Blok 1 compared to blok 2 if you look in "Activiteiten en Leeruikomsten". Also am I not too satisfied with the informational side of the logbook. I did reflect on all the feedback I received but didn't always document that well in the logbook. So that's definitely a point to keep in mind next semester. And also follow the studiehandleiding better in context of logbook. Since the studiehandleiding literally explains how to document your reflection but I didn't always do that.
+
+### Mini Symposium
+I was very worries in blok 1, going into blok 2 i was still worried. The moment I saw we had to write a tutorial I was quite reliefed. I have written tutorials for myself and on my github before. I do that because sometimes I like to revisit my old work and go through it. Therefore I was pretty confident about the second article. I also asked feedback about my article for once to reassure it is actually good. Also my presentation went well, so way less worries than before. I think my D learning outcome might be alright.
+</details>
