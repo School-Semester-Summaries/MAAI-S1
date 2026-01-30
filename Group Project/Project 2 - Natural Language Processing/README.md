@@ -7,11 +7,11 @@
 * Class: 1 en 2
 * Team: 2
 * Participants:
-    * Amber van Hassel
-    * Kaan Gögcay
-    * Amir Jacobs
-    * Terence Terzol
-    * Bibiëne Wüst
+    * Amber van H.
+    * Kaan G.
+    * Amir J.
+    * Terence T.
+    * Bibiëne W.
 * Coach: David van Dijk
 
 ## Resources
@@ -22,4 +22,5 @@
 - Source-code (Removed because files too big)
 - [Wiki](Wiki/README.md)
 - Planning (Trello) (Removed because inaccessible)
+
 - [Poster](Poster_Team2.pdf)
