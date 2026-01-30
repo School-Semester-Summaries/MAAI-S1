@@ -2,12 +2,11 @@
 
 **Medewerkers die brieven schrijven of controleren**
 
-![image.png](uploads/bfc72183d50daa186789d2f7190a2462/image.png)
+<img width="1553" height="1005" alt="image" src="https://github.com/user-attachments/assets/a4b6d5f3-32ff-45d1-aa03-b54b8c691f3c" />
 
 #### Gemeente Oostzaan
-
-![image.png](uploads/10a5aa2daaa64d2786de5bf1aa2c8c22/image.png)
+<img width="3234" height="2098" alt="image" src="https://github.com/user-attachments/assets/c31f866a-1773-4cf1-8084-58340fe46c63" />
 
 **Inwoners van Gemeente Oostzaan**
+<img width="3218" height="2108" alt="image" src="https://github.com/user-attachments/assets/31358715-41d8-4087-bcba-7af3c553b2a8" />
 
-![image.png](uploads/c87ebf2aa90d2eaa3ac0015e9cfbab86/image.png)
