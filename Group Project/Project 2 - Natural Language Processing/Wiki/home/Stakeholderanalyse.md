@@ -14,4 +14,5 @@ In onderstaande tabel staat een overzicht van de stakeholders. Daarnaast worden 
 
 Onderstaande figuur toont de positie van de stakeholders in de macht–belangdiagram. Medewerkers die brieven schrijven en controleren, evenals de Gemeente Oostzaan, hebben zowel veel belang als veel macht en spelen daarom een centrale rol in de ontwikkeling van de applicatie. De ICT-afdeling beschikt over veel macht vanwege de technische randvoorwaarden, maar heeft minder direct inhoudelijk belang. Inwoners van de gemeente en de overheid hebben juist een groot belang bij duidelijke communicatie, maar weinig macht over het ontwerp van de tool.
 
-![macht_belangmatrix.png](uploads/c2dbd38593f2230dd3823fbf6421a8e2/macht_belangmatrix.png){width="533" height="394"}
+
+<img width="533" height="394" alt="image" src="https://github.com/user-attachments/assets/d018b3ab-5ac6-476e-a59f-3e0fa03eda18" />
