@@ -37,21 +37,21 @@
 
 **Ontwerp testen**
 
-* 5.1 [Paper prototype](home/Paper%20prototype)
-* 5.2 [Testplan (1 dec)](home/Testplan-1-dec)
-* 5.3 [Notulen testresultaten (1 dec)](home/Notulen-testresultaten-1-dec)
-* 5.4 [Tweede prototype (Figma)](home/Tweede%20prototype%20\(vigma\))
-* 5.5 [Derde prototype (Figma)](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b2/team-2/-/wikis/home/Derde%20prototype%20\(vigma\))
-* 5.6 [Testplan (12 jan)](home/Testplan-12-jan)
-* 5.7 [Notulen testresultaten (12 jan)](home/Notulen-testresultaten-12-jan)
-* 5.8 [Samenvatting testresultaten 1 dec 2025 en 12 jan 2026](home/Samenvatting%20testresultaten%201%20dec%202025%20en%2012%20jan%202026)
+* 5.1 [Paper prototype](home/Paper%20prototype.md) *
+* 5.2 [Testplan (1 dec)](home/Testplan-1-dec.md)
+* 5.3 [Notulen testresultaten (1 dec)](home/Notulen-testresultaten-1-dec.md)
+* 5.4 [Tweede prototype (Figma)](home/Tweede%20prototype%20(vigma).md) *
+* 5.5 [Derde prototype (Figma)](/home/Derde%20prototype%20(vigma).md) *
+* 5.6 [Testplan (12 jan)](home/Testplan-12-jan.md)
+* 5.7 [Notulen testresultaten (12 jan)](home/Notulen-testresultaten-12-jan.md)
+* 5.8 [Samenvatting testresultaten 1 dec 2025 en 12 jan 2026](home/Samenvatting%20testresultaten%201%20dec%202025%20en%2012%20jan%202026.md)
 
 **Model bouwen**
 
 * 6.1 [Data verzamelen en voorbereiden](home/Data%20verzamelen%20en%20voorbereiden.md)
 * 6.2 [Keuze evaluatiemetrics](home/Keuze%20evaluatiemetrics.md)
 * 6.3 [Baseline model](home/Baseline%20model.md)
-* 6.4 [Modelkeuze en modelarchtiectuur](home/Modelkeuze%20en%20modelarchitectuur.md) *
+* 6.4 [Modelkeuze en modelarchtiectuur](home/Modelkeuze%20en%20modelarchitectuur.md)
 * 6.5 [Onderbouwing iteraties (systematische aanpak)](home/Onderbouwing-iteraties-(systematische-aanpak).md)
 * 6.6 [Resultaten en evaluatie ervan](home/Resultaten%20en%20evaluatie%20evan.md)
 
