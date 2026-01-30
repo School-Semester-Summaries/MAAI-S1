@@ -467,23 +467,11 @@ Most of the coaching sessions with David aren't here since we didn't really get 
 
 
 
-<details>
-  <summary><h4>➡️➡️ Error Flows (#1)</h4></summary>
-  
-On the 12th of December I asked feedback to Lamia about the error flows
-
-| Criteria | Feedback |
-|------------------|-----------|
-|Error Flows| We were making error flows about the UI but that was not the goal of making error flows. For both the error flows and the AI breakdown it is the goal that we indicate what the possible errors of the AI could be. Also we don't need an error flow for each possible error. A few error flows are enough.|
-
-</details>
-
-
 
 <details>
-  <summary><h4>➡️➡️ Coaching Session with David(#2)</h4></summary>
+  <summary><h4>➡️➡️ Coaching Session with David(#1)</h4></summary>
   
-On the 24th of December we had our third meeting with David. We had 3 questions:
+On the 24th of November we had our third meeting with David. We had 3 questions:
 
 - 1. Kun je feedback geven op de tekst en inhoud van H1 en H2 van het rapport? https://www.overleaf.com/6818742613xzjrtxqwvphc#6c11f8
 - 2. In 2.1.1 en 2.1.2 hebben we nu in zinnen ishetb1.nl staan. Is dit correct? Hoe kunnen we dit het beste noteren?
@@ -512,6 +500,22 @@ WIKI mag, maar David wil geen verwijzingen naar de WIKI.
 We decided to do both Wiki and Bijlage. About point 1. We don't really know what to do with that. 
 
 </details>
+
+
+
+<details>
+  <summary><h4>➡️➡️ Error Flows (#2)</h4></summary>
+  
+On the 12th of December I asked feedback to Lamia about the error flows
+
+| Criteria | Feedback |
+|------------------|-----------|
+|Error Flows| We were making error flows about the UI but that was not the goal of making error flows. For both the error flows and the AI breakdown it is the goal that we indicate what the possible errors of the AI could be. Also we don't need an error flow for each possible error. A few error flows are enough.|
+
+</details>
+
+
+
 
 
 
