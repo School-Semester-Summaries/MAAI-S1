@@ -18,8 +18,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
 | A2 | G | As a group we formulated the requirements of our project case |  [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
-| A2 | I | In the first m&t exercise, I formulated functional and technical requirements | DLO: m&t exercise 1a |
-| A2 | I | In the second m&t exercise, I formulated functional and technical requirements | DLO: m&t exercise 1b |
+| A2 | I | In the first m&t exercise, I formulated functional and technical requirements | [m&t exercise 1a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1a/M%26T_1a.ipynb) |
+| A2 | I | In the second m&t exercise, I formulated functional and technical requirements | [m&t exercise 1b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1b/M%26T_1b.ipynb) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
@@ -37,19 +37,19 @@ Per learning outcome I tried to order all the activities from most relevant to l
 |--------------|-----|------------|-------------------|
 | B1 | G | Performed an EDA on the FGNET dataset and wrote about it in the part "Data" | [Eindrapport-v0.7](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Eindrapport/Eindrapport-v0.7.pdf) |
 | B1 | G | Performed an EDA on the MORPH-II dataset and wrote about it in the part "Data" | [EDA](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/eda.ipynb) |
-| B1 | I | In the first m&t exercise, I performed data analysis | DLO: m&t exercise 1a |
+| B1 | I | In the first m&t exercise, I performed data analysis | [m&t exercise 1a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1a/M%26T_1a.ipynb)  |
 | B1 | G | Reviewed the paragraph "Data" | [Feedback but in document](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/boards/36492?search=data&show=eyJpaWQiOiI2MCIsImZ1bGxfcGF0aCI6Im1hYWkvMjAyNS0yMDI2LTEtYjEvY2xhc3MtMS10ZWFtLTEiLCJpZCI6MzUyODA3fQ%3D%3D#:~:text=Best%20wel%20wat%20feedback%20bijgezet) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
-| B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | DLO: m&t exercise 1a |
-| B2 | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | DLO: m&t exercise 1b |
+| B2 | I | In the first m&t exercise, I used my requirements to create an AI-Architecture | [m&t exercise 1a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1a/M%26T_1a.ipynb)  |
+| B2 | I | In the second m&t exercise, I used my requirements to create an AI-Architecture | [m&t exercise 1b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1b/M%26T_1b.ipynb) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
 | B3 | I | for my research paper i developed an ai age prediction model | [Age Prediction Model](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/modelling.ipynb) |
-| B3 | I | In the first m&t exercise, I created an AI-model | DLO: m&t exercise 1a |
-| B3 | I | In the second m&t exercise, I created an AI-model | DLO: m&t exercise 1b |
+| B3 | I | In the first m&t exercise, I created an AI-model | [m&t exercise 1a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1a/M%26T_1a.ipynb)  |
+| B3 | I | In the second m&t exercise, I created an AI-model | [m&t exercise 1b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1b/M%26T_1b.ipynb) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
@@ -57,8 +57,8 @@ Per learning outcome I tried to order all the activities from most relevant to l
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
-| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model | DLO: m&t exercise 1a |
-| C2 | I | In the second m&t exercise, I evaluated the quality of my AI-model | DLO: m&t exercise 1b |
+| C2 | I | In the first m&t exercise, I evaluated the quality of my AI-model | [m&t exercise 1a](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1a/M%26T_1a.ipynb) |
+| C2 | I | In the second m&t exercise, I evaluated the quality of my AI-model | [m&t exercise 1b](https://github.com/School-Semester-Summaries/MAAI-S1/blob/main/M%26T/1b/M%26T_1b.ipynb) |
 
 | **Leeruitkomst** | **I/G** | **Activiteit** | **Bewijs**
 |--------------|-----|------------|-------------------|
