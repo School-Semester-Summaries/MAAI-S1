@@ -3,6 +3,7 @@ Completely changing the layout, for old readme click [here](./README_old.md)
 ---
 
 # MAAI-S1 Portfolio (wip)
+## Introductie
 In deze README leg ik zo beknopt mogelijk uit wat ik allemaal heb gedaan. Belangrijke dingen om te weten, er zijn 4 leeruitkomsten (A, B, C, D) en 13 sub leeruitkomsten (A1, A2, A3, A4, B1, B2, B3, C1, C2, C3, D1, D2, D3). [Hier een beschrijving per leeruitkomst en sub-leeruikomst die golden voor MAAI-S1 Blok 1 (2025-2026)](./LearningOutcomes.md) (in blok 2 zijn de leeruitkomsten minimaal veranderd). Het eerste semester bestaat uit 2 blokken. Blok 1 is gericht op beeldherkenning (computer vision) en blok 2 is gericht op taalmodellen (Natural Language Processing). 
 
 In het eerste semester waren er in totaal 18 datapunten. Een datapunt is een moment waarop je beoordeeld wordt op sub-leeruitkomsten. Een datapunt heeft geen vast aantal sub-leeruitkomsten waarop je beoordeeld wordt. Zo wordt het logboek (week 44) enkel op D1 beoordeeld, maar M&T opdracht 1a (week 39) op A2, B1, B2, B3 en C2 (Figuur 1).
@@ -35,6 +36,13 @@ We hebben in het eerste semester 4 verschillende M&T opdrachten gehad. In chrono
 
 ## Mini-Symposium (wip)
 vetel wat over het proces van mini symp
+
+| Opdracht | Topic | A2 | B1 | B2 | B3 | C2 |
+| ------------- | ------------- |-|-|-|-|-|
+| [](./M&T/1a/) |  | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| [M&T 2a](./M&T/1b/) | Machine Translation | 🔵 | 🔴 | 🔴 | 🔵 | 🔵 |
+| [M&T 1b](./M&T/1b/) | Function Approximation | 🔵 | 🔵 | 🔴 | 🔵 | 🔴 |
+| [M&T 2b](./M&T/2b/) | Semi-supervised learning with VAE | 🔵 | 🔴 | 🔵 | 🔴 | 🔵 |
 
 
 ## Logbook
