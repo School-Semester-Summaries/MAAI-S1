@@ -35,14 +35,17 @@ We hebben in het eerste semester 4 verschillende M&T opdrachten gehad. In chrono
 | [M&T 2b](./M&T/2b/) | Semi-supervised learning with VAE | 🔵 | 🔴 | 🔵 | 🔴 | 🔵 |
 
 ## Mini-Symposium (wip)
-vetel wat over het proces van mini symp
+vetel wat over het proces van mini symp, D2, D3 belangrijk en miss hier ook iets over die poster presentatie
 
-| Opdracht | Topic | A2 | B1 | B2 | B3 | C2 |
-| ------------- | ------------- |-|-|-|-|-|
-| [](./M&T/1a/) |  | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| [M&T 2a](./M&T/1b/) | Machine Translation | 🔵 | 🔴 | 🔴 | 🔵 | 🔵 |
-| [M&T 1b](./M&T/1b/) | Function Approximation | 🔵 | 🔵 | 🔴 | 🔵 | 🔴 |
-| [M&T 2b](./M&T/2b/) | Semi-supervised learning with VAE | 🔵 | 🔴 | 🔵 | 🔴 | 🔵 |
+| Opdracht | D2 | D3 |
+| ------------- | ------------- |-|-|
+| [Topic Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Presentation.pdf) | 🔴 -> 🔵 | 🔴 |
+| [PvA Artikel](./Mini-Symposium/Mini-Symposium_Blok1_PvA.pdf) | 🔴 | 🔴 |
+| [Artikel](./Mini-Symposium/Mini-Symposium_Blok1_Artikel.pdf) | 🔴 | 🔴 |
+| [Poster Presentatie*](./Mini-Symposium/Mini-Symposium_Blok1_Poster.pdf) | * | - |
+| [Topic Presentatie 2](./Mini-Symposium/Mini-Symposium_Blok2_Presentation.pdf) | 🔵 | 🔵 |
+| [PvA Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) | 🔴 | 🔴 |
+| [Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_Artikel.pdf) | 🔵 | 🔵 |
 
 
 ## Logbook
