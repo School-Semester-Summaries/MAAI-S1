@@ -39,10 +39,10 @@ vetel wat over het proces van mini symp, D2, D3 belangrijk en miss hier ook iets
 
 | Opdracht | D2 | D3 |
 | ------------- | ------------- |-|
-| [Topic Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Presentation.pdf) | 🔴 -> 🔵 | 🔴 |
+| [Topic Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Presentation.pdf) | 🔴 -> 🔵* | 🔴 |
 | [PvA Artikel](./Mini-Symposium/Mini-Symposium_Blok1_PvA.pdf) | 🔴 | 🔴 |
 | [Artikel](./Mini-Symposium/Mini-Symposium_Blok1_Artikel.pdf) | 🔴 | 🔴 |
-| [Poster Presentatie*](./Mini-Symposium/Mini-Symposium_Blok1_Poster.pdf) | * | - |
+| [*Poster Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Poster.pdf) | * | - |
 | [Topic Presentatie 2](./Mini-Symposium/Mini-Symposium_Blok2_Presentation.pdf) | 🔵 | 🔵 |
 | [PvA Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) | 🔴 | 🔴 |
 | [Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_Artikel.pdf) | 🔵 | 🔵 |
