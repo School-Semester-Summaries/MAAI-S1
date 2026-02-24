@@ -45,22 +45,22 @@ We hebben in het eerste semester 4 verschillende M&T opdrachten gehad. In chrono
 | [M&T 1b](./M&T/1b/) | Function Approximation | 🔵 | 🔵 | 🔴 | 🔵 | 🔴 |
 | [M&T 2b](./M&T/2b/) | Semi-supervised learning with VAE | 🔵 | 🔴 | 🔵 | 🔴 | 🔵 |
 
-## Mini-Symposium (wip)
-vetel wat over het proces van mini symp, D2, D3 belangrijk en miss hier ook iets over die poster presentatie
+## Mini-Symposium
+Mini-Symposium is de enige manier om sub-leeruitkomsten D2 en D3 aan te tonen. Hierdoor speelt het Mini-Symposium een erg grote factor in leeruitkomst D. Het onderdeel *Poster Presentatie zie je niet terug in het datapunten overzicht. De poster presentatie was een soort van herkansing om je presentatie skills opnieuw aan te tonen. Mocht je deze presentatie beter presenteren dan je Topic Presentatie, dan wordt het cijfer bij je topic presentatie vervangen door de poster presentatie.
 
 | Opdracht | D2 | D3 |
 | ------------- | ------------- |-|
-| [Topic Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Presentation.pdf) | 🔴 -> 🔵* | 🔴 |
+| [Topic Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Presentation.pdf) | 🔴 -> 🔵* | 🔴 -> 🔴* |
 | [PvA Artikel](./Mini-Symposium/Mini-Symposium_Blok1_PvA.pdf) | 🔴 | 🔴 |
 | [Artikel](./Mini-Symposium/Mini-Symposium_Blok1_Artikel.pdf) | 🔴 | 🔴 |
-| [*Poster Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Poster.pdf) | * | - |
+| [*Poster Presentatie](./Mini-Symposium/Mini-Symposium_Blok1_Poster.pdf) | * | * |
 | [Topic Presentatie 2](./Mini-Symposium/Mini-Symposium_Blok2_Presentation.pdf) | 🔵 | 🔵 |
 | [PvA Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_PvA.pdf) | 🔴 | 🔴 |
 | [Artikel 2](./Mini-Symposium/Mini-Symposium_Blok2_Artikel.pdf) | 🔵 | 🔵 |
 
 
-## Logbook
-In het logboek houd log je alle feedback die je hebt ontvangen van docenten. Het is in deze opleiding ook de bedoeling dat je zelf actief op zoek gaat naar feedback. Het logboek moet de volgende dingen bevatten volgens de studiehandleiding:
+## Coaching (Logbook)
+Het enige onderdeel binnen coaching met datapunten is het logboek. In het logboek houd log je alle feedback die je hebt ontvangen van docenten. Het is in deze opleiding ook de bedoeling dat je zelf actief op zoek gaat naar feedback. Het logboek moet de volgende dingen bevatten volgens de studiehandleiding:
 - Wat de feedback was,
 - Waar deze over ging (bijv. code, samenwerking, onderzoeksaanpak),
 - Hoe dit aansluit bij jouw leerdoelen of ontwikkeling,
@@ -71,4 +71,17 @@ In het logboek houd log je alle feedback die je hebt ontvangen van docenten. Het
 | Logboek Blok 1 | 🔵 |
 | [Logboek Blok 1 en 2](./README_old.md) | ⭐ |
 
-## Group Project
+## Group Project (wip)
+vertel wat over de groeps projecten
+
+| Opdracht | Topic | A1 | A2 | A3 | A4 | B1 | B2 | B3 | C1 | C2 | C3 |
+| ------------- | ------------- |-|-|-|-|-|-|-|-|-|-|
+| Tech Review | ... | - | 🔵 | - | - | 🔵 | 🔵 | 🔵 | - | 🔵 | - |
+| Ontwerp Review | ... | ⭐ | 🔵 | 🔴 | 🔵 | - | - | - | 🔵 | - | 🔴 | 
+| Eindoplevering | ... | ⭐ | ⭐ | 🔴 | 🔵 | 🔵 | 🔵 | ⭐ | 🔵 | 🔴 | 🔵 |
+| Tech Review 2 | ... | - | 🔵 | - | - | ⭐ | 🔵 | 🔵 | - | 🔵 | - |
+| Ontwerp Review 2 | ... |  🔵 | 🔵 | 🔵 | 🔴  | - | - | - | 🔵 | - | 🔵 | 
+| Eindoplevering 2 | ... | ⭐ | ⭐ | 🔵 | 🔵 | ⭐ | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 |
+
+
+
