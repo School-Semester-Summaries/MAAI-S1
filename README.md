@@ -24,6 +24,17 @@ Bij de beoordeling op je datapunt, kun je 3 verschillende beoordelingen krijgen.
 
 Aan het eind van het semester bepalen de docenten op holistische wijze of je het semester behaald hebt. Dit doen ze apart per leeruitkomst. Zo kijken ze voor leeruitkomst A naar alle sub-leeruitkomsten van A (A1, A2, A3, A4). Als alle 4 de sub-leeruitkomsten van A minimaal Op Niveau, dan heb je leeruitkomst A behaald. Als de sub-leeruikomsten niet leiden naar een duidelijke beoordeling gaan de docenten in beraad om samen tot een conclusie te komen. Uit gesprekken met docenten heb ik vernomen dat individuele datapunten en groeps-datapunten apart van elkaar worden bekeken, én dat individuele datapunten iets belangrijker zijn dan groeps-datapunten. Mocht je individueel alle sub-leeruitkomsten van A onder niveau hebben, maar in groeps alles boven niveau, dan heb je leeruikomst A hoogstwaarschijnlijk niet gehaald. Mocht je alle individuele sub-leeruikomsten van A boven niveau hebben maar in groeps alles onder, dan wordt je waarschijnlijk een bespreek geval.
 
+
+
+# Vakken/Onderdelen
+Er zijn x aantal vakken/onderdelen in het eerste semester: M&T (Statistiek en Machine Learning), Mini-Symposium (Artikels schrijven), Groep Project en het Logbook. Per vak wordt je beoordeeld op datapunten over verschillende sub-leeruitkomsten. Hieronder een overzicht per vak/onderdeel. 
+
+
+## Bootcamp (wip)
+De bootcamp was de eerste week van de master. In deze week ga je met een klein groepje een project casus verzinnen en een model bouwen en die aan het eind van de week presenteren aan de klas. In deze week wordt je nergens op beoordeeld
+
+[link bootcamp dingen]
+
 ## M&T
 We hebben in het eerste semester 4 verschillende M&T opdrachten gehad. In chronologische volgorder: 1a, 2a, 1b, 2b. M&T opdrachten zijn erg belangrijk voor leeruikomst B, aangezien het de enige manier is om de B sub-leeruitkomsten individueel aan te tonen. Hieronder mijn uitwerkingen en behaalde beoordelingen.
 
@@ -49,7 +60,15 @@ vetel wat over het proces van mini symp, D2, D3 belangrijk en miss hier ook iets
 
 
 ## Logbook
+In het logboek houd log je alle feedback die je hebt ontvangen van docenten. Het is in deze opleiding ook de bedoeling dat je zelf actief op zoek gaat naar feedback. Het logboek moet de volgende dingen bevatten volgens de studiehandleiding:
+- Wat de feedback was,
+- Waar deze over ging (bijv. code, samenwerking, onderzoeksaanpak),
+- Hoe dit aansluit bij jouw leerdoelen of ontwikkeling,
+- Wat jij ermee doet (accepteren, aanpassen, nog onderzoeken).
+
+| Opdracht | D1 |
+| ------------- | ------------- |
+| Logboek Blok 1 | 🔵 |
+| [Logboek Blok 1 en 2](./README_old.md) | ⭐ |
 
 ## Group Project
-
-## Bootcamp
