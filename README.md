@@ -124,13 +124,13 @@ Het enige onderdeel binnen coaching met datapunten is het logboek. In het logboe
 | [Logboek Blok 1 en 2](./README_old.md) | ⭐ |
 
 ## Group Project (wip)
-vertel wat over de groeps projecten
+Project 1 ging over automatische leeftijdscontrole aan zelfscan kassa's. Project 2 ging over het versimpelen van gemeentelijke brieven. 
 
 | Opdracht | Topic | A1 | A2 | A3 | A4 | B1 | B2 | B3 | C1 | C2 | C3 |
 | ------------- | ------------- |-|-|-|-|-|-|-|-|-|-|
-| Tech Review | ... | - | 🔵 | - | - | 🔵 | 🔵 | 🔵 | - | 🔵 | - |
-| Ontwerp Review | ... | ⭐ | 🔵 | 🔴 | 🔵 | - | - | - | 🔵 | - | 🔴 | 
-| Eindoplevering | ... | ⭐ | ⭐ | 🔴 | 🔵 | 🔵 | 🔵 | ⭐ | 🔵 | 🔴 | 🔵 |
+| Tech Review 1 | ... | - | 🔵 | - | - | 🔵 | 🔵 | 🔵 | - | 🔵 | - |
+| Ontwerp Review 1 | ... | ⭐ | 🔵 | 🔴 | 🔵 | - | - | - | 🔵 | - | 🔴 | 
+| Eindoplevering 1 | ... | ⭐ | ⭐ | 🔴 | 🔵 | 🔵 | 🔵 | ⭐ | 🔵 | 🔴 | 🔵 |
 | Tech Review 2 | ... | - | 🔵 | - | - | ⭐ | 🔵 | 🔵 | - | 🔵 | - |
 | Ontwerp Review 2 | ... |  🔵 | 🔵 | 🔵 | 🔴  | - | - | - | 🔵 | - | 🔵 | 
 | Eindoplevering 2 | ... | ⭐ | ⭐ | 🔵 | 🔵 | ⭐ | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 |
